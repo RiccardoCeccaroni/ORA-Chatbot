@@ -1,0 +1,370 @@
+# Tesi Programmatiche di ORA!: Innovazione
+
+YouTube: https://www.youtube.com/watch?v=N_jydqv8QXI
+Video ID: N_jydqv8QXI
+Playlist(s): Programmapres
+Transcription: OpenAI Whisper-1 (language=it)
+Duration: 34m51s
+
+---
+
+Dove ci collochiamo? Ma ci collochiamo fra quelli che si assumono la responsabilità di
+quello che fanno. Eccoci qua. Oggi che giorno è?
+
+Martedì? Martedì. Ieri abbiamo saltato, oggi torniamo, domani saltiamo. Ciao Andrea Savi,
+che ci raggiunge da Londra.
+
+Ciao Michele, buonasera, buongiorno a tutti. Allora, domani saltiamo e poi riprendiamo
+giovedì. Questa quindi è la quarta puntata, se non sbaglio forse la quinta, non tengo bene
+i conti, di presentazione delle tesi programmatiche che progressivamente assieme a
+Position Paper stanno salendo sul sito e come ogni giorno e come ogni volta che lo
+facciamo io faccio la parte un po' pubblicitaria dicendo a tutti ricordatevi di
+iscrivervi. Il contatore mi dice che siamo a circa, forse un pelo di più perché alcune le
+manco, a 5.549, però continuiamo a crescere al ritmo di 60-70 persone al giorno nei
+weekend, un pochino di più sarebbe bello crescere a 120 persone al giorno nei weekend.
+
+Fare un po' di scale up nel weekend. Più acceleriamo, più siamo meglio è. E poi lascia che
+dica di nuovo, lo facciamo meno frequentemente che in passato, ma c'è sempre bisogno di
+persone, che facciano, non persone che passino il tempo a criticare anonimamente che non
+aiuta molto o a fare predizioni di tragedie spiegandoci che falliremo di sicuro perché
+siamo degli incompetenti, può essere, però almeno noi ci avremo provato a salvarvi il
+Paese, poi per carità se ve lo volete tenere così com'è, please go ahead e oggi vedremo la
+discussione sull'innovazione piuttosto cruciale. C'è sempre bisogno di persone che si
+offrano di supporto in mille attività, dai social alla grafica anche alle attività locali
+che sono forse le più importanti.
+
+In particolare questo weekend saremo in circa 170 comuni e luoghi italiani con banchetti,
+con gazebo, a raccontarci e a presentarci, quindi invito tutti gli associati che non
+l'abbiano già fatto a partecipare, a contattare i coordinatori locali, insomma a fare
+tutto il possibile per dare una mano ulteriore e a chi associato non è ad associarsi e
+partecipare e partecipare allo stesso. Ho finito lo spottone pubblicitario, veniamo al
+tema della sinossi della tesi programmatica di oggi. Chiamiamo sinossi il breve riassunto
+che pubblichiamo all'inizio, poi c'è lo sviluppo in vari paper per chi vuole approfondire
+e in questi incontri la persona che ha coordinato un po' il lavoro sulle tesi
+programmatiche e il position paper la illustra e io faccio, oltre che la pubblicità, il
+molestatore. Allora Andrea voi sostenete che proprio l'Italia ha perso il treno, cioè
+avete una posizione, la nostra posizione è che proprio per quanto riguarda l'attività di
+innovazione l'Italia letteralmente è fuori dalla competizione globale.
+
+Sì Michele, siamo messi proprio male perché innanzitutto cosa possiamo dire che il termine
+innovazione è stato spesso confuso e viene tuttora confuso con il sinonimo di dare sgravi
+fiscali, ossia io do la possibilità a qualcuno, a qualche categoria di impresa di
+scaricare qualcosa fiscalmente e automaticamente si fa innovazione, ma non funziona così,
+lo sappiamo bene, cioè l'innovazione non si ottiene alleggerendo le tasse ma si ottiene
+creando le condizioni per lo sviluppo di un ecosistema che generi valore, produttività,
+crescita sostenibile e soprattutto a mio avviso è capace di attrarre talenti e
+investimenti dall'estero. Qui è dove in Italia negli ultimi 30 anni abbiamo fatto
+veramente molto male, l'Italia lo sappiamo ha accumulato un ritardo strutturale su tutto
+questo, la produttività del lavoro è cresciuta malapena allo 0,4% annuo di media contro
+l'1,5% della media europea e quindi mentre gli altri paesi correvano noi siamo rimasti
+fermi, immobili, mentre nel mondo nascevano Google, Open AI, Revolut, Mystery AI, Netflix,
+Spotify, noi abbiamo continuato a produrre cucine, scarpe, mobili, tutte cose utili,
+belle, che vanno bene, ma appartenenti a settori a basso valore aggiunto che sono
+difficili da scalare a livello internazionale, infatti rimangono nella maggior parte dei
+casi quello che abbiamo micro, piccole e medie imprese che non fanno innovazione digitale,
+che non investono in ricerca e nel lungo termine tutto questo cosa comporta? Che i margini
+di questi settori tendono a ridursi e la competitività diventa il contenimento dei costi,
+piano piano si inizia a morire e poi si va out of market, questo è quello che è successo e
+sta succedendo in Italia, le cause sono molteplici, il sistema universitario che fa molta
+fatica a trasferire tecnologia al mercato e ad attrarre talenti, il sistema economico e
+normativo poi che spesso frena chi costruisce e premia chi si adatta, un po' la conosciamo
+bene, la mentalità italiana si è fatta così fino ad oggi, dobbiamo continuare a fare così,
+noi siamo forti in determinati settori, lasciamo il tech agli americani, lasciamo
+quest'altra cosa agli inglesi e l'economia rimane sempre immobile e poi abbiamo una
+burocrazia che rende complesso fare ogni passo innovativo in avanti e qual è il risultato?
+Che l'Italia si colloca al di sotto della media europea in termini di innovazione, questo
+è un dato molto preoccupante perché ci dà la misura esatta della nostra competitività e
+della nostra posizione, lasciamo perdere il Regno Unito, la Francia, la Germania, ma paesi
+come la Polonia, la Romania che sono partiti da un livello di sviluppo molto più bassi,
+stanno crescendo rapidamente e si stanno affermando come i veri hub tecnologici attrattivi
+per la ricerca e lo sviluppo internazionale, Google, Apple fanno ricerca e sviluppo lì, in
+Polonia, in Romania, non la fanno in Italia, non la fanno lì perché il costo del lavoro è
+basso, perché la fanno anche in Svizzera, perché la fanno anche nel Regno Unito, la fanno
+lì perché si stanno creando talenti, perché c'è un ecosistema innovativo e quindi noi,
+tutto questo che ho detto è un po' la nostra premessa nella tessi programmatica.
+
+Volevo anche attaccarvi a questo per cercare che le persone comprendano la rilevanza
+dell'innovazione, proprio oggi leggevo una specie di apologia dei grandi gruppi privati
+italiani, come sono efficienti, come sono belli e c'erano alcuni nomi, Ferrero,
+Marciagaglia ed erano tutti barilla, tutti in settori arretrati, in cui i salari però sono
+profittevoli, a parte che poi l'articolo alla fine ammetteva che non esattamente, in
+particolare il gruppo Marciagaglia con gli acciai e altri per la macellazione della carne,
+eccetera, i grandi gruppi erano acciaio a macellazione e distribuzione della carne, due
+gruppi alimentari Ferrero e Barilla, mi pare, e forse una roba di Piastrelle, se non mi
+ricordo più. La parte che credo che proprio non si capisce, questi non solo sono gruppi
+dove sono attività in cui i salari sono bassi e non crescono attività, ma che per stare in
+piede questi gruppi va benissimo, io sono contentissimo per la famiglia Ferrero che
+reggono con l'industria di famiglia, con private equity e così via, per il Marciagaglia,
+va benissimo, non è quello, non sto facendo l'anti... ero per reggele, questi devono avere
+tre quarti della produzione dell'attività all'estero per cercare i salari bassi, più
+bassi, no? Per dire in Italia Ferrero che mondialmente occupa quasi 48 mila persone, in
+Italia ne ha meno di 8 mila, quindi queste cose, lo stesso vale per gli altri che ho
+menzionato.
+
+La rilevanza proprio quotidiana, pratica di vita per l'operaio medio italiano, per il
+lavoratore medio italiano, non per la persona molto ambiziosa che vuole fare il grande
+finanziere internazionale, è cruciale, è assolutamente cruciale. Bearsi di questi grandi
+campioni nazionali, che ripeto va benissimo che ci siano, non è che ci tratta di... perché
+nessuno li vuole chiudere, no? Nessuno li vuole chiudere.
+
+Ecco, però bearsi di questi, senza rendersi conto che invece nei settori che tirano tu non
+ci sei, e dai nei settori che tirano che i salari crescono, è credo drammatico,
+drammatico, drammatico. Mi ricordo anche il dibattito di ieri, che ho detto ieri sul
+ponte, no? E alcune persone che poi mi criticano con cattiverie, che a me lasciano
+indifferente, poverini, mi fanno un po' tristezza, non riescono a capire che la
+celebrazione del passato, mentre vende politicamente in termini di marketing, è una specie
+di apologia di reatto nei confronti di chi lavora, perché un invito a dire a tutte le
+persone che lavoro rimani poveri. Sì esatto, infatti questo lo possiamo vedere
+tranquillamente.
+
+Qui a Londra Google ha comprato nel 2014 DeepMind, adesso ci lavorano 200, quasi 2000
+persone che guadagnano un salario da sopra 100, 150, 200.000 sterline all'anno. Questo è
+quello che ti crea l'innovazione, cioè attività che creano valore aggiunto, alto valore
+aggiunto. Qual è il punto che noi anche nella tesi programmatica abbiamo cercato di
+riflettere? Che ovviamente ci sono alcune aree prioritarie di intervento nel breve
+termine, ma questi interventi devono inserirsi in un contesto più ampio ovviamente, di
+riforme del mercato del lavoro, dell'istruzione, dell'università, della spesa pubblica.
+
+In totale noi abbiamo identificato sei aree dove possiamo andare a toccare, che sono i
+problemi di accesso al capitale di rischio, ossia il venture capital, le università e le
+spin off, gli aspetti legislativi e societari, i grants pubblici, come attrarre le big
+tech, gli investimenti da parte delle big tech e poi la frammentazione del mercato
+europeo, cioè cosa possiamo andare a smuovere e intaccare a livello di Unione Europea. Il
+primo punto, quello dell'accesso al capitale, è probabilmente uno dei più importanti
+perché, e questo ci tengo proprio che il nostro pubblico lo capisca, le banche, il sistema
+bancario non è adatto per finanziare l'innovazione, non è adatto per finanziare le start
+up, serve un capitale predisposto, paziente, che è disposto a sostenere questo alto grado
+di rischio che accompagna ogni processo innovativo. Infatti qual è la caratteristica di
+una start up, di un'azienda che fa innovazione, che nelle fasi iniziali le start up hanno
+pochi dati, poche metriche, ma molte incognite e per questo è necessario un modello di
+investimento specifico, cioè una forma di investimento pensata apposta, che è il venture
+capital, per sostenere queste imprese innovative nella fase early stage, quando hanno
+delle idee ambiziose ma poche certezze da offrire all'investitore e quindi è un modello
+che passa attraverso questa incertezza che accompagna l'innovazione, infatti abbiamo le
+fasi early stage, abbiamo le fasi late stage e che appunto permettono ad una start up di
+iniziare, di scalare e se guardiamo i numeri del rapporto tra investimenti e venture
+capital e il pilo italiano 2019-2024, in media sono stati 0,06%, in Germania 0,26%, in
+Francia 0,27% e nel Regno Unito 0,78%. Che cosa significa Michele?
+
+Che Francia e Germania investono oltre quattro volte di più rispetto a noi e il Regno
+Unito 14 volte di più, la Spagna tra uno e mezzo e due volte di più. In termini assoluti
+le nostre start up nel 2023 hanno raccolto a malapena 1,1 miliardi di euro, nel 2024
+l'anno scorso siamo arrivati a 1,5 miliardi, considera che Mistral.ai, start up francese
+su indicese artificiale, il mese scorso ha concluso un round d'investimento serie C da 1,7
+miliardi, cioè un round d'investimento di una start up francese equivale a tutto il nostro
+sistema innovativo del venture capital. Questo ci dà un po' la misura di dove stiamo e se
+allarghiamo il quadro a livello internazionale... Ma perché non arrivano qua?
+
+In Italia cos'è che manca? Allora, ci sono alcune disparità anche da un punto di vista
+fiscale che in Italia potremmo andare a toccare nel breve termine. Una cosa per esempio
+che forse è poco conosciuta è che nel 2024 innanzitutto l'anno scorso abbiamo registrato
+27 exit di start up italiane verso aziende italiane su un totale di 34 exit, ossia l'exit
+significa quando una start up vende e compra un'altra azienda, oppure se si va all'IPO.
+Quando si vende la start up a qualcuno di più grosso e si recupera un capitale e poi va
+bene, si vende a sé.
+
+Esatto, e l'investitore iniziale ha generato una plusvalenza. Ora, oggi esiste
+un'essenzione dalle imposte sulle plusvalenze per le persone fisiche che investono in
+fonti di venture capital ma solo fino al 31 dicembre del 2025, quindi la fine di
+quest'anno, e con condizioni anche abbastanza rigide, deve aver avuto una partecipazione,
+averla detenuta per almeno tre anni. Ora, come abbiamo detto all'inizio, noi gli sgravi
+fiscali non è che siamo dei fan degli sgravi fiscali, però se c'è una cosa che veramente
+non piace a chi investe non è tanto l'alta fiscalità quanto l'incertezza su quanto deve
+andare a pagare e questa è un'essenzione temporanea, come ho detto scade alla fine
+dell'anno, non si sa quale sarà il suo destino, se verrà prorogata o meno e quindi questa
+è una cosa dove noi possiamo magari intervenire per cercare di inserirla in un contesto
+equilibrato di stabilità fiscale per chi fa le exit. Poi un altro punto riguarda il
+cosiddetto regime del participation exemption, la PECS, ai fondi di Venture Capital.
+
+Che cosa significa? Oggi, come funziona al giorno d'oggi in Italia, il regime PECS
+consente alle società di capitali, come che sono holding o family office, società di
+investimento, cioè tutti quelli che compongono l'infrastruttura di supporto al Venture
+Capital, i cosiddetti limited partners che allocano soldi agli operatori di Venture
+Capital, questo regime consente di escludere dal reddito imponibile il 95% delle
+plusvalenze derivanti dalla cessione di partecipazioni qualificate. Che cosa significa
+questo? Che se io sono un family office è più conveniente per me investire direttamente in
+una start up invece che tramite un fondo di Venture Capital e questa disparità penalizza
+gli investimenti collettivi, VC e limita la crescita del settore, perché ripeto non danno
+capitale di fuoco al professionista, al Venture Capitalist per identificare opportunità
+nel mercato dell'innovazione in Italia.
+
+Ma poi c'è un terzo fattore importante per quanto riguarda il mercato del Venture Capital
+che è il ruolo di cassa depositi e prestiti. Allora, cassa depositi e prestiti, Venture
+Capital è il maggior operatore nel mercato italiano, nel 2023, qualche dato ha
+rappresentato oltre il 53% degli investimenti diretti e ha realizzato più di 150
+operazioni nel 2024, però questo è un dato, possiamo vederlo in due modi, positivo se si
+pensa che il mercato italiano del Venture Capital e dell'innovazione è nato nel 2012 con
+la legge fatta dal governo Monti, prima era zero, adesso qualcosa c'è, siamo arrivati a un
+miliardo e mezzo. Le uniche due cose buone, sostanziali, sono durate del governo Monti, il
+nero e questa cosa. Esatto, che hanno provato almeno creando questo concetto giuridico di
+start-up innovativa di familiarizzare il mercato italiano appunto con il concetto di
+innovazione di start-up.
+
+Però qual è adesso il punto, che Cassa Depositi e Prestiti, VC, a nostro avviso dovrebbe
+agire di più come una struttura di fund of funds, ossia fondo di fondi, per sostenere
+quindi l'ecosistema attraverso co-investimenti. Non ho ben capito, perché volete che anche
+voi mantenere Cassa Depositi e Prestiti in mezzo a questa roba? Allora, perché? Rendete al
+fatto che in Italia sia impossibile fare grande industria innovativa senza il controllo
+del Ministero del Tesoro.
+
+No, però per come è accaduto fino adesso, questo era come funzionava il mercato. Noi
+abbiamo guardato altri modelli di riferimento, come per esempio anche quello che succede
+nel Regno Unito, che c'è il British Patient Capital, oppure anche in Francia. In questo
+caso le Cassa Depositi e Prestiti nazionali, chiamiamole così, creano delle strutture di
+fondi di fondi che sono investimenti indiretti, che adesso Cassa Depositi e Prestiti
+secondo noi fa troppo poco, dovrebbe fare di più e questo creerebbe un pochino un effetto
+un po' stimolante, un effetto leva sul settore, perché se 2 miliardi di euro investiti
+direttamente da Cassa Depositi e Prestiti rimangono 2 miliardi di euro, se invece vengono
+investiti in fondi misti, possono generare magari 3, magari 4, magari qualcosa in più e
+far crescere altri operatori, perché un problema che abbiamo in Italia è che abbiamo pochi
+gestori di venture capital, ce ne abbiamo pochi e questo potrebbe aiutare in parte a far
+crescere. Gli Stati Uniti hanno fatto con Cassa Depositi e Prestiti per crescere
+l'orangio.
+
+La Francia, ma anche il Regno Unito hanno fatto un po' di questo, ma queste non sono
+Michele le maggiori ragioni, perché Francia, Regno Unito e Stati Uniti hanno un ecosistema
+che funziona, questi sono aggiustamenti che noi possiamo fare per migliorare un po' la
+situazione del venture capital. Un altro attore che è fondamentale in un ecosistema
+dell'innovazione è l'università, perché Google è nato come uno spin-off dell'Università di
+Stanford. Il valore economico che genera in trasferimento tecnologico Oxford è di 800
+milioni all'anno. Considera che nel ranking tra le maggiori università europee in computer
+science, engineering e che generano più valore in trasferimento tecnologico, non compare
+un'università italiana.
+
+Cioè l'innovazione alla fine non si fa nei ministeri, sicuramente, il capitale
+contribuisce ma soprattutto si fa nei campus universitari. Quattro università europee
+Oxford, Cambridge, il Politecnico di Zurigo, il Politecnico di Losanna, queste quattro
+generano in termini di valore economico come tutto il valore delle università italiane,
+solo quattro università. Avrei pensato che bastavano le prime tre. Oxford e il Politecnico
+di Zurigo sono due bestie da tempo, gigantesche.
+
+Cambridge si è mossa, ha rotto gli indugi una decina di anni fa e ha smesso di essere un
+po' snob come amava essere e quindi mi sorprende che ce ne vogliano quattro. Hai detto
+Cambridge, per fare un esempio. Si intessa che è un'università pure basata
+sull'intelligenza artificiale che permette agli utenti di creare dei video professionali
+artistici e cinematografici. È nata l'Università di Cambridge da una ricerca di professori
+dell'Università di Cambridge, dell'UCL, University College of London, dell'Università
+Tecnica di Monaco, credo anche di Imperial College, e la settimana scorsa questa start-up
+ha rifiutato tre miliardi di offerta di acquisto da parte di Adobe.
+
+In Italia non ce l'abbiamo, noi abbiamo creato dal 2012 al 2022 2043 spin-off
+universitarie secondo il rapporto Netval del 2024 e sono piccole, considerate che la media
+delle nostre spin-off opera 5-6 persone. Gli uffici universitari del trasferimento
+tecnologico uguali sono uffici altamente burocratici che non fanno business development,
+cioè non facilitano questo processo di trasferimento tecnologico dall'università
+all'impresa. Questo è un problema e qui per esempio cosa si potrebbe fare? Ci sono dei
+modi, un problema grande di chi fa spin-off in Italia è che se tu fai una spin-off e vuoi
+raccogliere capitale privato esterno, tu non vuoi avere l'università all'interno della
+struttura societaria della spin-off, perché?
+
+Perché non è chiaro come avviene la distribuzione degli equiti tra chi investe e
+l'università. Cosa hanno fatto per esempio qua nel Regno Unito? Nel Regno Unito hanno
+fatto una cosa molto semplice, le maggiori università si sono sedute attorno a un tavolo
+insieme ai rappresentanti di categoria del venture capital e del private equity e hanno
+creato delle linee guida private, si chiamano Usage Guidelines che permettono a chi
+investe e a chi fa una spin-off di sapere con esattezza la term sheet, la cap table, a chi
+viene allocato cosa a seconda della tipologia di spin-off, a seconda della tipologia di
+investimento. Quindi questo crea chiarezza ed è fatto in maniera privata a costo zero.
+
+Dopo ci sono anche altre cose che possiamo andare a fare per quanto riguarda le nostre
+università. La cosa più banale per l'università, che io continuo a pensare sia essenziale,
+che è ciò che rende, che dà a Cambridge la capacità di fare le cose che hai descritto e a
+Oxford di fare ancora di più e così via. L'autonomia finanziaria e gestionale. Esatto, ci
+stavo arrivando.
+
+No, perché voglio dire, questi disgraziati, a me sono concesso che abbiano anche la
+cultura adeguata, che ancora non ce l'hanno e lì c'è un altro problema, ma lo discuteremo
+quando discuteremo l'università, vogliono provarci a fare impresa, a fare innovazione, a
+trasferire effetti della ricerca in attività economica. Bisogna che abbiano anche la
+capacità di farlo, di decidere, di prendersi i rischi e ricevere i reward. Se è tutta una
+procedura burocratica in cui dipendono dal ministero, non si capisce perché dovrebbero
+smazzarsi. E sì, infatti, Michele, questa ovviamente è una proposta del nostro gruppo
+università, però oltre il 60% dei finanziamenti universitari deriva da fonti pubblici che
+sono distribuiti secondo criteri storici e solamente una minima parte invece è
+distribuita, credo che sia meno del 30% secondo criteri storici, esatto, pochissimi,
+quindi si distribuisce a fioggia non distinguendo tra quali sono le università che creano
+ricerca, che riescono appunto a creare più spin off, come invece accade nel Politecnico di
+Zurigo in Svizzera.
+
+Questa è una cosa fondamentale. E poi c'è un altro aspetto che è importante, anzi ce ne
+sono due che vorrei riuscire a menzionarti, Michele. Uno è come sono stati allocati finora
+i cosiddetti grants, i grants pubblici, ossia che sono queste sovvenzioni, aiuti economici
+a fondo perduto che vengono date alle aziende. In generale sono distribuiti da Invitalia
+che è la principale agenzia per la gestione dei fondi pubblici.
+
+Tu consideri qual è stato secondo te il grant, anzitutto qual è stato il criterio
+geografico principale per la distribuzione dei grants in Italia? Scommetto che lo so, è il
+criterio di essere indietro, in Italia agliutiamo sempre i deboli, peccato che li
+confondiamo, prendiamo per i deboli e fanno un lone. Esatto, infatti è stato il grant
+Restosud che è durato dal 2018 fino all'occasione. Lo sai che a un certo punto, quando lo
+scoprì nel breve periodo in cui facevi i visiti, scoprì che avevano dei grants
+d'eccellenza e quindi venivano dati a seconda dei field, delle facoltà.
+
+I grants d'eccellenza per la ricerca d'eccellenza andavano dati all'università. A un certo
+punto la cosa divenne che ogni università doveva avere almeno un dipartimento
+d'eccellenza. Era proibito non essere eccellente. Quindi ogni università aveva almeno un
+dipartimento d'eccellenza, tutti eccellenti.
+
+Sì, quindi lì sull'università c'è tutto lavorato, ma torniamo allo specifico
+dell'industria, in particolare per chiudere anche un po'. Il sistema finanziario, tu dici
+che le banche sono d'accordo, però perché? Quanto è oligopolista il sistema bancario
+italiano e che ruolo gioca nel tenere fuori un certo tipo di attività di investimento, di
+capitale di rischio, di venture capital? O non gioca un ruolo del tutto e le ragioni sono
+altre per cui non vengono?
+
+Secondo me le ragioni non è tanto nel senso perché crea un monopolio il sistema bancario
+italiano, perché proprio non c'è l'expertise e anche da un punto di vista culturale è
+difficile per un italiano allocare capitale a un fondo di venture capital. Ad eccezione di
+qualcuno sono fondi gestiti dal sistema bancario che hanno una propensione a rischio
+diversa. Negli Stati Uniti chi gestisce un VC ha fatto impresa, cioè lui è il primo che ha
+fatto una start up, ha fatto una buona exit, ne ha fatta un'altra, ha mucchiato capitale e
+ha aperto il suo fondo di venture capital. Questo è il discorso della serialità degli
+investimenti che noi qui ancora non abbiamo, cioè si sta creando qualcosina ovviamente
+intorno all'area di Milano, ma non è lontanamente paragonabile rispetto, ma lasciamo
+perdere la Silicon Valley, ma anche la Spagna, ma anche la Francia, ma anche la Germania,
+ed è proprio qui che bisogna capire che esiste una nuova asset class in Italia, perché nel
+mondo è vecchia, gli Stati Uniti hanno cominciato con il venture capital negli anni 70,
+nel Regno Unito negli anni 90, noi più tardi nel 2012, però la Spagna pure ha iniziato
+come noi e stanno avanti 1,5 volte di più.
+
+Bisogna mettere appunto l'innovazione al centro della sfera politica e far capire alle
+persone che i risparmi pure vanno, possono essere allocati a gestori di fondi privati,
+tuttavia questo è anche un punto Michele a livello europeo, a livello di Unione Europea,
+infatti noi abbiamo firmato, siamo fieri firmatari come ora di questa petizione EU-Inc che
+facilita la creazione, che incoraggia la creazione di un ventottesimo regime per le
+start-up che sia pragmatico, perché? Perché un problema pure che abbiamo è che per un
+fondo di venture capital francese o italiano o tedesco rimane molto difficile ricevere un
+investimento da parte di un fondo pensione oppure da un family office di un altro paese,
+perché ci sono delle regole precise a livello europeo per gli investimenti trasfrontalieri
+e quindi creare una struttura societaria unica, un ventottesimo regime che per me è
+opzionale per chi fa impresa innovativa, pure questo è un piccolo tassello pragmatico,
+perché lasciamo perdere gli Stati Uniti e Europa, questi discorsi astatti, ma questo
+semplifica la vita a chi fa innovazione, a chi fa impresa in Europa, creare un unico
+regime societario che riduce la burocrazia e la governance. Secondo te quanti… supponi che
+chiudiamo con una nota positiva, perché così stressa anche l'importanza dell'orizzonte
+temporale e della capacità che spero gli associati hanno e chi si associa a pensare, non
+dico al lunghissimo periodo, ma al medio, il fatto che siamo qua, specialmente voi più
+giovani di me, non voglio impegnarmi troppo, siete qua per il lungo periodo. Secondo te,
+supponi che vai al governo, ti facciamo ministro dell'innovazione e dello sviluppo
+economico, di quanti anni hai bisogno per addirizzare un attimo il sistema, lascia stare
+l'università, l'università la diamo a un'altra persona, quanti anni di provvedimenti, di
+modificazioni sono necessarie per avere una roba che assomiglia alla fatica?
+
+Guarda, 3-4 anni, ma anche per arrivare simile alla Spagna, perché se andiamo a guardare i
+dati, guardiamo la Spagna, dove era 4 anni fa… E fino a quei comunisti degli spagnoli sono
+meglio. Esatto, coincide che noi abbiamo fatto… Ma vorresti dire che Pedro, quel brutto
+comunista è più sveglio della Meloni? E mi sei diventato comunista anche tu Andrea, è una
+roba tremenda. Hanno un'economia più di scala e hanno un sistema finanziario di venture
+capital più di scala rispetto al nostro, e lo hanno fatto.
+
+Noi abbiamo fatto, come abbiamo detto, leggere le start-up del 2012, loro leggere le
+start-up simili alla nostra l'hanno fatta nel 2023, due anni fa, e sono, ripeto, 1,5
+volte, due volte superiori in termini di investimenti in venture capital. Con un paese che
+è due terzi del nostro importo. Con un paese che è due terzi del nostro. L'Inghilterra è
+una popolazione abbastanza più grande, stesso per la Francia, la Francia e la Spagna è una
+popolazione di 47, 48 a 10 milioni di persone meno di noi, circa, 11.
+
+Va bene, quindi ok, prometta, quindi se riusciamo a mandarlo al potere nel 2027 sarà dura,
+magari con un paio di azioni anticipate nel 2030, per il 2035, Andrea. Senti, grazie.
+Grazie a tutti e associatevi, fatevi vedere i banchetti questo fine settimana. Ciao caro,
+grazie a tutti.

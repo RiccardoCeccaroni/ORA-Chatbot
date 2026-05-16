@@ -1,0 +1,92 @@
+---
+id: 2025-10-25__01__newsletter-ora-del-25-ottobre
+type: newsletter_section
+attribution: party
+parent_newsletter: 2025-10-25
+section_index: 1
+section_title: "(intero numero)"
+tesi_alignment: null
+section_speaker: null
+title: "Newsletter ORA del 25 ottobre"
+date_published: 2025-10-25
+date_scraped: 2026-05-10
+gmail_thread_id: ""
+source_note: pdf-extraction
+parent_co_speakers: []
+content_hash: 9b043ad71803eb646e649a2c41822c251e3b55baa2dd5878f17f38d030a368f2
+corpus_status: exclude
+---
+
+Caro iscritto,
+Negli ultimi giorni abbiamo attraversato l’Italia con il Tour del Coraggio dell’Alternativa :
+sette tappe da Nord a Sud , decine di ospiti e centinaia di partecipanti che hanno riempito sale e
+piazze per discutere con il Segretario Michele Boldrin e Matteo Hallissey insieme ad amministratori
+locali, esperti e membri della società civile.
+È stato un viaggio fatto di ascolto e confronto, che ha dimostrato una cosa semplice ma
+fondamentale: in questo Paese c’è bisogno e voglia di un’alternativa vera, pragmatica, razionale
+e concreta.
+Viviamo un tempo in cui dire l’ovvio sembra diventato rivoluzionario.
+Aumentare la produttività e la concorrenza, investire nell’università e nella scuola, supportare
+
+le popolazioni aggredite in Ucraina e a Gaza non dovrebbero essere scelte coraggiose. Eppure
+oggi, in Italia, lo sono.
+Il Coraggio dell’Alternativa è stato un viaggio tra idee e proposte per un’Italia e un’Europa capaci di
+guardare avanti. Un tour che ha unito riflessione e partecipazione, energia e contenuti, e che ha dato
+voce a un’Italia che vuole tornare a contare.
+🎥 Trovi i video degli eventi sul nostro canale YouTube (in continuo caricamento)
+🎯 L’8 novembre scendiamo in piazza in tutta Italia!
+È il momento di raccontare chi siamo, di mostrare che esiste un’Italia che non si rassegna, che vuole
+partecipare e contare. Saremo presenti in molte città e paesi, insieme a iscritti, simpatizzanti e
+cittadini che condividono i nostri obiettivi.
+📍 Vuoi esserci anche tu?
+Contatta il tuo coordinamento regionale ORA! per sapere dove saremo e come partecipare.
+Porta la tua voce, la tua esperienza, la tua voglia di cambiare le cose.
+💡 ORA! è partecipazione attiva.
+Essere parte di ORA! significa non restare spettatori davanti al declino italiano. Rinnova la tua
+iscrizione per il 2026 e contribuisci a costruire un progetto politico serio, aperto e concreto.
+👉 Rinnova la tua tessera ORA! 2026
+ORA! – Il Coraggio dell’Ovvio
+Caro iscritto,
+🔔 Campagna iscrizioni 2026 aperta! 🔔
+È il momento di rinnovare il tuo impegno ORA!
+Se ti sei iscritto prima del 18 maggio 2025, la tua iscrizione è valida solo fino all 31 dicembre 2025.
+Se vuoi continuare a costruire un'alternativa politica per l'Italia anche nel 2026, completa la nuova
+iscrizione seguendo questi passaggi:
+1️⃣ Vai nell’area associati del nuovo sito 👉 https://app.ora-italia.it/associati
+2️⃣ Completa la nuova iscrizione
+3️⃣ Riceverai un'email con username e password temporanea per completare la creazione
+dell'account e compilare la tua scheda personale
+
+ℹ La nuova area riservata è vuota per ora: la migrazione dei documenti dalla vecchia su
+movimentodrindrin.it è in corso (l'accesso rimane disponibile).
+⚠ Nota importante : per iscriversi al 2026 non esiste una funzione “reiscrizione”, né nella nuova né
+nella vecchia area riservata: bisogna tesserarsi sul sito di ORA!. Inoltre, le vecchie credenziali non
+funzionano nel nuovo sito!: serve creare un nuovo accesso, effettuando la nuova iscrizione.
+Tour Il Coraggio dell’Alternativa e altrie venti
+Non perderti le tappe del tour Il Coraggio dell’Alternativa, che vede come protagonisti il nostro
+segretario Michele Boldrin, il presidente di Radicali Italiani e +Europa Matteo Hallissey, e altri ospiti di
+calibro nazioale e internazionale.
+Registrazione del 14 ottobre – Bologna
+Gaza e Ucraina: perché difendere i diritti umani?
+https://www.youtube.com/watch?v=w-wTNmYvc5c&t=1652s
+🔹 18 ottobre – Milano
+Europa: Quale ruolo per l’Unione in un mondo in conflitto?
+H 17:30-19:45, Sheraton Milan San Siro - Via Caldera 3
+https://luma.com/cda-milano-europa
+🔹 21 ottobre – Napoli
+Gaza e Ucraina: perché difendere i diritti umani
+H 18:00-20:00. Teatro “Il Piccolo” - Piazzale Vincenzo Tecchio 3
+https://luma.com/cda-napoli
+🔹 22 ottobre – Roma
+Politica economica del governo Meloni
+H 18:00-20:00. Centro Convegni Carte Geografiche - Via Napoli 36
+
+https://luma.com/cda-roma
+🔹 26 ottobre – Torino
+Immigrazione ed emigrazione
+H 18:30-19:30. Associazione Teatrale Orfeo - Corso Moncalieri 18
+https://luma.com/cda-torino (con evento aggiuntivo dalle 17.00 https://luma.com/5ul92hog)
+I territori sono partiti con decine di eventi in tutta Italia: partecipa in quello più vicino!
+https://luma.com/calendar/cal-lVomkRM3sE3cYLJ
+A presto,
+Team ORA!

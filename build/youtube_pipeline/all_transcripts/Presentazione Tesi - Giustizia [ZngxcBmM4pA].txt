@@ -1,0 +1,492 @@
+# Presentazione Tesi - Giustizia
+
+YouTube: https://www.youtube.com/watch?v=ZngxcBmM4pA
+Video ID: ZngxcBmM4pA
+Playlist(s): Giustizia
+Transcription: OpenAI Whisper-1 (language=it)
+Duration: 46m42s
+
+---
+
+Dove ci collochiamo? Ma ci collochiamo fra quelli che si assumono la responsabilità di
+quello che fanno. Buonasera a tutte e tutti quanti, o buongiorno o buon pomeriggio, a
+seconda di quando vedrete questa diretta. Continuano le nostre presentazioni delle tesi
+congressuali.
+
+Stasera abbiamo il team giustizia, una cosa assolutamente importante, non vediamo l'ora di
+sentire che cosa hanno da proporci. Vi ricordo, e poi lascio lo spazio a loro perché non
+siete qui per ascoltare me, di sostenerci. Vedete qui da basso il link e ovviamente, se
+non siete iscritti al Movimento Futuro Partito, di iscrivervi. Adesso introduco i
+delegati.
+
+Eccoci qua e buona discussione. Grazie mille, grazie Carlo, mi unisco ai buonasera e
+buongiorno. Parto subito dicendo che la giustizia è un po' uno di quei temi, se si può
+chiamare tema, che non si possono e non si devono affrontare con gli slogan. Un campo
+difficile, pieno di nodi complessi ed è letteralmente uno di quei settori in cui il
+diavolo è nei dettagli.
+
+Anche per questo il gruppo Giustizia Trending ha lavorato anche con un laboratorio, non
+per iscrivere i codici da cima a fondo con una velleità quasi da neoilluministica, ma per
+tentare anche di costruire e di sperimentare un metodo, o forse applicare un metodo. In
+realtà non bisogna inventarsi quasi nulla, ma spesso basta guardare anche fuori e imitare.
+Noi l'abbiamo fatto guardando innanzitutto, imitando, tentando di imitare, di introdurre
+un metodo nuovo di come pensare alla riforma e non tanto come spesso accade tentando di
+trapiantare in modo un po' casuale soluzioni da fuori, un po' secondo il gusto, un po' se
+volete secondo la moda. E quindi le tesi che presentiamo oggi servono innanzitutto a
+fissare una possibile direzione generale, che è un po' il compito in questa fase.
+
+E poi il lavoro vero sarà quello sui dettagli, in parte quello che è già avvenuto o che è
+comunque in corso e che appunto trova un primo punto di arrivo nei position paper. Io
+introduco ovviamente a nome del nostro coordinatore tematico e ora con delega alla
+giustizia Peppe Ferlisi, che ha coordinato il gruppo tematico e che oggi non è qui, e con
+me ci sono Danilo, Alessia Marciso, Danilo Tozzi, Francesco Capitani, Riccardo Garippa,
+Giorgio Toia e Sonia Graziani che ci raggiungerà e sicuramente conoscete tutti i delegati
+che hanno contribuito alla fase tematica e o alla stesura finale su Gitano. A me compete
+diciamo anche fare una piccola introduzione su una parte della tesi e cioè la parte che
+diciamo si può chiamare questa sì con uno slogan ma invece darò i dettagli su che cosa si
+intende, cioè cambiare meno, cambiare meglio o sul metodo delle riforme. Che vogliamo
+dire?
+
+Partiamo da una constatazione semplice nel senso che in Italia non sono mancate certamente
+le riforme e non sono certamente mancate le leggi, abbiamo prodotto anzi più leggi,
+revisioni, decreti, codici, forse chiunque altro, abbiamo spesso cambiato i nomi, abbiamo
+cambiato le procedure, i titoli delle leggi e quando si guarda i risultati la sensazione è
+che tutto questo cambiamento non abbia prodotto molto, una casa ristrutturata troppo
+spesso, troppo in fretta, a volte senza l'intenzione di cambiare davvero. Allora perché
+cambiare meno e cambiare meglio non sia solo uno slogan ma sia un cambio di metodo è
+necessario interrogarsi se è mancato qualcosa sul metodo delle riforme, riforme molto
+spesso fatte sull'onda dell'urgenza o della propaganda, molto spesso fatte senza
+considerazione degli impatti, non solo della norma nel contesto delle norme, questo i
+giuristi un poco lo sanno fare e lo fanno anche bene, cioè di capire come una norma si
+cala nel contesto e nel sistema delle norme, ma anche di quali sono gli impatti, gli
+impatti in termini economici, in termini di bilancio, gli impatti delle misure per gli
+obiettivi che le stesse misure vorrebbero perseguire. Ovviamente qualsiasi soluzione
+proponessimo per un problema di questo tipo non potrebbe essere una soluzione definitiva,
+una soluzione di rimente, è un mix di idee, è un mix di proposte ed è un mix di possibili
+piccole soluzioni parziali che forse possono concorrere a migliorare, a riorientare il
+metodo delle riforme. Per esempio la valutazione normativa, la valutazione normativa è
+dell'impatto della legge sulla società, sull'economia, quello che sia, sull'ambiente,
+fatta ex ante, quindi sulla base delle stime di quello che ci si attende, è fatta ex post,
+cioè misurare l'impatto atteso, questo vuol dire che sia i giuristi devono imparare a
+dialogare con i non giuristi, per esempio con metodi quantitativi e sia forse anche gli
+studiosi di metodi quantitativi devono imparare anche a dialogare con i giuristi e con il
+loro linguaggio complicato.
+
+Si può pretendere o si può indurre, come dire, una maggiore chiarezza dei testi
+legislativi anche eventualmente rifacendosi a standard, a linee guida, più o meno
+vincolanti, a strumenti digitali che traccino in modo il più possibile trasparente le
+modifiche ai testi di legge. Lo vedremo, questo è un esperimento che abbiamo fatto anche
+all'interno con i tentativi e con i successi nei termini di versionamento delle proposte,
+dell'uso. Noi ci siamo affidati a una piattaforma, GitHub, per questa fase finale, ma già
+avevamo iniziato nel momento dei gruppi tematici. Un mix di soluzioni per tentare di
+raggiungere questo fantomatico obiettivo della semplificazione normativa, il
+coinvolgimento e anche l'ascolto degli stakeholder coinvolti nei processi di riforma.
+
+Le leggi non devono essere scritte solo nei ministeri e corrette rimaneggiate nei
+tribunali. Eventualmente anche strumenti innovativi, come quello della sperimentazione,
+cioè provare le regole, si dice, in sandbox, in cassette di sabbia, ed è un modello che
+già funziona in Europa e nel mondo in alcuni ambiti, in alcuni settori determinati e, tra
+l'altro, è un modello, tra le poche cose forse da guardare con interesse, almeno a
+giudizio personale, del regolamento dell'intelligenza artificiale, è un modello che
+addirittura l'Unione Europea ci suggerisce per il digitale, cioè immaginare degli spazi in
+cui si provi una certa normativa, spesso anche deregolamentando o semplificando le regole,
+e poi si valuti, e qui torna la questione della valutazione ex-ante o ex-post, se il
+tentativo, se la sperimentazione abbia raggiunto un risultato, magari non ottimo, ma
+migliore nella comparazione. Per tutto questo forse potrebbe servire o il potenziamento di
+un'autorità indipendente, noi abbiamo già l'ufficio parlamentare di bilancio che fa un po'
+questo lavoro, anche se limitato solo al bilancio, oppure anche un'autorità indipendente
+di supervisione normativa. La proposta ha quasi una provocazione, ma non vuole essere
+soltanto una provocazione, perché no, noi abbiamo una Camera che in realtà si sarebbe
+dovuto occupare di fornire un elemento qualitativo, di sostegno al processo legislativo,
+anche di miglioramento dell'iniziativa legislativa che era il CNEL e che non sempre ha
+dato dei risultati soddisfacenti nel corso degli ultimi anni.
+
+Dicevo, questa proposta non nasce dal nulla, perché in parte questo metodo lo stiamo
+sperimentando già dentro, o questo mix di soluzioni possibili le stiamo provando già
+dentro al nostro partito, tentando appunto di mettere in dialogo il mondo dei giuristi, il
+mondo del diritto, con il mondo dei sacri quantitativi, con il tema della valutazione e
+dell'impatto, con l'idea di non fare più leggi, ma misurare le leggi prima di farle, dopo
+averle fatte, ed eventualmente di sperimentare soluzioni alternative che siano il più
+possibile minimane sulla base della considerazione che appunto non ci sono mancate le
+leggi in Italia. Io mi taccio subito e vorrei dare la parola a Giorgio, che penso ci
+parlerà di magistratura, se non sbaglio. Non sbagli, ottimo. Prima è proprio detto che non
+dobbiamo limitarci ad importare modelli esteri e infatti io procederò a proporre di
+importare un modello estero, quindi è stata questa l'oggetto di notte.
+
+Scherzo ovviamente, è stata ragionata la scelta. Tutti lo sappiamo, la giustizia italiana
+è veramente inefficiente, è tra le più inefficienti al mondo e per una economia sviluppata
+è qualcosa che ancora fa orrore. Se voi andate sul CPEJ del Consiglio d'Europa, comunque
+voi troverete che l'Italia sta riducendo il backlog, ma rimane ancora davvero
+inefficiente. Ci sono vari motivi che si possono trovare, certo trovare solo una causa
+sarebbe riduttivo, ma quello che prima mi viene in mente chiaramente è il personale delle
+corti, cioè sono quelli che fanno funzionare quelle macchine che sono le corti.
+
+Questo gli italiani devono capirlo, cioè le corti sono delle piccole aziende che producono
+giustizia e i giudici sono fondamentali, perché i giudici hanno anche il ruolo di manager
+di queste piccole aziende. Quindi ho pensato innanzitutto a questo e prima cosa vorrei
+proporre una riforma di concorso per l'ingresso alla magistratura. La proposta arriva da
+uno spunto che penso che bene si possa adeguare al nostro sistema. Questo spunto vorrebbe
+l'istituzione di un unico ente che forma i magistrati.
+
+Questo modello ci porterebbe più vicini ad esempio alla Francia. La Francia ha
+un'accademia che forma i magistrati e poi quest'accademia svolge poi anche funzioni di
+formazione continua degli stessi. La prima mossa sarebbe quella di mettere un primo esame,
+non basato solo sui voti, immediatamente dopo la laurea. In questo modo vi sarebbe un
+primo filtro, un modo da selezionare chiaramente gli studenti più effettivamente bravi, ma
+questo è fondamentale, in modo che poi dopo tutti quegli anni in cui la maggior parte di
+quelli che entrano in magistratura studiano attraverso le scuole private, dopo gli anni di
+formazione nelle scuole private non si arrivasse a intasare il sistema dei concorsi con
+tantissimi tentativi e con un piccolissimo tasso di riuscita.
+
+Quindi una prima selezione per selezionare subito quelli più, gli studenti più brillanti e
+poi un unico ente che gestisca la formazione e riprendendo quella esperienza virtuosa
+dunque degli stage presso i tribunali, permettere a questi studenti questa accademia di
+fare formazione con i magistrati, quindi iniziare subito a mettere in pratica quello che
+si è studiato, quindi essere subito gratificati del proprio studio e iniziare subito ad
+apprendere il mestiere e poi anche formazione a quello che sarà l'esame finale dopo tre
+anni all'incirca. Ho preso il costo che adesso ho raggiunto ad avere dall'accademia
+francese è di 50 milioni di euro all'anno, è un costo che penso che l'Italia debba avere
+il coraggio di sostenere, queste sono le spese giuste, sono le spese che puntano al
+futuro, alla formazione soprattutto di personale così strategico come i magistrati. Il
+secondo punto è quello della valutazione della professionalità, la magistratura italiana
+ha una gestione del personale molto accentrata sul CSM, abbiamo un sistema peculiare, io
+invito tutti a riflettere su questo punto, mi sembra che sia una cosa che a volte è un po'
+trascurata, a parte che non è una necessità il fatto che il CSM abbia questa indipendenza
+nella selezione, quindi nell'assunzione dei magistrati e nelle promozioni e nelle
+valutazioni di professionalità, non è un esigenza, non è una necessità, è una contingenza
+legata a delle dinamiche politiche che si sono sviluppate negli anni settanta in Italia.
+Io penso che il CSM debba avere il coraggio di far capire questo, andare oltre magari gli
+slogan della destra sulla magistratura e dire che il problema della magistratura è un
+problema di personale, è un problema di personale, è il personale che deve essere formato
+e deve essere valutato in modo vero.
+
+Adesso in questo momento le valutazioni di magistratura sono un setaccio tinto, perché non
+si basano, vedete la normativa nell'ordinamento giudiziario, è un articolone gigante con
+tantissimi criteri, mi viene in mal di testa solo ricordarmelo, anzi non è anche
+ricordarmelo, è leggermelo, viene in mal di testa, ma alla fine le valutazioni di
+professionalità sono passate da quasi la totalità dei magistrati. Avere rilevazioni è
+difficile, ci sono degli studiosi che hanno avuto anche il coraggio di farlo, io mi sono
+basato soprattutto sul grande lavoro di Federico, e sono valutazioni che fanno boccio,
+purtroppo l'ho detto. Sarò cattivo con i tempi, così riusciamo a parlare tutti. Io
+sicuramente che ho sfasato, perdonami.
+
+No, quando mai. Allora, però non vogliamo riformare solo l'accesso alla magistratura, ma
+vogliamo vedere anche se c'è un modo di razionalizzare gli uffici, forse le sezioni. Penso
+che di questo ci voglia parlare Alexia. Certo, buonasera.
+
+Mi sentite? Scusate, ho avuto problemi di connessione prima. Mi presento, sono Alexia
+Narciso, delegata per Napoli, sono un avvocato. Ricollegandomi però al discorso di prima,
+possiamo analizzare una delle possibili soluzioni per rendere il nostro sistema
+giudiziario più efficiente, considerando le sezioni specializzate in materia di impresa,
+che sono state istituite nel 2012.
+
+Queste sezioni specializzate ovviamente favoriscono un'alta specializzazione dei
+magistrati e la nostra proposta è quella di potenziare il funzionamento di queste sezioni
+specializzate per rendere il sistema giudiziario più efficiente, quindi aumentare la
+competitività delle imprese italiane e anche attrarre eventualmente investitori stranieri.
+Una riforma in tal senso potrebbe prevedere un ampliamento dell'elenco delle materie di
+competenza delle sezioni, quindi estenderle per esempio alle controversie in materia di
+società di impresa, società di persone scusatemi, quindi non solo alle controversie in
+materia di società di capitali. Poi certamente va potenziata la struttura organizzativa,
+quindi va ampliato il numero di magistrati addetti a queste sezioni specializzate, così
+come tutto il personale di sopporto e vanno previsti dei programmi di formazione continua
+per i magistrati che se ne occupano e certamente bisognerà prevedere anche un
+potenziamento delle infrastrutture tecnologiche, senza le quali ovviamente non può
+funzionare. Quindi questa sarebbe una soluzione a costo quasi pari a zero, insomma, per
+accelerare determinati processi e quindi favorire anche le decisioni in modo tale che
+siano decisioni adottate da magistrati altamente competenti in materia.
+
+Ottimo Alessia, allora abbiamo sentito una giurista, un avvocato dal volto umano, ora ne
+sentiamo uno dal volto disumano, ben più cinico, l'avvocato Danilo Tozzi ci parla di
+processo civile, che si può fare col civile, materia che diverte tutti notoriamente.
+Grazie a tutti ragazzi, sì vabbè dai mi porto questa nomea del cinico, ma la realtà parla
+chiaro, cioè sono i dati a parlare chiaro. Farò giusto per non annoiare nessuno due
+riferimenti numerici che noi siamo riusciti a riportare in tp e sono i seguenti. Noi
+dobbiamo considerare il netto ritardo della nostra giustizia con tutte le conseguenze che
+esporremo, che già hai esposto in parte tu Francesco, sui dati di confronto con l'Unione
+Europea e poi vi spiego anche qualcosa su questi dati perché i numeri non la dicono tutta.
+
+La grada media di un primo grado di giudizio nel civile in Italia è di ben 540 giorni a
+fronte dei 239 che sono la media del resto dell'Unione Europea. In seconda istanza non
+siamo molto lontani perché sono più o meno 753 giorni a fronte dei 750, ma c'è un ma
+perché questo dato come andrebbe letto? La media non tiene in considerazione, innanzitutto
+540 giorni conveniamo che sono quasi due anni, ma non tiene conto del periodo di
+sospensione feriale quindi dovremmo già giungerne 60, anzi 62, 31 del primo agosto del
+primo anno e dell'altro, ma in particolare è una media fra tutti i tipi di riti che noi
+abbiamo in Italia e non tutti i paesi UE hanno tutti i nostri tipi di riti e micro riti,
+cioè perché viene considerato il decreto ingiuntivo che se è vero che a Tempio Pausani e
+Cagliari può impiegare un giudice dai 9 ai 12 mesi per un'ingiunzione di pagamento, ci
+sono anche tribunali dove bene o male in qualche settimana, in un mese si riesce ad
+ottenere, poiché la demissione di un provvedimento rientra in questo conteggio, ma
+sappiamo bene che la grada di un giudizio ordinario che è quello al quale principalmente
+ha accesso la moltitudine dei cittadini è ben più alta di questi 540 giorni, si parla per
+non andare in legge pinto e quindi in tutte le conseguenze della ritardata giustizia di
+almeno 5 anni, ma non è quasi mai così, in molti fori è impensabile avere una sentenza di
+primo grado in 5 anni, questa è la vera tempistica, cioè leggere il dato sui 540 giorni di
+per sé potrebbe anche non essere così grave, il problema è che nella realtà è ben peggiore
+il dato, perché è chiaro anche nell'appello quando ci dicono 753 giorni sui secondi gradi,
+ma si considerano anche i reclami in Italia, i reclami alle ordinanze che in un paio di
+mesi molto spesso vengono definiti, quindi vanno ad accorciare incredibilmente quella che
+è la media delle impugnative e dei secondi gradi di giudizio, quindi è un dato diciamo,
+tra paredi se fosse così realmente questo sarebbe anche un ottimo dato, ma non è il dato
+reale. Vi porto solo giusto un esempio per non rubare troppo tempo a nessuno, è di ieri,
+ancora dovevamo insomma definire la call in live di oggi, ma è di ieri un provvedimento
+che ho personalmente ricevuto, non dico il magistrato ma posso dire il Tribunale, su
+Tivoli mi hanno risposto dopo il secondo rinvio in precisazione delle conclusioni, per chi
+non è della materia la causa è finita, si aspetta sostanzialmente la sentenza, al secondo
+rinvio mi è stato risposto che il PNR adesso da la precedenza per il Tribunale di Tivoli
+ai 16, 17 e 18, quindi rendiamoci conto i procedimenti che hanno 9, 8, 7 anni di vita, poi
+ci sarà l'altro rinvio e l'ultimo rinvio sarà quello di questa causa che è nativa a 2024,
+quindi mi è stato detto il prossimo rinvio lo diamo alla fine del 2028, ma molto
+probabilmente per quello che già mi ha anticipato il magistrato non andrò a sentenza nel
+2028, perché forse starò completando il rinvio precedente a tuo, cioè 2021-2022, questo è
+il livello oggi della giustizia, quindi non è una giustizia.
+
+Danilo, grazie, sono tutti sempre molto divertiti dei racconti del processo civile, io ti
+interrompo perché altrimenti le persone giustamente si iscrivono a qualsiasi altro
+movimento o partito, perché è il nostro e invece... No, io mi starei alla risoluzione,
+insomma... Dacci due frasi sulla risoluzione. Sì, vi do due frasi, la cosa sarebbe in
+realtà più semplice a costo zero, cioè quello che noi proponiamo è di eliminare tutte le
+centinaia di diritti e di complessità inutili che abbiamo, quando abbiamo invece un tipo
+di rito che funziona da quando è stato introdotto e sta funzionando bene, che è quello del
+lavoro, quindi un rito che in due anni quasi sempre riesce a dare una risposta ai
+cittadini, ampliarlo a tutti i libidi consensuosi e lasciare poi, per tutto quello che è
+documentale, di pronta, immediata soluzione e di urgenza, un unico rito cautelare uniforme
+che possa consentire di avere un accesso alternativo ad un rito cosiddetto ordinario.
+
+Solo con una mossa del genere noi andremmo a ridurre le tempistiche di oltre il 50 per
+cento, perché sarebbe... Non è poi una volontà del magistrato. Potendo operare con un rito
+completamente diverso e convertendo gli altri, si troverebbe a poter lavorare più
+velocemente sulla documentazione a emettere sentenze. Questo è il dato, diciamo,
+principale.
+
+Poi abbiamo anche delle idee specifiche su determinati riti particolari, cioè velocizzare
+lo sfratto. Noi lo abbiamo immaginato con un'univenza da fissarsi con urgenza,
+obbligatoriamente, senza poter rinviare in 30 giorni e con uno sgombero da effettuarsi con
+la convalida in 48 ore. Un problema di cui si discute tanto, soprattutto l'attuale governo
+ogni tanto fa dei proclami, ma sostanzialmente nessuno ha messo mano a un rito che
+sembrava rivoluzionario negli anni 70, ma che oggi è diventato obsoleto e comunque
+lunghissimo. Poi un problema anche che riguarda il procedimento esecutivo annoso che il
+Consiglio del Notariato vorrebbe risolvere in tal senso da almeno 30 anni, e che noi
+troviamo un'ottima soluzione, che può essere quella sulla garanzia delle certezze delle
+successioni nei patrimoni, cioè quello di ritenere la successione legittima atto
+validamente trascrivibile, in modo tale da evitare di avere miliardi di Euro di patrimoni
+che sostanzialmente non sono aggredibili dai creditori, perché lo Stato non fa i giudizi
+per poter apprendere a proprio patrimonio questi beni, le persone non fanno atti
+trascrivibili di accettazione espressa o tacita nel decennio successivo, sostanzialmente
+li usano, ci vivono, quando li vogliono vendere trovano il modo di venderli comunque con
+un'accettazione ex post che fanno retrocedere ad una data antecedente nel decennio, ma
+finché ce l'hanno, sostanzialmente per l'assenza di continuità nelle trascrizioni nel
+ventennio, non sono ignorabili dai creditori.
+
+E poi ancora una riduzione drastica dei tempi di usucapione, anche in questo caso è già un
+buon dato quello oggi delle mediazioni che producono un titolo valido, ma noi vorremmo
+ampliare questa cosa e soprattutto ridurre le tempistiche, se non dimezzarle. E poi
+importantissimo il discorso della contumacia, noi abbiamo già l'articolo 115 nel codice di
+procedura civile che ci dice che tutto ciò che non viene contestato puntualmente dalla
+controparte è dato per vero, e stendere questo principio alla contumacia, che invece come
+tutti i colleghi sanno è spesso un parametro usato dal giudice per diventare difensore
+della persona che si è disinteressata, non si è rivolta ad un legale e non ha deciso a
+costituirsi in giudizio, questo non deve essere un parametro vincente, cioè la contumacia
+deve avere delle sanzioni che sono peggiori di quelle oggi previste, che venivano
+immaginate diciamo, voglio dire nel 45. Poi chiaramente abbiamo un problema di
+informatizzazione, digitalizzazione e soprattutto di standardizzazione non solo del
+processo dei magistrati, di quello che viene fatto nello svolgimento delle udienze e dei
+giudizi in sé, ma di tutto l'apparato che c'è attorno, tra ufficiali giudiziari,
+cancellerie, prazzi che si stabiliscono in un tribunale che la Corte d'Appello non
+riconosce come valide e che nel resto d'Italia nessuno conosce, noi viviamo ancora di un
+diritto che è diventato telematico ormai da dieci anni, un diritto processuale che è
+telematico, ma con sacche di rigurgiti, di cartaceo, di giudici che ancora scansionano
+documenti firmati a mano dopo dieci anni è diventato inaccettabile, gli strumenti sappiamo
+quali sono, non resta solo che decidere di adoperarli. Mi taccio e vi ringrazio per
+l'attenzione.
+
+Grazie Danilo, anche perché Diego che ci invita e invita i nostri ascoltatori a sostenerci
+con 5 euro, considera l'iscrizione, il sostegno di ORA come alternativo all'aperitivo, ma
+noi dimostreremo che non è così, si può fare entrambi e quindi per le 19.30 siamo tutti
+liberi. Francesco ci parla di giustizia e tecnologie, quali tecnologie, abbiamo capito il
+computer innanzitutto che potremmo introdurre, Francesco Capitani. Ok sono io, salve a
+tutti sono Francesco Capitani delegato, allora tecnologie diciamo qualche parola in più
+nel senso che utilizziamo una parola più ambiziosa, intelligenza artificiale che quando si
+tratta di maneggiare dati dà sempre buoni risultati che però non è mai entrata nel lessico
+delle riforme del processo civile e del processo finale penale o comunque nel lessico del
+sistema giurisdizionale e questo per una ragione ben specifica. Ora, Francesco Cillo mi ha
+anticipato che è andato via, però mi ha anticipato prima su uno dei punti che è uno dei
+più interessanti, il problema della giustizia italiana è che è sostanzialmente un sistema
+basato molto su norme e su regole e poco su quantificazioni su scienze analitiche che
+riescono a ponderare, a misurare i risultati delle azioni che vengono compiute, quindi
+ecco il DREAM DREAM ha cercato, io spero che per il futuro sia al volano di questa nuova
+sensibilità, ha cercato di sviluppare un'idea della giustizia che viaggi di pari passo con
+il raggiungimento dei risultati, con il miglioramento dell'efficienza del servizio
+giudiziario e con l'implementazione dell'intelligenza artificiale, perché i tribunali, i
+giudici, ragioniamo come funziona il singolo affare giudiziario, c'è un giudice, c'è un
+tribunale, hanno un'enorme quantità di dati che spesso strutturano male, vengono male
+strutturati e spesso i giudici, ecco è tornato Francesco, spesso i giudici hanno
+difficoltà a reperire informazioni, spesso anche i cancellieri hanno difficoltà a reperire
+informazioni e questo gran lavoro sporco lo devono fare ogni volta da capo, poi ci sono i
+cancellieri più bravi, i cancellieri meno bravi, però le conseguenze sono quelle che poi
+ha raccontato Danilo Tozzi nel suo intervento, i processi restano lunghi, ma l'impressione
+che hanno gli operatori della giustizia, che siano avvocati o il cittadino che entra per
+la prima volta in tribunale, è quella che delle prassi semplici vengano tradotte in tempi
+lunghi e uno non se ne fa una ragione, uno non capisce perché cose semplici, per fare cose
+semplici occorre tanto tempo, ed è questo il campo che può essere aggredito da
+un'intelligenza artificiale o comunque da meccanismi automatizzati che possano consentire
+di fare il lavoro sporco, perché se c'è un'intelligenza artificiale a supporto
+dell'attività del giudice, il giudice non si mette a cercare carte, atti, risalenti a mesi
+d'anni prima affaticando la mente non riuscendo ad essere funzionale e a produrre una
+sentenza di qualità, se ha un sistema automatizzato che funziona per conto suo, che fa il
+lavoro sporco, poi arriva anche a delle soluzioni, a delle sentenze che qualitativamente
+sono migliori, ora ditemi voi sui tempi poi perché mi sono perso il tempo, probabilmente
+sto a due minuti, tre minuti, e quindi occorre cercare di superare, io ripeto, spero che
+il Dream Dream, il nuovo partito, sia un volano sotto questo punto di vista, la grande
+sfida che ha la giustizia per il futuro è cercare di assimilare dei saperi tecnici a dei
+saperi giuridici umanistici, perché altrimenti finché ci sarà diffidenza dell'uno nei
+confronti degli altri non si andrà avanti, faccio un esempio, un position paper riporta la
+legge professionale forense, se un avvocato volesse ad esempio, raccontiamo questo,
+volesse specializzarsi in linguaggi computazionali, volesse fare l'ingegnere, volesse
+acquisire un'altra competenza o comunque stare all'interno di un contesto in cui entrambe
+le competenze fossero sviluppate, volesse associarsi con un ingegnere, volesse associarsi
+con un tecnico o un esperto di scienze, non lo può fare perché l'avvocato può fare solo
+l'avvocato, questa è l'idea retrograda di professione che abbiamo della nostra vecchia
+legge professionale.
+
+Un sistema normativo così impedisce la contaminazione dei saperi, impedisce che si crei un
+mercato, impedisce che avvocati, ingegneri, giuristi e ingegneri si mettono assieme per
+trovare soluzioni i cui benefici poi possano giungere all'intero sistema giustizia, perché
+se vengono trovate dei software o dei sistemi che possano consentire in un futuro
+futuribile la giustizia predittiva, il calcolo delle opportunità, se proseguire nel
+processo o meno o preferire una soluzione stragiudiziale, ho fatto due casi semplici,
+oppure se non viene data la possibilità a persone con conoscenze diverse di poter produrre
+dei servizi di cui poi l'intero sistema giudiziale non può avere il beneficio, rimaniamo
+con il vecchio modo di affrontare i problemi, che è il problema affrontato per esempio da
+Nord ultimamente con il decreto di agosto che per risolvere il problema degli obiettivi
+del PNRR che non vengono raggiunti, utilizza la vecchia formula anni 80, inforniamo altri
+cancellieri, altri giudici presi a prestito, pagati a Cottimo e quant'altro, sono
+soluzioni queste anni 80 e non riusciamo a venirne fuori in questa maniera, perché poi gli
+altri paesi vanno molto più avanti, un sistema per integrare dei programmi per integrare
+l'intelligenza artificiale e il sistema giudizio, sono presenti in altri paesi, in Italia
+no, sono piccole nicchie, forse Francesco fa il ricerca sul punto, però lo si fa
+all'interno di piccoli contesti immagino e probabilmente non troverebbe o comunque non
+trovano questi contesti ascolto da parte dei ministeri, quindi l'idea o comunque
+all'interno di questo partito, quello che è stato fatto di questo gruppo di lavoro, è
+stato quello un po' di cercare delle soluzioni pratiche per implementare l'intelligenza
+artificiale all'interno del sistema giudiziario e del sistema giustizia, l'auspicio è
+sviluppare una sensibilità che possa consentire di pensare di risolvere i problemi della
+giustizia mettendo assieme conoscenze diverse, ce lo auguriamo appunto così. Ce lo
+auguriamo, ce lo auguriamo, poi ne hai partito bene parlando di innovazione, a un certo
+punto hai avuto un punto di caduta sul decreto del ministro, poi ti sei anche ripreso nel
+corso della tua esposizione, però un po' il filo rosso delle cose che stiamo dicendo, cioè
+dal cambio di postura nel metodo delle riforme verso quella che si può chiamare la better
+regulation, la evidence based policy, la digitalizzazione all'interno del processo civile,
+l'adeguamento attraverso una standardizzazione dei processi, l'intelligenza artificiale e
+la giustizia, lo stesso profilo di riorganizzazione degli uffici di cui parlava Ressia,
+richiamano tema di fondo, che penso sia quello di cui ci parla Riccardo, però non sono
+sicurissimo, è quella della riforma dei percorsi di studi. Mi sembra di sì, l'hai
+incartata benissimo dai. Io sono Riccardo Garippa, sono delegato Sardegna, più
+precisamente Sassari.
+
+Sì, io parlo della parte di riforma del corso di laurea, abbiamo deciso di trattarla
+dentro il gruppo tematico giustizia e fuori da quell'università di ricerca proprio perché
+presenta alcune caratteristiche peculiari, questo corso di laurea è un modo gentile, forse
+più criticità, condivide tutte quelle di cui si è trattato nel gruppo università, però
+forse sono ancora più accentuate, per esempio baranato nepotismo, sappiamo che sono tra
+quelli tra cui ne soffre maggiormente insieme a medicina e poi soprattutto è un corso di
+laurea ancora molto ingessato, forse proprio per la natura della materia, molto legata al
+precedente, ci piace poco cambiare in una realtà che ormai imprende mutamento, non
+possiamo avere degli operatori del diritto che si formano per cinque anni in maniera
+sostanzialmente statica, condivido se era questa l'idea di fare un corso di laurea, in più
+c'è da dire anche che il corso di laurea in giurisprudenza riesce a resistere alle riforme
+strutturali dell'università, riesce a farsi le sue contoriformi, quindi da questo punto di
+vista una trattazione specializzata forse è ancora più opportuna, tra l'altro uno dei
+problemi principali, forse mi sono laureato qualche anno fa in giurisprudenza, però credo
+che ancora oggi il fatto che sia eccessivamente teorica e molto poco pratica, tutta la
+parte pratica è fondamentalmente lasciata alla libertà accademica del docente che spesso
+non fa, purtroppo è possibile che oggi, anzi credo che la maggior parte degli studenti di
+giurisprudenza si laurei in giurisprudenza senza probabilmente mai aver scritto un atto e
+avendo fatto solo esami orali e questa credo sia una grossa criticità, in più il tema è
+che la formazione dei giuristi tocca trasversalmente la vita pubblica, perché i giuristi
+sono quelli che vanno ad animare, a tenere in piedi le istituzioni, la pubblica
+amministrazione, la giustizia, ma che poi dovrebbero essere anche parte del comparto
+produttivo, andare a facilitare la relazione con il diritto, essere degli interpreti
+positivi del diritto, aiutare le imprese nello sviluppare le proprie strategie, basta
+pensare a tutti gli ambiti di compliance e poi appunto è un corsolare ancora molto poco
+quantitativo, io credo che quasi nessuno faccia esami orientati a quel tipo di
+specializzazione, fra l'altro è un corsolare in cui fondamentalmente ci si forma ancora
+per essere, per indirizzarci nelle tre classiche professioni forensi, quindi avvocatura,
+magistratura e notariato, perché lo stampo è puramente quello, un grosso approfondimento
+nell'ambito più grosso insomma, a seconda del corso di laurea che si fa, dell'università
+che si sceglie, delle materie procedurali e questo sicuramente non consente allo studente
+né di personalizzare il suo percorso né di riuscire a uscire in un mondo del lavoro avendo
+delle competenze di base che gli consentono di metterlo subito in pratica e questo lo
+vediamo prima di tutto, la scelta di improntare il corso a una formazione puramente
+forense è sbagliata banalmente nelle statistiche, oggi solo un 36% sceglie quella carriera
+e quindi è evidente che il mercato del lavoro richieda delle altre competenze, fra l'altro
+chi esce dal corsolare in giurisprudenza spesso non è in grado né di sostenere l'esame per
+l'avvocatura né per la magistratura e deve pagare dei corsi privati aggiuntivi, quindi da
+una parte ancora ci illudiamo che sia fortemente improntata a preparare le materie forense
+e dall'altro la realtà ci dice delle cose diverse e questo quindi fondamentalmente
+crediamo sia il cardine da smontare fondamentale, cioè riuscire a consegnare agli studenti
+una formazione che possa essere indirizzata, che possa essere di base, che dia competenze
+molto forti e per questo la proposta è mantenendoci sempre nel solco del ciclo unico,
+quindi niente di rivoluzionario rispetto a quanto è previsto per quanto anche un 3 più 2
+possa essere funzionale, dividendo fondamentalmente e specializzando il curriculum, quindi
+un curriculum tradizionale più improntato sull'ambito forense, molto simile al corso che
+c'è oggi, ma inserendo anche un comparto amministrativo, un curriculum amministrativo e un
+curriculum contabile che dovranno formare da una parte chi aspira ad entrare all'interno
+della pubblica amministrazione o comunque fare lavori a contatto con la pubblica
+amministrazione, quello contabile invece maggiormente indirizzato sia alla giustizia
+contabile, sia alle funzioni amministrative di controllo, sia al controllo aziendale
+banalmente, questo non mi dilungo su come modificare le singole cose, però spero di aver
+dato un po' un'idea su quali siano le criticità e quale sia almeno l'inizio di una strada
+per tentare di risolverle, perché se non lavoriamo sul capitale umano futuro è difficile
+poi cambiare solo le regole e sperare che cambi la realtà. Grazie Riccardo, ora Sonia,
+abbiamo parlato di metodo, di valutazioni exante, di razionalità, di come tentare di
+razionalizzare l'organizzazione della giustizia, invece arriviamo a un tema vecchio, un
+tema che funziona sempre allo stesso modo, in cui per fortuna basta un decreto ogni nuovo
+fatto di cronaca per risolvere i problemi. Così sembra, così sembra così o perlomeno
+vogliono farla passare, ma come sempre è molto più complicato di così. La parte penale del
+nostro sistema ha varie problematiche tra cui questa penso sia la più evidente a livello
+del settore, ma anche la più difficile da cambiare, perché c'è anche un sovraccarico per i
+tribunali di cui hanno parlato anche gli altri, che non è solo nel civile ma è anche nel
+penale.
+
+Cosa possiamo fare per cercare di cambiare questo sistema, per dargli una scossa e farlo
+funzionare un pochino meglio? Prima di tutto una revisione organica di tutta la parte
+generale del codice penale, quindi bisogna mettersi lì con il codice penale alla mano e
+iniziare a leggere ogni articolo e razionalizzarlo, riscriverlo da capo in un certo senso,
+ma ormai ne abbiamo bisogno, perché ci sono abrogazioni di reati che sono ormai meramente
+simbolici, sono stati introdotti nuovi reati che sostanzialmente effettivamente non
+servono, come dicevi anche tu Francesco, mi viene da pensare uno degli ultimi, quello sul
+femminicidio, che effettivamente di pratico effettivo non risolve nulla, l'unica cosa che
+fa è rallentare poi quello che succede dopo quando si va in giudizio, quindi vogliamo
+semplificare essenzialmente il quadro normativo, quindi evitare questo eccesso di norme,
+questo pan penalismo, cercando di tornare al succo della questione, quindi poche norme ma
+chiaro che funzionano bene, e poi potenziare anche tutta quella parte di sanzioni non
+detentive, quindi tutte quelle pene alternative al carcere, per far sì che poi anche il
+carcere torni ad essere come previsto da Costituzione estrema razio e quindi ultima
+spiaggia, e questo andrebbe poi a risolvere un'altra problematica importante che è legata
+al settore penale, che è quella del sovraffollamento carcerario, non è l'unico modo per
+risolverlo, ma è comunque uno dei tanti modi che abbiamo ipotizzato essere utili a
+risolvere anche questo problema, quindi dobbiamo lavorare su vari punti ma confidiamo di
+poterlo fare. Grazie Sonia, allora come detto abbiamo fornito solo direzioni generali
+delle possibili riforme, il lavoro non è completo, non lo poteva essere e non lo sarebbe
+mai stato nel corso del primo anno e nel corso dei primi sei mesi di lavoro più intenso
+ovviamente, quello che lega tutti questi interventi è che stiamo tentando di portare
+dentro il nostro modo di lavorare un ragionamento su come lavoriamo, sul metodo, tentando
+di aprirci a culture e a saperi diversi, diciamo di creare più ponti possibili tra le due
+culture se vogliamo così e poi progressivamente portare fuori queste esperimentazioni e
+questi ragionamenti che stiamo facendo, in cui diciamo le nostre soluzioni puntiamo
+appunto a un metodo che sia il più possibile trasparente, che crei questi spazi di
+confronto e che introduca come dire valutazione di elementi di razionalità in un ambito,
+in un campo interdisciplinare che è quello dei saperi giuridici che vive diciamo anche di
+resistenze secolari diciamo con cui è difficile avere a che fare, non cambiare di più,
+cambiare meglio. Io sono molto contento di aver sentito tutti i vostri interventi e le
+vostre esposizioni e ce l'abbiamo fatta in tempo, io non mi prenderei altri dieci minuti
+perché come dire sono temi divertenti ma fino a un certo punto vi invito a seguire il
+partito nei vari canali social, sostenerlo se siete d'accordo, se vi fa piacere e vi
+invito con molti di voi, ci vedremo ad Abano prossimamente con tutti gli altri, ci vedremo
+sicuramente su questi schermi e negli eventi dal vivo, grazie a tutti.
+
+Grazie a te Francesco e concludo il tutto dicendo se vogliamo una giustizia più veloce
+saremo anche noi più veloci. Un saluto a tutti. Ciao a tutti, proviamo a dire ma anche a
+fare l'ovvio.

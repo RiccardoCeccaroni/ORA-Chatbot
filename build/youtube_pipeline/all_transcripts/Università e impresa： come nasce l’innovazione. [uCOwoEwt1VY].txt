@@ -1,0 +1,573 @@
+# Università e impresa: come nasce l’innovazione.
+
+YouTube: https://www.youtube.com/watch?v=uCOwoEwt1VY
+Video ID: uCOwoEwt1VY
+Playlist(s): Universita
+Transcription: OpenAI Whisper-1 (language=it)
+Duration: 53m24s
+
+---
+
+Smettetela di lamentarmi, smettetela di chiedere che vi facciano un partito, che vi
+facciano un movimento, che vi facciano la rava, la fava. Fatemelo! Serve un trauma, serve
+una persa di coscienza, serve un qualcosa che scuota. Coraggio intellettuale di accettare
+la realtà dei fatti.
+
+Senti, ma quanto va avanti sta roba qui? Ah, finché non c'è la bella sveglia. E chissà
+quando arriva la bella sveglia. Si sia mai detto che io mi perdo una battaglia persa?
+
+Buongiorno a tutti, buongiorno a tutti gli associati di Dream Dream. Ci ritroviamo qui
+oggi con il gruppo tematico Attività produttive sotto gruppo innovazione con il quale
+stiamo portando avanti un percorso di approfondimento sull'ecosistema startup italiano
+cercando di guardarlo con uno sguardo critico ma costruttivo per capire cosa funziona,
+dove siamo indietro e cosa possiamo fare concretamente per migliorare. Nella prima
+puntata, insieme a Gianmarco Carnovale, abbiamo analizzato il quadro normativo e la
+struttura del settore in Italia affrontando anche un tema culturale spesso ignorato ma
+centrale ovvero la percezione del fallimento e il suo impatto sulla nostra capacità di
+innovare. Nel secondo incontro abbiamo avuto con noi Gianluca Dettori ed abbiamo esplorato
+in profondità il mondo del venture capital italiano confrontandolo con quello di altri
+paesi.
+
+Per chi non fosse estremamente tecnico, il venture capital è una forma di investimento ad
+alto rischio ed è una delle principali modalità di finanziamento per startup e imprese
+innovative. Realità che per loro natura hanno un'alta probabilità di fallire ma che,
+quando funzionano, garantiscono agli investitori ritorni talmente elevati da compensare
+ampiamente anche tutte le perdite accumulate con le imprese che non ce l'hanno fatta.
+Oggi, però, allarghiamo ulteriormente il campo e ci concentriamo su un tema tanto
+strategico quanto sottovalutato ovvero gli spin-off universitari. Gli spin-off non sono un
+dettaglio dell'ecosistema, sono anzi spesso il punto di origine delle innovazioni più
+radicali, quella che nasce nei laboratori delle università dalla ricerca scientifica pura
+e che può dare vita a tecnologie dirompenti nei settori più avanzati.
+
+Spesso ci immaginiamo che tutta l'innovazione nasca nei garage della Silicon Valley con
+dei geni eccezionali che creano unicorni dal nulla. E certo, quel mito ha il suo passino
+ma la verità è che una parte enorme dell'innovazione globale nasce dentro le università da
+progetti di ricerca strutturati che diventano aziende grazie a ecosistemi che sanno
+valorizzarli. Per parlare di questa tematica abbiamo qui con noi oggi due referenti del
+gruppo tematico attività produttive ovvero Andrea Savi, 36 anni, lavora nell'asset
+management a Londra e ha anche cofondato una start-up che opera nel settore manucaturiero
+aerospaziale nel Regno Unito e Mattia Catalano, studente di economia e finanza
+all'Università degli Studi di Palermo. Abbiamo con noi oggi anche il parere di un esperto
+tecnico esterno all'associazione, ovvero Alessandro Vercelli che è il presidente della
+commissione spin-off dell'Università di Torino.
+
+Lascerei quindi, al termine di questa introduzione, ricordandovi a tutti di iscriversi per
+chi non lo fosse già, la parola ad Alessandro per fare una mini introduzione su quello che
+è il suo compito, quello che è il suo ruolo all'interno della commissione e auguro a tutti
+una buona puntata. Buongiorno a tutti, grazie per l'invito, è un piacere veramente essere
+tra voi. La mia funzione è quella di presidente della commissione spin-off e quindi di
+coordinare un gruppo di esperti in realtà molto più esperti di me perché sono persone
+dell'Università di Torino che hanno lavorato, hanno sviluppato brevetti e anche che sono
+esperti dal punto di vista legale per quanto riguarda gli spin-off e poi in passato sono
+stato anche vice-rettore alla ricerca biomedica che è una delle aree in cui gli spin-off
+universitari sono più attivi e soprattutto più fiorenti al momento per quanto riguarda
+l'Università di Torino. La ragione per cui sono diventato un pochettino più esperto nel
+settore è proprio questa perché il rettore attuale dell'Università di Torino, il professor
+Geon, ha molto spinto in questo campo e quindi ha cercato di sviluppare un sistema
+virtuoso tra l'incubatore e poi recentemente ci sono stati anche dei progetti del PNRR, in
+particolare il progetto NOZ in cui si sviluppano anche delle spin-off e dei brevetti per
+cercare di incentivare e aumentare il trasferimento tecnologico all'interno
+dell'Università di Torino.
+
+Questo ovviamente con dei discreti risultati, non sono ancora eccezionali perché
+ovviamente non si può in tre o quattro anni cambiare mentalità e sistema, piano piano si
+sta andando avanti. Negli ultimi cinque anni sono stati fondati cinque spin-off, degli
+spin-off del passato sono anche diventati imprese di successo, per esempio ce n'è una
+Eurem AB che è stata acquisita ed è quotata attualmente al Nasdaq, quindi qualche successo
+c'è stato. Negli ultimi due anni poi le cose sono un po' cambiate rispetto al passato,
+perché in passato i docenti universitari che erano più interessati appunto a creare degli
+spin-off oppure a brevettare le loro idee, lo facevano al di fuori dell'Università. Questo
+diciamo che da una parte era un problema perché non si riusciva a tracciare bene il numero
+di brevetti che uscivano dalla nostra Università, ma l'altro problema è quello che
+ovviamente in previsione futura potrebbe diventare una fonte anche di sostentamento
+dell'Università, ci sono alcune Università all'estero che si finanziano, finanziano parte
+delle loro attività di ricerca proprio sulle entrate dovute agli spin-off e ai brevetti.
+
+Le cose sono cambiate perché due anni fa è entrata in vigore una legge che obbliga i
+docenti comunque a coinvolgere anche l'Università nella creazione degli spin-off e poi
+soprattutto nella presentazione dei brevetti, per cui piano piano anche l'Università potrà
+godere delle eventuali entrate. Passerei la parola ad Andrea. Grazie mille Alessandro,
+siamo veramente felici di averti qui con noi oggi. Mi voglio riagganciare a quello che ha
+detto Diego facendo anche un leggero passo indietro, giusto per impostare il contesto e il
+problema per chi ci ascolta.
+
+Dunque, le Università sicuramente hanno un ruolo fondamentale per la crescita economica di
+un Paese e di fatto possiamo dire che sono dei catalizzatori dell'innovazione. In Italia
+tuttavia vengono ancora troppo spesso percepite solo attraverso le loro funzioni storiche,
+che sono l'insegnamento e la ricerca. Ma negli ultimi decenni, accanto a queste due
+missioni tradizionali, si è affermata una terza missione delle Università che amplia il
+loro ruolo includendo la promozione dell'imprenditorialità e il trasferimento tecnologico.
+Questo si realizza concretamente attraverso la creazione, appunto, di quello che il
+professor Vercelli ci stava dicendo, delle spin-off di ricerca, che sono praticamente
+delle start-up fondate per valorizzare risultati scientifici e la proprietà intellettuale
+sviluppati in ambito accademico.
+
+In altre parole, gli Atenei non si dovrebbero più limitare a produrre solamente
+conoscenza, ma a trasformarla in innovazione concreta dando vita ad imprese capaci di
+generare valore economico e impatto sociale. Il modello di riferimento qui è ovviamente
+quello statunitense, dopo il professor Vercelli ovviamente ci potrà dire le sue esperienze
+e conoscenze, dove il rapporto negli USA tra Università e imprese è molto radicato e si è
+evoluto enormemente. Dalle esperienze del, pensiamo, del Metro Tech Center di Brooklyn,
+all'MIT Science Park, fino al modello più conosciuto, famoso, iconico della Silicon
+Valley, che è cresciuta e si è sviluppata attorno a un incubatore dell'Università di
+Stanford. È proprio lì che è nata una delle più celebri spin-off universitari, Google,
+fondata nel 1996 dall'allora due dottoranti a Stanford e, se non erro, il cash-out
+dell'Università di Stanford a seguito dell'IPO di Google fu di 350 milioni di dollari.
+
+Ovviamente sono stati reinvestiti in ricerca e attualmente tutti i Big Tech da Amazon,
+Facebook, Apple, Intel, Microsoft svolgono attività di ricerca e sviluppo proprio in
+quella regione, attratti dalla sinergia con l'Università. E quindi la domanda è perché le
+spin-off sono così importanti? E qui possiamo iniziare a dare uno sguardo un po' ai
+numeri, partendo dal contesto europeo. Negli ultimi cinque anni le spin-off universitarie
+hanno contribuito alla creazione di circa 1,4 milioni di posti di lavoro e non si tratta
+di impieghi qualsiasi, ma di occupazioni altamente qualificate ad elevato valore aggiunto
+destinati in larga parte a laureati e dottori di ricerca.
+
+E questo è il contesto europeo. Andiamo a vedere adesso in Italia come siamo messi. Il
+discorso qui è molto simile a quello che abbiamo già fatto per le start-up con Carnovale e
+con Dettori. In Italia non abbiamo ancora una massa critica sufficiente, concetto che vale
+anche per le spin-off, per generare in termini statistici un numero significativo di
+successi.
+
+Alcuni dati tratti dal rapporto NetVal del 2024 ci aiutano a chiarire meglio la
+situazione. Al 31 dicembre 2023 il numero complessivo di spin-off della ricerca pubblica
+italiana era 2043, quindi un numero molto basso, e ben il 70% di questo è stato fondato
+tra il 2012 e il 2022, confermando quindi che si tratta di un mercato ancora molto giovane
+in fase di consolidamento, che si è sviluppato in parallelo con il mercato delle start-up
+con la legge del 2012. Un aspetto interessante riguarda il riconoscimento formale delle
+spin-off da parte dell'università. Il grafico sulla parte destra ci mostra infatti
+chiaramente che negli ultimi 6-7 anni la stragrande maggioranza delle spin-off nate si è
+accreditata, ossia questo significa che sono ufficialmente riconosciute dall'Ateneo,
+secondo i regolamenti interni che ne disciplinano la Costituzione, e questo significa che
+le spin-off possono utilizzare le infrastrutture universitarie e in alcuni casi hanno
+anche la partecipazione finanziaria da parte dell'università stessa.
+
+Un altro elemento da evidenziare dal report NETVAL è la forte concentrazione geografica
+del fenomeno nel centro-nord. Tuttavia vale la pena anche riconoscere che anche nel sud
+sono nate delle spin-off di rilievo, di cui parleremo magari più avanti, ma questo dal
+nostro punto di vista del gruppo innovazione e start-up non rappresenta un problema
+strutturale, ossia ovviamente la disparità tra nord e sud è un problema strutturale per
+l'Italia, ma non nel contesto delle start-up e delle spin-off, perché così come le
+start-up anche le spin-off nascono e crescono in distretti specifici, dove esistono
+condizioni favorevoli, ecosistemi consolidati e reti di investimento. Non è realistico
+pensare di avere spin-off di successo in ogni università o su tutto il territorio
+nazionale. La sfida quindi principale per l'Italia oggi resta il valore generato.
+
+Le nostre spin-off sono ancora di piccole dimensioni, con una media inferiore a 5
+dipendenti e spesso coincidenti con i soci fondatori e quindi faticano a scalare, stesso
+problema per le start-up. A livello, se vogliamo fare delle comparazioni, abbiamo il
+report European Deep Tech 2023 di Il Room, che ci mostra un quadro abbastanza chiaro. Ci
+sono centri come Politecnico di Zurigo, Oxford, Cambridge, che generano attraverso le
+spin-off universitarie un valore economico decisamente superiore. L'Italia purtroppo non
+figura nemmeno in classifica.
+
+Il Regno Unito, giusto per fare un esempio, genera il doppio del valore della Germania e
+ben 13 volte il valore in spin-off rispetto all'Italia, grazie appunto a università con
+numerose start-up Deep Tech, molte delle quali in fase avanzata sono già diventate
+unicorni. Unicorni, piccola parentesi, ripetiamo, è quella start-up che raggiunge una
+valutazione di un miliardo dopo l'investimento da parte di un venture capital prima della
+sua quotazione su un mercato regolamentato. Nel prossimo grafico, che è l'ultimo che
+vogliamo mostrare per ora, possiamo vedere la classifica dei paesi che generano più valori
+in spin-off. Non è una sorpresa, il Regno Unito è in cima alla classifica, seguito da
+Germania, Svizzera, Olanda, Francia, l'Italia ancora molto indietro.
+
+In sintesi, faccio un breve recap prima di passare la parola al professor Vercelli, questi
+sono i problemi del mercato delle spin-off universitarie italiane che abbiamo soprattutto
+identificato all'interno del Dream Dream. Primo, massa critica ancora insufficiente e
+scarso valore generato. Le spin-off italiane come le start-up, abbiamo detto e ridetto,
+faticano a scalare, restano imprese di piccole dimensioni con pochi addetti e anche a
+distanza di 5 anni dalla fondazione, molte rimangono in una fase di sviluppo tecnologico,
+il cosiddetto TRL intermedio, senza avere raggiunto una piena commercializzazione. Ecco,
+questo è magari un punto importante da stressare.
+
+Le spin-off italiane hanno difficoltà nel cosiddetto route to market, a commercializzare
+la tecnologia che nasce all'interno del sistema accademico e talvolta sì, sopravvivono a
+lungo, ma solo grazie magari ai legami con l'università e al sostegno pubblico, più che
+per una reale sostenibilità di mercato. Secondo punto è le scarse exit internazionali di
+rilievo, le storie di successo ci sono, ma sono ancora eccezioni, una l'ha menzionata poco
+fa il professor Vercelli, ci sono anche altri casi notevoli come, se non sbaglio, Genenta
+Science, che era una spin-off, non so se era questa, Alessandro, non si chiamava EUM, ma
+AB. Ok, perché c'è pure Genenta Science, che era una spin-off questa dell'ospedale San
+Raffaele, nel campo della terapia genica, che nel 2021 si è quotata nel Masdac,
+raccogliendo circa 36 milioni di dollari. Poi c'è anche EOSSRL, spin-off dell'Istituto
+Europeo di Oncologia, che è stata acquisita nel 2013 da Clovis Oncology per 420 milioni di
+dollari.
+
+Quindi ci sono delle eccezioni, ci sono dei casi di eccellenza, ma sono ancora troppo
+pochi e non abbiamo queste esperienze sistemiche nel nostro sistema paese. Detto questo io
+mi fermo, lascerei la parola al professor Vercelli per i suoi primi commenti sui problemi
+e poi andrà Mattia che ci spiegherà le proposte che il nostro gruppo ha elaborato negli
+scorsi mesi. Grazie. Dunque, per quanto riguarda i problemi, ovviamente il problema
+primario è innanzitutto un problema culturale, da parte di noi tutti, perché come dicevi
+tu, c'era il problema che l'università ha sempre pensato che deve fare ricerca e
+didattica, insomma queste cose che riguardano il bil denaro sono sempre state considerate
+un pochettino qualcosa di sporco, per cui voleva dire sporcarsi le mani, eccetera, mentre
+invece adesso si capisce che possono generare delle entrate che comunque sono importanti
+sia per la nazione che per la singola università per poter lavorare.
+
+Poi il problema è che molte volte noi italiani, credo proprio, e in particolare noi
+universitari, abbiamo poca propensione al rischio, quindi l'idea di tentare uno spin off e
+di mettersi in gioco e magari fallire sarebbe una tragedia, mentre quando siamo andati in
+Israele ci dicevano che se un israeliano non è almeno fallito tre volte non è un bravo
+israeliano, quindi questo è un altro concetto estremamente importante. Infatti quello che
+noi stiamo cercando di fare, oltre ovviamente a fare scouting tra i ricercatori già più
+maturi, è proprio quello di stimolare i giovani fin da piccoli con delle student
+challenge, sia attraverso questi progetti PNRR, sia attraverso delle collaborazioni per
+esempio con Edison, Stellantis, Michelin eccetera, per premiare gli studenti che
+partecipano a questi challenge e hanno delle buone idee. Poi sicuramente un problema è
+quello anche di riuscire ad avere degli incubatori adatti che riescano a accompagnare le
+spin off nel loro cammino e anche tutto sommato nell'avere i finanziamenti. Abbiamo fatto
+proprio dei giri con il Rettore e poi con la professoressa Prandi che era la mia
+equivalente per quanto riguarda le scienze esatte siamo andati a vedere gli incubatori in
+Israele, in particolare quello del Technion, poi siamo andati a vedere Singapore, Corea
+del Sud, siamo andati a vedere l'incubatore della Roche a Boston dove tra l'altro lavorano
+degli italiani molto bravi, giovani e anche addirittura a Rio de Janeiro, quindi voglio
+dire delle nazioni che tutto sommato sono equivalenti a noi come innovazione.
+
+Sicuramente il problema è un pochettino quello di riuscire a trovare dei finanziamenti che
+permettano di fare salto di qualità. Un'idea che c'era stata data a Boston era proprio di
+cercare di aumentare la dimensione internazionale anche degli spin off, magari prendendo
+come manager dei manager internazionali che lavorano già a livello anche di questi
+incubatori fuori Italia in modo che abbiano una reputazione tra gli investitori e che
+possano aiutare più facilmente a trovare i finanziamenti. Mi accancio a un punto prima di
+dare la parola a Mattia, hai menzionato la parte diciamo culturale, l'aspetto culturale e
+anche della complessità che tante volte c'è dietro la creazione di uno spin off, perché
+penso che bisogna chiarire questo punto. Se compariamo per esempio il modello della
+Silicon Valley con l'università di Stanford e con un'eccellenza europea, per esempio
+l'università di Cambridge oppure anche altre, Oxford o Imperial College, in ogni caso
+l'impegno richiesto all'università varia molto a seconda del contesto.
+
+Nella Silicon Valley esiste un ecosistema consolidato fatto da imprenditori, venture
+capitalist, incubatori, infrastrutture, che riduce di molto il ruolo operativo
+dell'università. A Stanford spesso basta semplicemente concedere in licenza la tecnologia,
+il resto lo fa l'ecosistema. Altro discorso invece è quello europeo e italiano in
+particolar modo, ripeto, guardiamo anche eccellenze europee come l'università di
+Cambridge, ma non esiste un ecosistema paragonabile alla Silicon Valley. Gli accademici
+anche lì devono investire tempo e risorse nella creazione del spin off, scrivere il
+business plan, individuare, come hai detto te, un team manageriale, cercare i fondi.
+
+È un lavoro complesso e impegnativo, poiché un'università non può, né deve a mio avviso,
+sussidiare un'impresa privata se decide di impegnarsi in questo processo in Europa e in
+Italia. In primis è più costoso e lungo rispetto agli Stati Uniti e quindi deve essere
+certa di ottenere un ritorno adeguato. Se posso dire qualcosa a questo riguardo? In realtà
+noi stiamo cercando di fare qualcosa di simile, proprio la professoressa Prande ha ideato
+un ecosistema particolare attorno alla costruenda facoltà di scienze, che viene costruita
+attualmente appena fuori Torino e dovrebbe essere in funzione dal 2026 e ci sarà tutta
+un'area che è stata chiamata Butterfly Area, dove si mettono insieme delle imprese con i
+ricercatori e c'è stata una manifestazione di interesse da parte di più di 100 imprese a
+entrare dentro quest'area.
+
+Quindi questo sicuramente io spero che possa essere un grosso traino per l'Università di
+Torino e ovviamente per la parte di scienze, quindi c'è tutta chimica, fisica, biologia,
+agraria, quindi c'è un'area tutta di biotecnologie interessantissima, tra l'altro siamo
+riusciti anche a coinvolgere un'impresa brasiliana che si chiama Embrapa, che è enorme e
+che è disponibile a entrare e comunque a mettere una sede a quel livello, quindi secondo
+me potrebbe essere veramente il futuro. Ok, io passerei la parola a Mattia, se vuole
+parlare un po' delle proposte del gruppo tematico, così poi abbiamo anche tempo per un
+parere di Alessandro. Assolutamente. Allora, noi negli scorsi mesi abbiamo analizzato
+accuratamente l'ecosistema spin-off e start-up italiano e anche l'ecosistema delle nostre
+controparti europee e internazionali, quindi stiamo parlando di Francia, Germania, Regno
+Unito, Stati Uniti e via dicendo.
+
+Siamo arrivati alla conclusione che abbia senso sviluppare in Italia un ente statale che
+prima di tutto crei delle linee guida nazionali in materia di spin-off per riuscire a
+uniformare quelli che sono i term sheets dei programmi di incubazione e accelerazione
+universitarie. L'ispirazione in questo senso proviene dalle linee guida USIT che sono
+state sviluppate dalle maggiori università inglesi quali Oxford e Cambridge per riuscire a
+uniformare quella che è la partecipazione delle università alle spin-off e semplificare il
+processo di trasferimento tecnologico. Ovviamente i term sheet dovrebbero chiaramente
+essere uniformati per mercato. Difatti è chiaro che il funzionamento dell'ecosistema
+start-up spin-off biotech, per esempio, sia sicuramente differente rispetto a quello
+fintech o AI.
+
+E dunque anche le linee guida in questo senso devono necessariamente differire. Inoltre,
+ispirandoci all'ente spagnolo ENISA, riteniamo possa aver senso ampliare la redazione di
+quest'ente anche allo sviluppo di programmi di accelerazione e incubazione universitari.
+Soprattutto in modo che riescano a valorizzare i distretti industriali di cui l'Italia già
+è piena e quindi favorire la collaborazione tra università, il tessuto industriale, le
+spin-off e i fondi di investimento. In Italia è già possibile vedere alcuni programmi di
+incubazione e accelerazione d'eccellenza, come per esempio quelli del Politecnico di
+Milano o del Politecnico di Torino.
+
+Tuttavia sono in questo momento purtroppo ancora singoli esempi d'eccellenza in quanto la
+situazione su tutto il resto del territorio italiano è assolutamente deludente, anche come
+sottolineato dal rapporto NETVAL 2024, che fa notare come il 50% dei risultati provengano
+dalle 5 università più attive. Anche se una nota di merito va fatta ad alcune università,
+perché appunto stanno cercando di recuperare il gap, tra queste sicuramente spicca
+l'Università della Calabria. Inoltre, tra i compiti di questo ipotetico ente, secondo noi
+dovrebbe essere anche previsto il supporto alle spin-off nelle fasi di fundraising,
+tramite programmi specifici quali grant, come il grant tedesco dell'EXIST, ma anche
+tramite collaborazioni dirette con fondi di venture capital. Per esempio, qui
+l'ispirazione proviene dal programma FOCAL della banca inglese HSBC, che mette in contatto
+start-up e spin-off con investitori istituzionali.
+
+Semplificando il processo di fundraising. Ultimo, ma non per importanza, riteniamo possa
+aver senso ampliare la redazione anche allo sviluppo di corsi e programmi di laurea
+universitari specifici, per la formazione della classe imprenditoriale di domani, per
+riuscire appunto a trovare una soluzione a quello di cui già abbiamo parlato, il problema
+culturale italiano in materia di imprenditoria. E in questo senso, invece, l'ispirazione
+proviene da un master creato in collaborazione tra HSE Paris e l'Institut Polytechnique,
+che insieme in collaborazione hanno creato un master d'eccellenza in ambito
+imprenditoriale. Non so Alessandro se hai qualche commento, perché ovviamente il nostro
+punto di vista è che se si potesse creare un ente nazionale, ovviamente si potrebbe
+pensare di allocare le risorse, più risorse a chi fa già bene, ai modelli virtuosi, senza
+lasciare indietro ovviamente le altre parti del territorio, però dal nostro punto di vista
+se veramente riusciamo a far scalare un determinato distretto, come già hai accennato sta
+accadendo, il distretto intorno all'Università di Torino è abbastanza innovativo, possiamo
+portare su anche tutto il resto del Paese.
+
+Ecco, non so se hai qualche commento. Dunque l'unico commento è quello che sicuramente il
+fatto di costruire una rete è estremamente importante, anche per avere un livello
+dimensionale per interessare eventuali investitori, perché assolutamente ogni piccola
+università si presenta da sola e non stimola l'interesse. L'unico dubbio che ho è che
+siamo un Paese in pratica dei piccoli campanili e quindi ognuno sarà gelosissimo del suo
+piccolo incubatore e della sua piccola area, quindi bisogna più che creare un ente unico
+che parte dall'altro, io cercherei di mettere assieme tutti questi e di coordinarli al
+meglio e farli crescere insieme, perché altrimenti si creano delle strutture alternative
+che sembrano quasi essere in competizione, mentre non dovrebbero esserlo insomma. Sì,
+assolutamente, il nostro punto di avere un approccio centralizzato da questo lato deriva
+soprattutto dal lato della creazione, come Mattia ha detto, di queste linee guida, come
+avviene qui nel Regno Unito, e non sono solamente linee guida create dai maggiori istituti
+accademici, Oxford, Cambridge, Imperial College, ma in collaborazione con le associazioni
+di categoria del venture capital, del private equity, quindi appunto armonizzando il
+sistema dei termini contrattuali, credo che questo possa dare una mano alla costituzione
+di spin off e a formare e a incentivare molti professori e molti accademici a creare delle
+spin off, aumentando quella massa critica di cui il Paese, a nostro avviso, ha molto
+bisogno per generare dei casi di successo da un punto di vista statistico.
+
+Ti volevo chiedere, mi aggancio a questo per chiederti, Alessandro, ovviamente nel sistema
+degli Stati Uniti ci sono alcune università che hanno dei loro fondi di investimento
+interni, altre invece, e sono molte, che utilizzano dei fondi di venture capital esterni,
+come avviene per lo più in Europa, per esempio so dell'Università della Pennsylvania, che
+ho avuto modo di entrarci in contatto, non per questo specifico argomento, ma per un'altra
+cosa, ad ogni modo so che loro hanno generato oltre 100 spin off negli ultimi 5 anni,
+anche con grandi entrate per quanto riguarda la license, con per esempio la tecnologia
+intorno all'mRNA per il vaccino COVID, data in licenza moderna a Pfizer, BioNTech, e loro
+si rifiutano per esempio di avere un fondo interno, perché l'obiettivo dell'Università
+della Pennsylvania, come dicono, non è fare business, ma è fare ricerca, quindi lasciano
+al mercato, al mercato del venture capital, capitalizzare quell'opportunità dal lato
+commerciale, perché loro non hanno mai sviluppato un fondo di investimento interno, non
+so. Cosa ne pensi te da un punto di vista di investimenti, qualche differenza tra il
+contesto americano, il contesto italiano-europeo, soprattutto ho menzionato questo
+argomento perché il del Biotech, cui sei molto vicino, quindi... Penso che gli
+investimenti siano importanti, sicuramente è importante avere delle grosse connessioni con
+il venture capital, so che ci sono in pratica dei fondi sia ministeriali, che poi anche di
+fondazioni bancarie, per esempio, per stimolare questi investimenti. Per quanto riguarda i
+fondi specifici all'interno dell'Università, è più difficile riuscire a ottenerli, perché
+è difficile riuscire a mettere da parte dei soldi, togliendoli magari appunto alla
+didattica, alla ricerca, eccetera.
+
+Quindi dovrebbe essere un capitolo separato, so che qualche Università cerca anche di
+costruire delle fondazioni esterne, che possono gestire tutto questo, in pratica sono
+sempre delle partecipate dell'Università però agiscono con il loro CDA, di questo genere,
+e in questo modo si autosostengono e hanno un contributo una tanto, una basta. Questa
+potrebbe essere magari una soluzione, anche se nel pubblico, come voi sapete meglio di me,
+in Italia tutto questo crea dei legacci incredibili, perché poi se voi costruite una
+fondazione che comunque è partecipata dall'Università, deve comportarsi come l'Università,
+quindi qualsiasi acquisto che fa, qualsiasi collaborazione, contratto, eccetera, deve
+seguire tutte le regole dell'Università, che vuol dire mesi e mesi di tempo, che
+ovviamente non vanno tanto d'accordo con quella che è la velocità del mercato. E su questo
+magari ne allaccerei anche per dire che bisognerebbe fare una grossa opera di pulizia
+nella legislazione per quanto riguarda gli spin off, perché il carico burocratico in
+Italia è tremendo e aprire e soprattutto chiudere uno spin off è un'impresa veramente
+faticosa, per cui io mi ricordo un po' di anni fa, avendo esperienza di uno spin off che
+non si riusciva a chiudere, volevamo fare uno spin off come risultato di un progetto
+europeo, però i miei colleghi mi hanno detto facciamolo fuori Italia, in Austria, perché
+almeno in 15 giorni si apre, in 15 giorni si chiude, invece da noi non è così. Io so di
+uno spin off che hanno chiuso in questo periodo dei miei colleghi, ci hanno messo un anno
+e mezzo.
+
+Poco. Sì, ma appunto, e con dei costi incredibili anche dal punto di vista
+dell'amministrazione, perché comunque bisogna avere il commercialista, il notario, chi
+certifica tutte le procedure. Sì, come abbiamo detto nel video con Cannavale, la
+Fandolensi di tante volte in Italia è per coprire i costi burocratici del commercialismo.
+Esatto.
+
+E questo in ogni caso è ovviamente un constraint, un limite, alla nostra capacità di
+generare spin off. Ci possiamo riaggaggiare anche a quello che ho detto in precedenza.
+Ovviamente, se le risorse delle università sono limitate e i professori devono perdere
+molto tempo nella fase costitutiva, e l'università deve sostenere anche dei costi
+burocratici significanti, questo è un limite enorme alla capacità di generare spin off. Ti
+volevo chiedere, Alessandro, da un punto di vista invece dell'ufficio del trasferimento
+tecnologico, perché abbiamo, come Mattia ha accennato, abbiamo letto il report Netval del
+2024.
+
+Io ti presento solamente un paio di numeri. Praticamente il report dice che nel 2022 sono
+stati monitorati 78 enti e sono stati rilevati 436 addetti a tempo pieno negli uffici del
+trasferimento tecnologico, quindi con una media di 5,7 unità per ente. Quindi da un lato
+abbiamo detto che c'è mancanza di investimenti, ma dall'altro è possibile che abbiamo
+anche una carenza di personale. Qui vorrei chiedere la tua opinione.
+
+Hanno difficoltà le università ad attrarre personale qualificato o competente negli uffici
+del trasferimento tecnologico? Ovviamente le università, come le imprese, sono in
+competizione internazionale e molti professori, ricercatori in successo vanno all'estero,
+in Europa o negli Stati Uniti o in altri paesi. Per quanto riguarda l'ufficio, il nostro
+ufficio più o meno è di quelle dimensioni, tra la parte brevetti e la parte spin-off siamo
+su quei numeri. Il discorso è che ci sono delle persone molto competenti perché sono anni
+che lavorano nel campo e ovviamente è molto difficile attrarre delle persone esterne che
+magari siano sul mercato.
+
+Questo per due motivi diversi. Uno perché gli stipendi sono molto bassi e quindi se una
+persona è brava e rende trova sicuramente molti posti nel privato o all'estero dove può
+guadagnare molto di più. Questo lo vediamo per esempio già solo anche con il project
+manager dei progetti europei. L'altro problema è quello che è molto difficile avere dei
+consulenti esterni, quindi se noi vogliamo anche solo pagare delle persone esterne come
+consulenti per svolgere parte di questo lavoro, aiutarci nello svolgere questo lavoro,
+questo è un processo molto complesso e anche lì non riusciamo a pagarle adeguatamente per
+quanto valgono i soldi.
+
+Hai menzionato Alessandro un punto importantissimo per me anche perché hai confermato il
+numero del personale che lavora anche nel vostro ufficio del trasferimento tecnologico e
+ovviamente hai detto che sono persone molto competenti che da molti anni fanno questo
+lavoro. E qui ti volevo chiedere, perché un problema che vedo dal punto di vista degli
+spin off e magari qui si riaggancia al tema culturale, della cultura che c'è nelle
+università italiane e anche nel settore produttivo italiano, ma nel caso degli spin off,
+ovviamente la creazione di uno spin off di successo è un lavoro di squadra, da una parte
+puoi avere il ricercatore che è 20 anni che sta lavorando a quella determinata tecnologia,
+però che non è necessariamente lui che dopo la porta alla commercializzazione attraverso
+la creazione di uno spin off. Ovviamente quando un'università imposta uno spin off e
+magari decide anche di avere una partecipazione azionaria nello spin off, bisogna
+ponderare bene i vari interessi, fare un discorso di equità per soddisfare sia il
+ricercatore che ha sviluppato quella ricerca per 20 anni e sia quell'accademico che l'ha
+portata da un punto di vista imprenditoriale sul mercato. Non so qual è stata la tua
+esperienza su questo, se hai visto anche qualche frizione all'interno di determinati
+ambienti.
+
+Le frizioni ci sono qualche volta soprattutto sui brevetti. Devo dire che in questo
+momento per quanto riguarda l'università, lo scopo principale è quello di incentivare la
+brevettazione e la nascita di spin off, quindi è molto difficile che ci siano dei
+contenziosi con i nostri ricercatori perché stiamo cercando di stimolarli il più
+possibile. Magari potrà succedere tra qualche anno quando ci sarà un numero più elevato e
+quindi ci potrà essere un maggior ritorno economico. Adesso lo scopo principale è quello
+di averne di successo.
+
+Credo anche che quello che manchi, almeno parlando con dei colleghi, è avere dei talent
+scout che dalla nostra amministrazione possano andare nei vari dipartimenti a cercare di
+capire quali sono i ricercatori che eventualmente possono avere idee nuove, sviluppare
+idee nuove, aprire degli spin off, perché magari uno non ci pensa. Se invece ci fosse
+qualcuno che dice che la sua idea mi sembra che sia valida e potrebbe essere sviluppata e
+generare delle revenues, probabilmente questo sarebbe molto di stimolo per l'ambiente. Per
+quanto riguarda... Io avrei una domanda perché ho sentito parlare di brevetti e mi viene
+da fare una domanda.
+
+Fino al 2022 esisteva in Italia il cosiddetto professor privilege, cioè il privilegio dei
+professori di avere sostanzialmente la proprietà intellettuale dei brevetti che uscivano
+dall'università. Questo privilegio è stato poi tolto, con effetto nel 2023, e volevano
+chiedere se è migliorata la situazione, cioè sono arrivate più risorse effettivamente
+all'università? Dunque, come dicevo un attimo fa, parlare di risorse mi sembra eccessivo
+perché dovrebbe esserci un volume tale, per cui ovviamente rispetto a un budget di
+un'università grossa come la nostra, che sarà di un miliardo e mezzo, ovviamente le
+entrate dovute a queste attività sono per ora purtroppo molto scarse. Quello che però
+sicuramente è cresciuto è il numero di brevetti fatti all'interno, quindi questa è una
+promessa per il futuro e poi soprattutto c'è la possibilità di monitorarli, perché prima
+non sapevamo proprio assolutamente niente.
+
+Il problema che c'è sempre stato, però, anche io ho partecipato a un brevetto tanti anni
+fa, vent'anni fa, esterno. Non abbiamo coinvolto l'università non solo per paura di dover
+dare qualcosa all'università, ma per la paura di tutta la burocrazia che era connessa,
+perché poi il problema è sempre quello, nel senso che uno vorrebbe cercare di velocizzare
+il tutto. Devo dire che adesso con l'aumento dei brevetti che vengono richiesti
+nell'ambito dell'università, tutto questo secondo me si sta velocizzando e sta valendo la
+pena anche di farsi aiutare dall'ufficio opposito. Infatti Alessandro, questo si aggancia
+bene alla domanda che ti volevo chiedere, perché dal nostro punto di vista l'estrema
+burocrazia italiana porta a molte spin-off in cui magari l'università avrebbe un interesse
+ad avere una quota azionare, un investimento finanziario, però a non ricorrere a
+quell'opzione.
+
+Lo diciamo solamente per il nostro audience, ci sono in pratica tre modi in cui può
+nascere uno spin-off. Quello in cui l'università sceglie deliberatamente di non diventare
+azionista diretto, che è uno dei casi maggiori nel contesto italiano. Poi ci sono altri
+due modelli, quello di avere una bassa esposizione azionaria, low equity, che è spesso
+accompagnata, senza entrare troppo nei tecnicismi, da clausole antidiluzione, che
+impediscono la riduzione della quota fino al raggiungimento di una certa soglia di
+capitale raccolto o un determinato round di investimento. Il secondo modello è quello di
+avere un'alta esposizione azionaria, high equity, modello più raro in Italia, che è più
+rischiosa in termini di diluzione futura, ma potenzialmente più redditizia, e questo è
+quello che accade molto nel contesto americano.
+
+Ti volevo chiedere, Alessandro, adesso non so se hai un numero in mente, ma qual è la
+percentuale degli spin-off che tu hai visto, supervisionato, in cui l'università
+direttamente aveva una percentuale, non dico significativa, ma perlomeno superiore al...
+Devo dirlo, 0%, quindi... è molto facile rispondere. Questo è non un problema, questo è il
+problema, perché, come ho detto all'inizio, il cash-out dell'università di Stanford con
+Google è stato di 350 milioni.
+
+Sì, sì. E questi sono soldi che vengono generati privatamente e vengono reinvestiti in
+ricerca. E questo è veramente un punto cruciale, riuscire a sbloccare questo aspetto che
+ovviamente si riflette nella bassa propensione al rischio delle università, nella bassa
+propensione al rischio dei venture capital che operano nel contesto italiano-europeo,
+bassa propensione al rischio dell'imprenditore in sé. Io avrei una domanda per il
+professore Vercelli, se posso chiederle.
+
+Qual è la risposta degli studenti a tutte queste misure che state adottando in materia di
+start-up e spin-off? Devo dire che sono abbastanza entusiasti. Diciamo che i nostri corsi,
+che ovviamente non sono enormi, perché facciamo ogni challenge, i corsi sono per 15-20
+persone, però li riempiamo tutti. Addirittura mi dicevano che l'ultima challenge hanno
+dovuto, nel corso delle istruzioni, bloccare la possibilità di scrivere perché avevano già
+superato il numero.
+
+Quindi direi che c'è una buona risposta da parte degli studenti, ma anche perché abbiamo,
+secondo me, alcune delle lauree che abbiamo istituito che sono delle lauree che stimolano
+proprio l'innovazione tecnologica, anche alcune poi tra l'altro in inglese e che quindi
+permettono anche di avere una comunità che non è solo italiana ma è mista e questo
+sicuramente aiuta. Per caso ci sono state, anche se ovviamente immagino in piccolo, dato
+che per quello che diceva si fa da poco, però ci sono già esempi relativamente positivi di
+qualcosa che è uscito? No, per ora no. Semplicemente ci sono i soliti premi che vengono
+presi ovviamente e che vengono stimolati dalle imprese che istituiscono questi challenge,
+però bisogna vedere nel futuro cosa succederà.
+
+Non ci sono dei grandi… Io come giovane di grande idea ho sempre in mente un mio amico
+italo-israeliano che è di Roma e che ha inventato lo sticker per fare i selfie con il
+cellulare e che l'ha brevettato e poi è diventato un manager a 28 anni, credo di Google o
+qualcosa del genere in Israele e lui infatti adesso mi aiuta ogni tanto, mi dà delle idee,
+ci sentiamo spesso per cercare di avere delle idee innovative in questo campo. Condivido
+in pieno. Vorrei aggiungere l'ultimo commento riproponendo ancora il tema della
+commerciabilità di quello che viene generato all'interno della ricerca accademica. Ci sono
+dei casi anche in altre università, per esempio della Federico II di Napoli, non
+necessariamente nel distretto del centro nord, ma anche al sud, dove sono state create
+delle spin off importanti, esempio Megavide, se non erro, da parte del dipartimento di
+ingegneria industriale dell'università Federico II di Napoli, con una chiara
+commerciabilità della tecnologia che era nata da anni di ricerca nell'università di
+Napoli.
+
+Ci stiamo avviando verso la conclusione di questa live. Se voglio fare un riassunto, i
+punti principali sono la commercializzazione della ricerca accademica, il talent scouting
+che serve per le università, gli investimenti, sia dal lato del solito discorso del
+venture capital, che questo è un problema non solamente delle spin off, in generale la
+difficoltà di attrarre capitale di rischio per la scalabilità in Italia, ne abbiamo
+parlato in altri video, ma anche investimenti da parte delle università. Le università non
+partecipando, e il dato che ci hai dato tu Alessandro, nei tuoi anni di esperienza, 0% di
+investimenti finanziari in spin off, significa che le università italiane lasciano lì sul
+tavolo molti soldi che potrebbero generare valore e essere rieinvestiti nella ricerca
+accademica. Ovviamente il tema rimane sempre quello della massa critica, dobbiamo
+sviluppare più spin off per avere statisticamente più casi di successo, come avviene negli
+Stati Uniti, come avviene in Israele, nel Regno Unito, in Svizzera, nel Politecnico di
+Zurich.
+
+Diego, se non si vedono gli ultimi commenti? Abbiamo detto anche di cercare di creare
+collaborazione tra i vari dipartimenti dell'università, cercare di creare delle linee
+guida uniche per tutti, ma cercare anche la collaborazione tra i vari dipartimenti, un po'
+un modello open source, in cui ci aiutiamo, ci scambiamo informazioni, per non cercare di
+creare troppa competizione malsana tra i vari attori all'interno dell'università diversa.
+Ok, allora, se non ci sono altri commenti, non so, Alessandro ha aperto il microfono,
+forse vuole dire ancora qualcosa. No, riguardo quest'ultimo punto che dicevi tu, volevo
+soltanto ricordare che in realtà ci sono delle reti anche europee, si chiamano le CHIC,
+Knowledge Innovation Communities, mi sembra, in cui appunto si sviluppano proprio delle
+spin off, brevetti dei corsi, eccetera.
+
+Io per esempio ero riuscito a far collegare l'università di Torino con quella sul settore
+salute, poi noi siamo anche collegati con quella per esempio per il cibo, il food, e qui
+in effetti ci sono anche molti bandi per formare degli spin off o comunque fare dei corsi
+che riguardano questi argomenti. Quindi secondo me delle reti ci sono già, e voi mi avete
+ricordato l'università di Napoli, Federico II, e devo dire che in questa della salute
+l'università Federico II è trainante. Ok, allora io ringrazierei tutti, ringrazierei
+Mattia, Andrea come referenti del gruppo Attività Produttive e Alessandro per averci
+fornito il suo parere tecnico e come diciamo tutti noi siamo sempre qui, quindi se volessi
+tornare a darci una mano a discutere con noi Alessandro sarei sempre benvenuto. Salutiamo
+quindi tutti gli associati, vi chiediamo appunto di condividere, mettere un like a questo
+video e ci sentiamo, ci vediamo al prossimo episodio.
+
+Buona giornata, buona serata a tutti e grazie a tutti. Buona serata. Buona serata a tutti.
+Ciao.
+
+Proviamo a dire ma anche a fare l'ovvio.

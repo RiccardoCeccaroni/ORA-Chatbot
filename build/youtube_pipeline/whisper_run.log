@@ -1,0 +1,187 @@
+[PTjvhzcGMD0] START Come sarà la Sanità del Futuro? con Skeptical Health
+[zQ88HKcUoSo] START Conosciamo i MEDICI di medicina GENERALE
+[wFpvG7vfzQg] START Digitalizziamo o No la Sanità?
+[XBIrrKcBvhY] START Esplorando il Sistema Sanitario Italiano: Traiettorie e
+[jbgLTfUDIeQ] START I problemi della GIUSTIZIA italiana: con Nicolò Sesta
+[YeYSarq-VvA] START La crisi del personale sanitario
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=1880.2099609375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[wFpvG7vfzQg] DONE  ok (3975 words)
+[VgYqswx9CBE] START Le criticità del SSN: il personale sanitario - POLICY
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2322.219970703125, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[PTjvhzcGMD0] DONE  ok (4752 words)
+[yU3ujuiE0tI] START Le radici del presente: salari, crisi universitaria e i
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2790.7099609375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[YeYSarq-VvA] DONE  ok (5586 words)
+[8tb7kAaWuRA] START Pisa - IL CORAGGIO DELL'OVVIO: Università e ricerca, un
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2500.530029296875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[XBIrrKcBvhY] DONE  ok (5109 words)
+[Z0g3jO-xPAs] START Presentazione Tesi - Cultura, Sport, Turismo
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2892.22998046875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[zQ88HKcUoSo] DONE  ok (6175 words)
+[1ewWgRefDZA] START Presentazione Tesi - Diritti civili, Pari opportunità, 
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2266.820068359375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[VgYqswx9CBE] DONE  ok (4434 words)
+[4CeywmWehiA] START Presentazione Tesi - Esteri e Relazioni Internazionali
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3949.919921875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[jbgLTfUDIeQ] DONE  ok (8649 words)
+[ZngxcBmM4pA] START Presentazione Tesi - Giustizia
+[1ewWgRefDZA] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[LgtMHPsM6Zk] START Presentazione Tesi - Governance, Riforme istituzionali 
+[4CeywmWehiA] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[UK48hXhFQ6c] START Presentazione Tesi - Istruzione
+[ZngxcBmM4pA] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[c3tMqjcoJvQ] START Presentazione Tesi - Lavoro e Politiche Sociali
+[LgtMHPsM6Zk] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[7_ZEGOGLenM] START Presentazione Tesi - Salute e Servizi Sanitari
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3365.010009765625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[yU3ujuiE0tI] DONE  ok (7668 words)
+[qmo7GtfvKM4] START Presentazione Tesi - Sviluppo Economico e Politica Indu
+[8tb7kAaWuRA] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[S0w8peX4UjI] START Presentazione Tesi - Università e Ricerca
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3341.760009765625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[Z0g3jO-xPAs] DONE  ok (7792 words)
+[y4xPFzM25Tc] START Prevenire è meglio
+[7_ZEGOGLenM] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[1P-Z5kRH2Ug] START Quanto tiriamo fuori dal portafoglio per CURARCI? Facci
+[qmo7GtfvKM4] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[xlUaAxFGeOA] START SSN in Codice Rosso! Dialogo tra Stefano Merigliano e A
+[y4xPFzM25Tc] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[Mc41tvKhWQY] START Tesi Programmatiche di ORA!: Esteri e Difesa
+[UK48hXhFQ6c] FAIL  Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[PqmsuwPVhx8] START Tesi Programmatiche di ORA!: Giustizia
+[1P-Z5kRH2Ug] FAIL  yt-dlp failed for 1P-Z5kRH2Ug: 
+[N_jydqv8QXI] START Tesi Programmatiche di ORA!: Innovazione
+[Mc41tvKhWQY] START Tesi Programmatiche di ORA!: Esteri e Difesa
+[dMQ3_L9Vsms] START Tesi Programmatiche di ORA!: Università
+[PqmsuwPVhx8] START Tesi Programmatiche di ORA!: Giustizia
+[LSIBU1Yeltw] START Tesi Programmatiche di ORA!: Unione Europea
+[k4hAY723b8g] START Tesi Programmatiche di ORA!: Tassazione e Fiscalità
+[hqb5NQ7FZks] START Tesi Programmatiche di ORA!: Istruzione
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=1622.719970703125, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[LSIBU1Yeltw] DONE  ok (3565 words)
+[N_jydqv8QXI] START Tesi Programmatiche di ORA!: Innovazione
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2045.949951171875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[dMQ3_L9Vsms] DONE  ok (4933 words)
+[2gPMBT6lIBs] START Tesi programmatiche di ORA!: Immigrazione
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=1777.3900146484375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[hqb5NQ7FZks] DONE  ok (4045 words)
+[4OxwOXjdp0E] START Tesi Programmatiche di ORA!: Lavoro e Politiche Sociali
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2561.110107421875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[k4hAY723b8g] DONE  ok (5405 words)
+[8tb7kAaWuRA] START Pisa - IL CORAGGIO DELL'OVVIO: Università e ricerca, un
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2324.010009765625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[PqmsuwPVhx8] DONE  ok (4605 words)
+[1ewWgRefDZA] START Presentazione Tesi - Diritti civili, Pari opportunità, 
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2091.580078125, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[N_jydqv8QXI] DONE  ok (4428 words)
+[4CeywmWehiA] START Presentazione Tesi - Esteri e Relazioni Internazionali
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=1187.56005859375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[2gPMBT6lIBs] DONE  ok (2885 words)
+[ZngxcBmM4pA] START Presentazione Tesi - Giustizia
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=1243.6600341796875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[4OxwOXjdp0E] DONE  ok (2908 words)
+[LgtMHPsM6Zk] START Presentazione Tesi - Governance, Riforme istituzionali 
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=4656.2001953125, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[Mc41tvKhWQY] DONE  ok (9116 words)
+[UK48hXhFQ6c] START Presentazione Tesi - Istruzione
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3231.7900390625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[1ewWgRefDZA] DONE  ok (6959 words)
+[c3tMqjcoJvQ] START Presentazione Tesi - Lavoro e Politiche Sociali
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2607.25, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[LgtMHPsM6Zk] DONE  ok (4292 words)
+[7_ZEGOGLenM] START Presentazione Tesi - Salute e Servizi Sanitari
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2802.320068359375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[ZngxcBmM4pA] DONE  ok (6173 words)
+[qmo7GtfvKM4] START Presentazione Tesi - Sviluppo Economico e Politica Indu
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3324.489990234375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[4CeywmWehiA] DONE  ok (6170 words)
+[S0w8peX4UjI] START Presentazione Tesi - Università e Ricerca
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3398.18994140625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[UK48hXhFQ6c] DONE  ok (7295 words)
+[y4xPFzM25Tc] START Prevenire è meglio
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3350.429931640625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[7_ZEGOGLenM] DONE  ok (6337 words)
+[1P-Z5kRH2Ug] START Quanto tiriamo fuori dal portafoglio per CURARCI? Facci
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3592.610107421875, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[qmo7GtfvKM4] DONE  ok (6834 words)
+[xlUaAxFGeOA] START SSN in Codice Rosso! Dialogo tra Stefano Merigliano e A
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2656.10009765625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[y4xPFzM25Tc] DONE  ok (4708 words)
+[o0suYIitBrQ] START Tra giustizia e politica: un dialogo con Sabino Cassese
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3481.080078125, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[S0w8peX4UjI] DONE  ok (7596 words)
+[uCOwoEwt1VY] START Università e impresa: come nasce l’innovazione.
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3225.06005859375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[c3tMqjcoJvQ] DONE  ok (6482 words)
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2043.3499755859375, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[1P-Z5kRH2Ug] DONE  ok (3766 words)
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=2306.85009765625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[xlUaAxFGeOA] DONE  ok (5130 words)
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=3204.929931640625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[uCOwoEwt1VY] DONE  ok (6585 words)
+C:\Users\ricca\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py:475: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `str` - serialized value may not be as expected [field_name='duration', input_value=4505.93994140625, input_type=float])
+  return self.__pydantic_serializer__.to_python(
+[o0suYIitBrQ] DONE  ok (8293 words)

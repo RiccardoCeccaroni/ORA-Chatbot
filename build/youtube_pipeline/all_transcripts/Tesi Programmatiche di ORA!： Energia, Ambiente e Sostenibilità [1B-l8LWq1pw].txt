@@ -1,0 +1,264 @@
+# Tesi Programmatiche di ORA!: Energia, Ambiente e Sostenibilità
+
+YouTube: https://www.youtube.com/watch?v=1B-l8LWq1pw
+Video ID: 1B-l8LWq1pw
+Playlist(s): Programmapres
+Transcription: OpenAI Whisper-1 (language=it)
+Duration: 25m29s
+
+---
+
+Dove ci collochiamo? Ma ci collochiamo fra quelli che si assumono la responsabilità di
+quello che fanno. Eccoci qua, ciao Marco. Ciao Michele, buon pomeriggio a tutti i drinam
+che ci stanno ascoltando.
+
+Amici vicini e lontani, è domenica sera ma noi non molliamo. Alcuni sono ancora sui
+banchetti, vi dico dal Piemonte. Sì, io sapevo che a Torino sicuramente sono ancora sui
+banchetti. I Piemontesi hanno deciso di lavorare anche di domenica.
+
+Bene, bene, mi rallegro perché i segni sull'iscrizione si sono, però noi ci auguriamo
+vivamente che ce ne siano di ben maggiori a venire. Quindi mi raccomando non mollate, non
+mollate. Oggi viaggiamo al momento a una cinquantina di nuovi iscritti, vediamo se anche
+oggi a fine giornata facciamo 100, se ci fermiamo prima. Nel frattempo rinnovo le loro
+iscrizioni.
+
+Stefano Parisi ha appena risposto, ieri aveva fatto un centinaio, oggi siamo appunto, se
+faccio il conto, una cinquantina, e vediamo di andare avanti. Siamo a due passi dai 6.000
+iscritti, ma molto lontani dagli obiettivi che ci hanno fatto. È vero che abbiamo
+cominciato, sì, quattro settimane fa, oggi è domenica. Abbiamo compiuto un mese.
+
+Sì, quattro settimane, abbiamo compiuto un mese. Non è male, però cerchiamo di fare
+meglio. Anzi approfitto per invitare tutti, specialmente chi si è iscritto anche
+recentemente, chi è nuovo, diciamo, di farsi vivo, di utilizzare Discord, perché la
+ricerca di talenti, di persone, di ingegneri nucleari che soppiantano il progetto
+Caresana, perché se troviamo qualcuno più bravo di noi, ogni volta che vogliamo.
+Assolutamente.
+
+Rendeteci inutili con i fatti e non con le parole, è lì. E quindi chiunque abbia qualche
+capacità di fare qualcosa, si faccia vivo, o localmente, o nazionalmente, se pensa di
+essere utile nazionalmente, perché c'è. E chi per tanto tempo non ce l'ha, continua a fare
+progenitismo, che più siamo meglio è. Bene, ho finito il mio sfottone pubblicitario,
+Marco, ma io sono diventato quasi un professionista.
+
+Infatti, me ne sono accorto. La decima volta, credo, che lo faccio. Che le tue capacità di
+sponsorizzazione sono… Faccio qualche cosa, vado a mametta, cosa vuoi. Allora, energia.
+
+L'energia costa una cifra in Italia. Costa una cifra e serve tanto, ecco. Cosa propone
+ora? Com'è che abbassiamo?
+
+Vogliamo il prezzo dell'energia basso 50%. Mi piacerebbe avere la ricetta. Qua ci vuole
+proprio la ricetta magica. Allora, dai, vediamo un attimino come abbiamo pensato questa
+politica sull'energia.
+
+Allora, prima di tutto, siamo partiti dal che cosa vogliamo. Cioè, la politica energetica
+va costruita, almeno la nostra proposta è costruirla, su tre pilastre fondamentali, che
+sono il contenimento dei costi dell'energia, l'indipendenza energetica e il contenimento
+delle emissioni di carbonio. Questi qua sono i tre punti cardine su cui noi vogliamo
+costruire la politica energetica. Il peso poi da dare a ognuno di questi tre pilastri è
+una cosa che va definita anche sulla base di ciò che abbiamo tecnologicamente disponibile.
+
+Non è una cosa che si può definire a priori. E poi ci siamo interrogati sull'orizzonte
+temporale. Ovvio che noi dobbiamo abbassare i costi dell'energia il prima possibile. Però
+è anche vero che se non facciamo una politica a lungo respiro, non si va da nessuna parte.
+
+Per cui la politica a lungo respiro, questa non può prescindere dal nucleare, ovviamente.
+Ma vada bene che noi non è che siamo nuclearisti, semplicemente per seguire questi
+obiettivi rende chiaro che se non introduciamo una quota percentuale del nucleare nel mix
+energetico, non andiamo da nessuna parte. Quanto inserirne, questo qua è un gran bel
+problema. Si sentono altre forze politiche a sparare.
+
+Facciamo un baseload, qualsiasi cosa questo voglia dire. Facciamo 10 gigawatt, 20
+gigawatt. In realtà il capire esattamente quale sia il valore esatto, nello stile di ora,
+deve essere fatto in modo scientifico. Per cui abbiamo alcuni ragazzi del gruppo di
+energia che sono stati sufficientemente matti dal buttarsi nella realizzazione di un
+simulatore del sistema energetico nazionale che introduce il nucleare.
+
+Perché avevamo visto che in letteratura non c'erano che introducevano il nucleare. E
+quindi è un simulatore sofisticato, nel senso che dovrà stabilire su base oraria nell'arco
+dell'anno quali sono i consumi e quindi stabilire il mix ottimale. Per cui questo è ancora
+un work in progress. Abbiamo il software, stiamo debuggando, ogni tanto si incarica come
+tutti i software alle prime armi.
+
+Però abbiamo fede che questo porterà un grosso contributo, sia in termini di conoscenza
+del sistema, sia anche in termini di esperienza che si fanno i ragazzi che seguono questa
+cosa, perché anche questa è formazione, come ben sai, non è che posso prescindere anche
+dalla formazione dei ragazzi del gruppo. Quindi sul lungo termine noi dobbiamo capire
+quale sarà la quota parte del nucleare del serie gas. Sulla tecnologia, noi puntiamo su
+tecnologie esistenti. Quindi gli SMR saranno la cosa che sarà ad avvenire, così gli MR
+saranno cose che trovano ancora un pochino più lungo, ma la partenza sarà sul nucleare
+pesante, in grossi impianti di terza generazione.
+
+Sul nucleare, come rispondete all'osservazione che continua ripetuta di ormai è troppo
+tardi, costa troppo, sì forse se non si fosse fatto il referendum, ma è una roba ormai di
+40 anni fa, 30 anni fa, ormai le operazioni costano meno, ma non vedete tutto questo
+progresso, eccetera, eccetera. Allora, il finanziamento del nucleare, se noi ragioniamo in
+questi termini, una centrale adesso ha una vita, una terza generazione ha una vita di 60
+anni. Se prendiamo esempio seconda generazione che ha visto l'estensione della vita di
+50%, noi potremmo avere qualcosa che ci dà energia per i prossimi 90 anni, quindi
+sposteremo il problema energetico al 2110, un orizzonte temporale lunghissimo. Quanto
+costa?
+
+Ci stiamo lavorando su questo, ci sono almeno tre linee su cui si può indirizzare la cosa.
+Copiando il sistema, ispirandosi al sistema anglosassone in Inghilterra, loro utilizzano i
+cosiddetti regoletti tax-based, si tratta di un piccolo anticipo sulla bolletta elettrica
+che di fatto abbatte gli interessi sul costo del capitale iniziale. La stima di circa 4
+sterline al mese per utenza possono abbattere significativamente questi costi. Tieni conto
+che possono arrivare anche a un 50-60% del costo globale solo gli interessi sul capitale
+iniziale, quindi è un abbattimento dei costi incredibile.
+
+Probabilmente in Italia potrebbe essere mitigato, siccome sarà sicuramente un'azienda
+statale o comunque partecipata statale a gestire la cosa, potremmo anche accoppiarlo con
+Buoni del Tesoro a scadenza di 50 anni, che attualmente dà un interesse sul 4% più o meno,
+che è una cosa assolutamente sensata, è sensata perché è comunque un'opera che va a
+impattare su più generazioni e è giusto anche che il costo venga spalmato su più
+generazioni. E poi l'altro pilastro potrebbero essere i famosi ETS, che sono i crediti di
+carbonio. Anche su questo stiamo studiando perché c'è entrato in vigore nel 2027 l'ETS2,
+quindi i crediti di carbonio che andranno anche a toccare direttamente le tasche degli
+utenti finali, pagheremo anche sulla bolletta questi ETS2. Con l'impatto è ancora tutto da
+capire, ci sono articoli molto pessimistici che ho letto, che parlano di 150 miliardi dal
+2032, altri parlano di cifre che sono la metà se non meno, quindi non si sa bene l'impatto
+che sarà fatto perché non si sa quanto verrà pagata la tonnellata di CO2 emessa.
+
+Però siccome questi soldi, la rimunerazione di questi soldi deve essere impiegata per
+politiche che vanno nel senso della mitigazione energetica, ecco che il nucleare diventa
+la scelta di elezione se vogliamo decarbonizzare. Quindi ci sono diversi metodi per poter
+finanziare. Già sarà che organizziamo, Marco, un po' di dibattiti espliciti fra te e gli
+altri componenti del nostro gruppo e chi in Italia continua a spingere sia a sinistra che
+a destra per i sussidi alle cosiddette rinnovabili, osteggiando, facendole vivere come
+alternativa al nucleare. Perché questo è un dibattito che si continua a lasciare sospeso.
+
+Deve esserci una maniera di mettere due conti per terra, due numeri e chiarire. Se vuoi
+non c'è dubbio. Sono perfettamente consapevole del grande costo capitale, tra tutti
+un'osservazione, per pressioni politiche, a mio avviso in debite, effettivamente l'AICB,
+la Banca Centrale Europea, fa queste operazioni di politica monetaria a chi vorrebbero
+privilegiare le energie pulite, in termini di interessi. Bene, nel caso del nucleare
+questo è di grande rilevanza.
+
+Assolutamente di grande rilevanza. Vedi, il nucleare secondo me è veramente il coraggio
+dell'odio. Se tu guardi quello che è successo in Germania, l'aprile del 1923 hanno chiuso
+le centrali, il processo è iniziato da Sorredo e poi è concluso dalla Merkel. Hanno tenuto
+tre obiettivi.
+
+Hanno aumentato le emissioni, emettono un ordine di grandezza di CO2 più della Francia.
+Sono diventati dipendenti dall'estero e hanno il costo della materia di prima energia più
+alto d'Europa. Quindi se vuoi hanno fallito tutti e tre gli obiettivi. Ma loro lo sapevano
+perfettamente.
+
+Figurati se i tedeschi non fanno previsioni a lungo termine. E chi lo c'ha? Ecco, però uno
+guarda dall'esterno e vede che Sorredo cosa ha fatto dopo che ha terminato il mandato da
+cancelliero. È finito di fare il dirigente di Gazprom e ha iniziato la costruzione del
+nostro M2.
+
+E quindi per me è evidente che questa scelta alla fine della fiera non è stata fatta negli
+interessi dei cittadini tedeschi e dell'Europa in generale, ma è stata fatta
+nell'interesse di un asservimento all'oil e gas. E quindi quando io ti dico... Pensi
+davvero che sia una cosa proprio di corruzione così profonda della classe politica
+tedesca? Io osservo i fatti Michele, osservo i fatti dall'esterno.
+
+Così come è stato anche nell'87. Avevamo il PSI di Craxi e Martelli che osteggiava il
+nucleare. Cinque anni dopo Mani Pulite ci ha detto che allora Enimont aveva pagato al PSI
+la madre di tutte le tangenti. Probabilmente anche nel nostro piccolo qualche cosa c'è.
+
+Quindi quando tu mi dici del coraggio dell'ovvio, il coraggio è proprio nel mettersi di
+traverso a Lobbys. Io la vedo in questi termini. Sì, io come sai... Però obiettivamente vi
+sono palesi...
+
+Noi abbiamo visto tutte le grandi petrolifere di tutto il mondo. Hanno tutte scoperto la
+potenza dell'energia pulita che include tutto fuorché nucleare. E hanno donato, speso,
+investito miliardi in attività culturali, propaganda, borse di studio, progetti di
+ricerca, questo senza dubbio. Perché sì, da quel punto di vista la vera alternativa al
+petrolio e al carbone non è, come abbiamo visto, adesso ti do la parola perché lo spieghi
+brevemente un attimo, solo la cosiddetta rinnovabile, ma è fondamentalmente il nucleare
+per garantire sia il livello di domanda futura, specialmente con la crescita
+dell'intelligenza artificiale, sia la stabilità del sistema.
+
+Le rinnovabili, se coprono qualcosa, coprono una componente ciclica quando poi le
+condizioni meteorologiche sia del paese che del periodo di tempo lo permettono. Una
+riflessione su questo e poi in chiusura voglio chiederti di nuovo cosa proponiamo di fare
+nel breve periodo. Il costo dell'energia... Velocemente, noi non siamo assolutamente
+contro le rinnovabili, rinnovabili intendo fotovoltaico, anzi, però dobbiamo essere
+consapevoli che il fotovoltaico ci lega a doppio filo al gas, perché noi dobbiamo, cioè
+Terna deve essere pronta a immediatamente immettere in rete la potenza mancante qualora,
+per condizioni atmosferiche, il fotovoltaico scende.
+
+Ci vorranno batterie, questo può mitigare il problema, però l'aspetto di fondo è che dovrà
+sicuramente entrare il gas tutte le volte che c'è un buco, perché la centrale del turbogas
+è l'unica che riesce a entrare in funzione immediatamente. Come il vostro porno, voi
+girate e si accende, e ricordatevi di accendere, ecco, però questo capisci che ti lega a
+doppio filo col gas, no? Sì, sì, no, io stesso lo scopro. Questo qua è fondamentale, però
+c'è anche il fatto da dire che l'unico modo che noi abbiamo nel breve periodo per
+abbassare le bollette è quella di fare in modo che il gas determini il prezzo marginale,
+quindi il prezzo di tutte le altre fonti, per il meno tempo possibile.
+
+No? E come lo scrivi a questa cosa qua del decoupling, su cui tutti insistono, c'è tutto…
+Decoupling intende… Decoupling, del distaccarsi dal prezzo del gas. Ecco, l'unico modo per
+distaccarsi dal prezzo del gas è fare degli accordi di Power Process Agreement o dei
+contratti CFD che, come dire, stabiliscono i prezzi delle rinnovabili. Un contratto CFD
+cosa vuol dire?
+
+Si fa l'accordo tra l'esercente del fotovoltaico e il gestore della rete che compra
+l'energia dicendo io te la prendo con questo contratto CFD con uno strike a 40 euro, dico
+una cifra, no? Se il prezzo dell'energia è superiore io continuo a pagarti 40 euro e io
+gestore ci guadagno. Se il prezzo scende ci guadagno l'esercente, no? Quindi in questo
+modo il prezzo è fissato e lo disaccoppio dal prezzo marginale dell'energia.
+
+Questo qua è una cosa che va spinta, ma va spinta ovviamente come unico elemento di
+stabilizzazione dei prezzi. Non possiamo continuare non possiamo perché guarda stavo
+leggendo proprio prima di iniziare questa diretta un articolo di energia sul blog, una
+preview di un articolo e parlava della Cina. Ora la Cina ha una capacità di produzione di
+pannelli fotovoltaici di 1.2 per watt che è 1200 gigawatt. La roadmap dell'Energy Agency
+prevede l'installazione di 750 megawatt all'anno.
+
+Quindi la Cina è in grado di produrre circa 70% in più di quella che sarebbe la richiesta
+per soddisfare la domanda Net Zero. Questo significa che i prezzi dei pannelli
+fotovoltaici andranno a 6. Cioè io prevedo che è nettamente superiore alla domanda
+considerando tutti i produttori a livello mondiale c'è un fattore 2. Però le overcapacity
+hanno anche altri effetti se non ci sono i sussidi il prezzo scende solo perché c'è il
+sussidio altrimenti le aziende vanno in fallimento.
+
+Sai se scende il prezzo del fotovoltaico io potrei fare imporre l'utilizzo di batterie.
+Attualmente uno sorvenziona solo il fotovoltaico difficilmente viene sorvenzionata la
+batteria. Però la batteria ha un grosso effetto nel senso della stabilizzazione poi della
+rete che attualmente sono tutti oneri a carico del contribuente di chi produce. Quindi già
+l'obbligare a mettere batterie andrebbe nel senso che non ci sono le aziende che hanno
+bisogno di batterie perché ne produco troppa.
+
+Però noi dobbiamo sfruttare questa congiuntura favorevole che vede i prezzi del
+fotovoltaico abbassarsi. Ci sono altre implicazioni sicuramente la Cina dovrà spingere
+incredibilmente sull'elettrificazione e deve spingere sull'elettrificazione dei consumi e
+soprattutto ha un'arma fortissima che io temo salterà fuori alla prossima COP30 che inizia
+adesso il monedì per cui l'argomento forte della Cina è che voi europei state
+decarbonizzando grazie a noi. Questo è un argomento ulteriore di decarbonizzazione perché
+gli obiettivi che voi state raggiungendo li state raggiungendo grazie ai pannelli che
+facciamo noi. Questo è l'argomento cinese e i cinesi stanno in questo campo è interessante
+ma duplice però entriamoci in un altro momento.
+
+Nel breve si può installare fotovoltaico senza sussidi in modo tale da potenziare questi
+contratti CFD che ti permettono di fare questo disaccoppiamento in modo che il prezzo
+marginale dato dal gas si riduca progressivamente e comunque incida sempre meno.
+Attualmente incide per circa il 65% del tempo è un successo incredibile in termini di… e
+poi c'è anche un altro aspetto se vogliamo che è sulle concessioni dei gestori e
+attualmente con la finanziaria del 25 sono state prorogate senza mandare a gara cioè c'era
+il decreto di Versani che prevedeva le gare noi adesso il governo Meloni e sicuramente noi
+non potremmo beneficiare di quella sana concorrenza di mercato che tra bassi prezzi. Eh
+sì, a questo governo la concorrenza non piace e le proroghe le fanno per i balneari e le
+fanno anche. Nel mondo dei sussidi è proprio il punto di ora una delle cose che molti
+devono cercare di capire è perché appaia il nuovo sui sussidi perché il vecchio c'è che ti
+vota il nuovo che potrebbe essere il migliore fa fatica ad apparire.
+
+Marco ti ringrazio e magari allora annunciamo c'è in arrivo appena finiamo un po' con
+questa settimana faremo ancora presentazioni di tesi in arrivo una rubrica che Marco ha
+organizzato su proprio questi temi. L'ho già organizzato insieme al nostro iscritto
+Edoardo Ventafredda che è molto attivo nei Giovani Blu il titolo non sappiamo bene ancora
+come sarà ma dovrebbe giocare sulla differenza di età tipo che so l'attivista e professore
+una cosa che vuole alternare un pochettino di informazioni più didattiche però fatte in un
+modo io mi metto a fare lezione chiacchierata insieme ad Edoardo che farà emergere alcuni
+punti proprio sullo spettro di dati poi invitare qualche ospite sia interno al Drendrin
+ovviamente ora scusate ma anche esterno per approfondire argomenti a tema energie in
+generale focus tu su nucleare perché questa è la mia comfort zone però a tema energie in
+generale dovremmo cominciare in ottobre scusate in dicembre pensate di girare a dicembre
+quindi non a fine novembre ma bene non abbiamo ancora capito state tuned voi che ascoltate
+fate girare associatevi adesso vado a vedere se vi siete associati un po' di più 25 euro o
+la pizza donate 25 euro a ora stavo per dire al Drendrin ringraziate Marco Caresana per il
+suo contributo Marco grazie e buona sera a te Michele buona serata ciao a tutti proviamo a
+dire ma anche a fare l'ovvio

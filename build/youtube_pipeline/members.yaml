@@ -1,0 +1,158 @@
+# ORA party members — used to filter speakers during YouTube transcript distillation.
+#
+# Source: https://ora-italia.it/partito/   (fetched 2026-05-15, supplied by Riccardo)
+# Bodies covered: Segretario, Presidente, Segreteria Nazionale,
+#                 Segreteria Presidente, Consiglio Direttivo, Assemblea Nazionale.
+#
+# Filter rule for distillation:
+#   - A claim is extracted as party voice IFF the speaker matches an entry in
+#     `members` (by name, with light fuzzy matching for spelling variants).
+#   - External experts not in this list (Cassese, Sesta, Bizzarri, Molteni,
+#     Skeptical Health, etc.) get their claims dropped — even when they speak
+#     in an ORA-channel video. The ORA member's replies in those dialogues
+#     are still extractable.
+#
+# Body abbreviations used throughout: SN = Segreteria Nazionale,
+# SP = Segreteria Presidente, CD = Consiglio Direttivo, AN = Assemblea Nazionale.
+
+members:
+  - {name: "Alberto Annesi",                    slug: alberto-annesi,                    bodies: [AN]}
+  - {name: "Alberto Forchielli",                slug: alberto-forchielli,                bodies: [Presidente], role: Presidente}
+  - {name: "Alessandro Bonacina",               slug: alessandro-bonacina,               bodies: [AN]}
+  - {name: "Alessandro Canzonieri",             slug: alessandro-canzonieri,             bodies: [AN]}
+  - {name: "Alessandro Maro",                   slug: alessandro-maro,                   bodies: [AN]}
+  - {name: "Alessandro Naimzada",               slug: alessandro-naimzada,               bodies: [AN]}
+  - {name: "Alessandro Trombi",                 slug: alessandro-trombi,                 bodies: [AN]}
+  - {name: "Alex Rao",                          slug: alex-rao,                          bodies: [AN]}
+  - {name: "Alexandru Dima",                    slug: alexandru-dima,                    bodies: [AN]}
+  - {name: "Alfredo Mangano",                   slug: alfredo-mangano,                   bodies: [AN]}
+  - {name: "Andrea Giorcelli",                  slug: andrea-giorcelli,                  bodies: [AN]}
+  - {name: "Andrea Paccagnella",                slug: andrea-paccagnella,                bodies: [AN]}
+  - {name: "Andrea Savi",                       slug: andrea-savi,                       bodies: [SN, SP, CD, AN], area: Innovazione}
+  - {name: "Andrea Tonon",                      slug: andrea-tonon,                      bodies: [AN]}
+  - {name: "Anna Pagotto",                      slug: anna-pagotto,                      bodies: [CD, AN]}
+  - {name: "Antonio Francesco Fusca",           slug: antonio-francesco-fusca,           bodies: [AN]}
+  - {name: "Antonio Monteferrante",             slug: antonio-monteferrante,             bodies: [AN]}
+  - {name: "Carlo Bramanti",                    slug: carlo-bramanti,                    bodies: [AN]}
+  - {name: "Carlo Cuppari",                     slug: carlo-cuppari,                     bodies: [AN]}
+  - {name: "Carmelo Abate",                     slug: carmelo-abate,                     bodies: [CD, AN]}
+  - {name: "Claudio d'Agostino",                slug: claudio-dagostino,                 bodies: [SP]}
+  - {name: "Cristiano Balugani",                slug: cristiano-balugani,                bodies: [AN]}
+  - {name: "Daniel Dui",                        slug: daniel-dui,                        bodies: [AN]}
+  - {name: "Daniele Boggian",                   slug: daniele-boggian,                   bodies: [SP], role: Tesoriere}
+  - {name: "Daniele Santangelo",                slug: daniele-santangelo,                bodies: [AN]}
+  - {name: "Danilo Tozzi",                      slug: danilo-tozzi,                      bodies: [AN]}
+  - {name: "Dario Prisco",                      slug: dario-prisco,                      bodies: [AN]}
+  - {name: "Dario Tomasello",                   slug: dario-tomasello,                   bodies: [AN]}
+  - {name: "David Pedratscher",                 slug: david-pedratscher,                 bodies: [AN]}
+  - {name: "Davide Licitra",                    slug: davide-licitra,                    bodies: [AN]}
+  - {name: "Davide Locatelli",                  slug: davide-locatelli,                  bodies: [AN]}
+  - {name: "Davide Moretti",                    slug: davide-moretti,                    bodies: [AN]}
+  - {name: "Davide Vecchi",                     slug: davide-vecchi,                     bodies: [AN]}
+  - {name: "Davide Zaniboni",                   slug: davide-zaniboni,                   bodies: [AN]}
+  - {name: "Denis Pagotto Vit",                 slug: denis-pagotto-vit,                 bodies: [SN, CD, AN], area: Comunicazione}
+  - {name: "Elena Pigato",                      slug: elena-pigato,                      bodies: [AN]}
+  - {name: "Elena Tosana",                      slug: elena-tosana,                      bodies: [SP, CD, AN]}
+  - {name: "Emanuele Maccario",                 slug: emanuele-maccario,                 bodies: [AN]}
+  - {name: "Emiliano Gentilini",                slug: emiliano-gentilini,                bodies: [AN]}
+  - {name: "Enrico Tesio",                      slug: enrico-tesio,                      bodies: [AN]}
+  - {name: "Enrico Vittorio Alessandro Bonito", slug: enrico-vittorio-alessandro-bonito, bodies: [AN]}
+  - {name: "Ermanno Rucli",                     slug: ermanno-rucli,                     bodies: [AN]}
+  - {name: "Eude Falvo",                        slug: eude-falvo,                        bodies: [AN]}
+  - {name: "Fabio Pietrogiovanni",              slug: fabio-pietrogiovanni,              bodies: [AN]}
+  - {name: "Fabrizio Biscotti",                 slug: fabrizio-biscotti,                 bodies: [AN]}
+  - {name: "Fabrizio Pascarella",               slug: fabrizio-pascarella,               bodies: [AN]}
+  - {name: "Federico Allegro",                  slug: federico-allegro,                  bodies: [AN]}
+  - {name: "Federico Iotti",                    slug: federico-iotti,                    bodies: [AN]}
+  - {name: "Francesco Bonacini",                slug: francesco-bonacini,                bodies: [AN]}
+  - {name: "Francesco Cirillo",                 slug: francesco-cirillo,                 bodies: [CD]}
+  - {name: "Francesco Di Paola",                slug: francesco-di-paola,                bodies: [AN]}
+  - {name: "Francesco Guercio",                 slug: francesco-guercio,                 bodies: [AN]}
+  - {name: "Francesco Lubiano",                 slug: francesco-lubiano,                 bodies: [AN]}
+  - {name: "Francesco Mercuri",                 slug: francesco-mercuri,                 bodies: [CD, AN]}
+  - {name: "Fulvio Calia",                      slug: fulvio-calia,                      bodies: [AN]}
+  - {name: "Gabriele Ballicu",                  slug: gabriele-ballicu,                  bodies: [CD, AN]}
+  - {name: "Giacomo Colombari",                 slug: giacomo-colombari,                 bodies: [AN]}
+  - {name: "Giacomo Robutti",                   slug: giacomo-robutti,                   bodies: [AN]}
+  - {name: "Giorgio Antongiovanni",             slug: giorgio-antongiovanni,             bodies: [AN]}
+  - {name: "Giorgio Avanzino",                  slug: giorgio-avanzino,                  bodies: [AN]}
+  - {name: "Giorgio Pablo Vallasciani",         slug: giorgio-pablo-vallasciani,         bodies: [AN]}
+  - {name: "Giovanna Cischele",                 slug: giovanna-cischele,                 bodies: [AN]}
+  - {name: "Giovanni Greco",                    slug: giovanni-greco,                    bodies: [AN]}
+  - {name: "Giulia Maria Carravieri",           slug: giulia-maria-carravieri,           bodies: [AN]}
+  - {name: "Giulia Secchi",                     slug: giulia-secchi,                     bodies: [CD, AN]}
+  - {name: "Giuseppe Ferlisi",                  slug: giuseppe-ferlisi,                  bodies: [AN]}
+  - {name: "Ilaria Pedi",                       slug: ilaria-pedi,                       bodies: [AN]}
+  - {name: "Jacopo Cecchini",                   slug: jacopo-cecchini,                   bodies: [AN]}
+  - {name: "Laura Bertossi",                    slug: laura-bertossi,                    bodies: [SN, CD, AN], area: Comunicazione}
+  - {name: "Laura Scalfi",                      slug: laura-scalfi,                      bodies: [SN, CD, AN], area: Istruzione}
+  - {name: "Leonardo Batini",                   slug: leonardo-batini,                   bodies: [CD, AN]}
+  - {name: "Leonardo Grancelli",                slug: leonardo-grancelli,                bodies: [AN]}
+  - {name: "Leonardo Perlini",                  slug: leonardo-perlini,                  bodies: [AN]}
+  - {name: "Leonardo Raspanti",                 slug: leonardo-raspanti,                 bodies: [AN]}
+  - {name: "Luca Bertoni",                      slug: luca-bertoni,                      bodies: [AN]}
+  - {name: "Luciano Lonardi",                   slug: luciano-lonardi,                   bodies: [AN]}
+  - {name: "Manuel Riani",                      slug: manuel-riani,                      bodies: [AN]}
+  - {name: "Marco Becattini",                   slug: marco-becattini,                   bodies: [SP], role: Vicepresidente Assemblea}
+  - {name: "Marco Caresana",                    slug: marco-caresana,                    bodies: [CD]}
+  - {name: "Marco Cozzi",                       slug: marco-cozzi,                       bodies: [AN]}
+  - {name: "Marco Infulati",                    slug: marco-infulati,                    bodies: [AN]}
+  - {name: "Marco Manfredi",                    slug: marco-manfredi,                    bodies: [AN]}
+  - {name: "Marco Margotti",                    slug: marco-margotti,                    bodies: [AN]}
+  - {name: "Marco Messina",                     slug: marco-messina,                     bodies: [AN]}
+  - {name: "Mario Porzio",                      slug: mario-porzio,                      bodies: [AN]}
+  - {name: "Massimo Famularo",                  slug: massimo-famularo,                  bodies: [CD, AN]}
+  - {name: "Massimo Mauro",                     slug: massimo-mauro,                     bodies: [AN]}
+  - {name: "Matteo Ferraretto",                 slug: matteo-ferraretto,                 bodies: [CD, AN]}
+  - {name: "Matteo Giovannelli",                slug: matteo-giovannelli,                bodies: [AN]}
+  - {name: "Matteo Pisani",                     slug: matteo-pisani,                     bodies: [AN]}
+  - {name: "Matteo Poloni",                     slug: matteo-poloni,                     bodies: [SP, AN]}
+  - {name: "Mattia Bressanelli",                slug: mattia-bressanelli,                bodies: [AN]}
+  - {name: "Mattia Catalano",                   slug: mattia-catalano,                   bodies: [AN]}
+  - {name: "Michele Boldrin",                   slug: michele-boldrin,                   bodies: [Segretario, AN], role: Segretario}
+  - {name: "Michele Magnani",                   slug: michele-magnani,                   bodies: [AN]}
+  - {name: "Michele Minazzato",                 slug: michele-minazzato,                 bodies: [AN]}
+  - {name: "Monica Dibilio",                    slug: monica-dibilio,                    bodies: [AN]}
+  - {name: "Nazareno Lecis",                    slug: nazareno-lecis,                    bodies: [AN]}
+  - {name: "Niccolò Di Leo",                    slug: niccolo-di-leo,                    bodies: [AN]}
+  - {name: "Osvaldo Mazzei",                    slug: osvaldo-mazzei,                    bodies: [AN]}
+  - {name: "Paolo Barigelli",                   slug: paolo-barigelli,                   bodies: [AN]}
+  - {name: "Pierluigi Selvaggi",                slug: pierluigi-selvaggi,                bodies: [AN]}
+  - {name: "Pietro Dallari",                    slug: pietro-dallari,                    bodies: [CD]}
+  - {name: "Pietro Semilia",                    slug: pietro-semilia,                    bodies: [AN]}
+  - {name: "Plinio Perin",                      slug: plinio-perin,                      bodies: [CD, AN]}
+  - {name: "Riccardo Garippa",                  slug: riccardo-garippa,                  bodies: [AN]}
+  - {name: "Riccardo Sandretto",                slug: riccardo-sandretto,                bodies: [CD, AN]}
+  - {name: "Riccardo Senatore",                 slug: riccardo-senatore,                 bodies: [AN]}
+  - {name: "Riccardo Vicentini",                slug: riccardo-vicentini,                bodies: [AN]}
+  - {name: "Roberta Crescentini",               slug: roberta-crescentini,               bodies: [SN, CD, AN], area: Organizzazione e Territori}
+  - {name: "Roberto Donà",                      slug: roberto-dona,                      bodies: [AN]}
+  - {name: "Roberto Gambelli",                  slug: roberto-gambelli,                  bodies: [CD, AN]}
+  - {name: "Ruggero Aricò",                     slug: ruggero-arico,                     bodies: [AN]}
+  - {name: "Sandro Degl'Innocenti",             slug: sandro-degl-innocenti,             bodies: [AN]}
+  - {name: "Sebastiano Sucquet",                slug: sebastiano-sucquet,                bodies: [AN]}
+  - {name: "Sergio Allevato",                   slug: sergio-allevato,                   bodies: [CD]}
+  - {name: "Sergio Cucini",                     slug: sergio-cucini,                     bodies: [AN]}
+  - {name: "Simone Chiesa",                     slug: simone-chiesa,                     bodies: [AN]}
+  - {name: "Simone Magnolini",                  slug: simone-magnolini,                  bodies: [AN]}
+  - {name: "Sirio Papa",                        slug: sirio-papa,                        bodies: [AN]}
+  - {name: "Sonia Graziani",                    slug: sonia-graziani,                    bodies: [CD, AN]}
+  - {name: "Stefano Merigliano",                slug: stefano-merigliano,                bodies: [CD, AN], area: "Sanità (WG lead, identified via Programmapres)"}
+  - {name: "Susanna Panfili",                   slug: susanna-panfili,                   bodies: [AN]}
+  - {name: "Tiziano Conselvan",                 slug: tiziano-conselvan,                 bodies: [AN]}
+  - {name: "Tommaso Giacomoni",                 slug: tommaso-giacomoni,                 bodies: [AN]}
+  - {name: "Ugo Bruno Gambardella",             slug: ugo-bruno-gambardella,             bodies: [AN]}
+  - {name: "Ugo Genesio",                       slug: ugo-genesio,                       bodies: [AN]}
+  - {name: "Umberto Bertonelli",                slug: umberto-bertonelli,                bodies: [SN, CD, AN], area: Programma & Lab}
+  - {name: "Valentina Callegaro",               slug: valentina-callegaro,               bodies: [CD]}
+  - {name: "Vincenzo Claudio Piscopo",          slug: vincenzo-claudio-piscopo,          bodies: [AN]}
+
+# Speakers confirmed NOT to be ORA members — their claims are dropped during
+# distillation. Added defensively so the prompt has an explicit blocklist.
+external_guests:
+  - {name: "Sabino Cassese",   slug: sabino-cassese,   note: "Ex giudice Corte Costituzionale; Giustizia dialogue"}
+  - {name: "Nicolò Sesta",     slug: nicolo-sesta,     note: "Giustizia dialogue guest"}
+  - {name: "Ranieri Bizzarri", slug: ranieri-bizzarri, note: "Università dialogue guest"}
+  - {name: "Alberto Molteni",  slug: alberto-molteni,  note: "SSN in Codice Rosso dialogue with Merigliano"}
+  - {name: "Skeptical Health", slug: skeptical-health, note: "Sanità del Futuro dialogue (channel/persona, not individual)"}
+  # More external guests may surface during distillation — add here as identified.

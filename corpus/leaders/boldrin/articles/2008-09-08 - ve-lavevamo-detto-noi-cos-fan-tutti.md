@@ -1,0 +1,58 @@
+---
+id: ve-lavevamo-detto-noi-cos-fan-tutti
+type: leader_article
+attribution: boldrin
+title: "Ve l'avevamo detto noi: così fan tutti!"
+authors: Michele Boldrin
+source: noiseFromAmerika
+source_url: "https://www.noisefromamerika.org/articolo/ve-lavevamo-detto-noi-cos-fan-tutti"
+date_published: 2008-09-08
+date_scraped: 2026-05-11
+topics: [sviluppo-economico, banche-finanza, governance-riforme, innovazione]
+relevance: 3
+stance_type_tag: analytical
+evolution_risk: low
+stance_count: 6
+corpus_status: include
+content_hash: c15363405e6efc2061fe80e831570f230da76a85659b75a97eeb45c43ce25f6b
+---
+# Ve l'avevamo detto noi: così fan tutti!
+
+Assumo che i fatti siano noti ([italiano](<http://www.corriere.it/economia/08_settembre_07/freddie_mac_3b4666ec-7cf7-11dd-ba5e-00144f02aabc.shtml>), [inglese](<http://www.nytimes.com/2008/09/08/business/08fannie.html?_r=1&hp&oref=slogin>)).
+
+Assumo anche che il lettore sappia cosa sono e fanno [Fannie Mae](<http://en.wikipedia.org/wiki/Fannie_Mae>) & [Freddie Mac](<http://en.wikipedia.org/wiki/Freddie_Mac>) (F&F). Tra l'altro, ce n'è un'altra, [Ginnie Mae](<http://en.wikipedia.org/wiki/Government_National_Mortgage_Association>), la quale non è nei guai solo perché da un lato si occupa di un segmento di mercato poco rischioso e, dall'altro, non le è stato mai permesso d'infilarsi nel folle vortice di moral hazard in cui sguazzano da anni F&F.
+
+Son certo che i giornali italiani si riempiranno di articoli - scritti dai novelli teorici del mercato nazional-patriottico e social-statale - sostenenti una qualche combinazione dei tre argomenti che seguono.
+
+(A) La nazionalizzazione di F&F è analoga al salvataggio di Alitalia che l'operazione CAI mette in atto.
+
+(B) Anche nei paesi più liberisti lo stato interviene per salvare aziende private in crisi e per evitare, così, la perdita di un capitale di conoscenze e capacità che costituiscono un patrimonio strategico per il sistema paese.
+
+(C) Poiché questo sembra accadere oramai ovunque, è necessario che anche in Italia lo stato intervenga aiutando le imprese in difficoltà e prestando aiuti di vario tipo alle aziende italiane che lo necessitino per competere sui mercati internazionali. Se non si fa così è l'intero sistema-paese che ne risente, perdiamo tutti perché l'Italia diventa un paese meno competitivo.
+
+**BALLE.** Sonore balle dell'oramai celebre serie "Tre balle per un soldo". Prima di vedere perché riassumo il mio giudizio sulla nazionalizzazione di F&F.
+
+_Per una volta non vedo alternativa: contrariamente al caso di B &S ([qui](<http://www.noisefromamerika.org/index.php/articoli/867>) e [qui](<http://www.noisefromamerika.org/index.php/articoli/L%27ultima_%22put%22_di_Greenspan_...?fb=keywords>)), in questo caso era diventato necessario intervenire. Non farlo avrebbe portato al crollo delle due aziende che gestiscono la metà del mercato americano delle ipoteche, sfasciando completamente quell'industria e con essa una buona parte del sistema bancario USA e mondiale. [Too big to fail](<http://en.wikipedia.org/wiki/Too_Big_to_Fail_policy>), questa volta, va purtroppo applicata. _
+
+_Questo doppio disastro era da un lato perfettamente evitabile e, dall'altro, è il prodotto del continuo intervento dello stato nel settore, accoppiato ad una regolazione inconsulta. Inconsulta perché di fatto scritta dai managers delle istituzioni finanziarie che dovrebbero esserne disciplinate e che hanno invece completamente "[catturato](<http://en.wikipedia.org/wiki/Regulatory_capture>)" i loro regolatori: Congresso, SEC, Federal Reserve Board. Questo implica che, sopo il salvataggio necessario, occorrerà augurarsi che si arrivi allo smembramento di F&F in almeno quattro o cinque entità più piccole, totalmente indipendenti una dall'altra, non implicitamente "coperte" dalla garanzia federale ed effettivamente e totalmente private. Non sarà facile viste le elezioni ed il cambio di amministrazione, la congiuntura economica e la forza degli interessi che a tale riforma si opporrebbero. È anche da augurarsi che si crei una nuova agenzia indipendente - temo la Fed sia così in tasca a Wall Street che non sia il caso di augurarsi che essa diventi o crei tale agenzia; temo anche che succederà l'opposto di quanto auspico - che regoli l'intero mercato delle ipoteche, forzando in esso la trasparenza e la concorrenza che mancano da almeno un decennio, sostituiti da collusione fra i vari operatori e financo da vera e propria corruzione/truffa a multipli livelli._
+
+Mi rendo conto che questo sia un giudizio apodittico e poco articolato. Se il tempo me lo permetterà proverò ad articolarlo in futuro, magari nella discussione (i vantaggi di un blog sono multipli ...).
+
+Veniamo ora alle prevedibili tesi degli statalisti nostrani.
+
+**(A) È UNA BALLA.** Lo è, banalmente, (A.1) perché se crollano F&F (ossia, se l'insieme di arragiamenti contrattuali che le definisce viene sospeso o obliterato) crolla anche il sistema finanziario USA e rischia quello mondiale, mentre se fallisce Alitalia non succede nulla, neanche in Italia. Detto altrimenti: nel caso di F&F il rischio sistemico c'è, mentre nel caso di Alitalia non c'è per nulla. (A.2) Mentre gli azionisti di F&F perdono la camicia ed i loro managers verranno finalmente cacciati, gli "stakeholdes" di Alitalia (fatta eccezione, forse, per i pochi azionisti di minoranza) non perdono niente, anzi ci guadagnano. Alitalia è stata fatta fallire, negli ultimi trent'anni, dai suoi stessi dipendenti, dai suoi managers, dai suoi sindacati. Tutti costoro verranno salvati, quindi premiati per il loro cattivo comportamento, dal piano BS/CAI. Una differenza non da poco. (A.3) Che io sappia non si era fatta avanti nessuna banca, USA o straniera, intenzionata a comprarsi F&F, licenziare metà dei suoi dipendenti e continuare a fare ciò che F&F fanno. AF, magari per due soldi, Alitalia se la sarebbe comprata e gli aerei avrebbero continuato a volare. Ma la differenza più importante, (A.4), è che il salvataggio di F&F avviene nazionalizzandole, non concedendo il loro attivo patrimoniale in dotazione ad una nuova azienda formata da un gruppo di banche "amiche" del presidente (o del ministro del Tesoro), mentre il passivo finisce a carico dei contribuenti. Nemmeno risulta che, a questa non-esistente nuova banca privata, venga concesso per legge (ed in deroga alla regolazione esistente) il monopolio del commercio delle ipoteche immobiliari all'interno degli USA. Entrambe queste sconcezze sono invence successe o stanno succedendo in Italia con la CAI.
+
+**(B) È UNA BALLA.** Le tentazioni stataliste non sono certo esclusiva italiana, la differenza è ovviamente quantitativa, anche se enorme. Ma non sta qui il punto: che io sappia le nazionalizzazioni, i salvataggi, le operazioni protezionistiche con la conseguente creazione di un monopolio di stato non servono mai per proteggere ciò che nel paese in questione veramente vale. È lì che sta la balla vera: gli interventi statalisti non servono mai per valorizzare gli investimenti strategici di un paese! Essi servono o per salvarsi all'ultimo momento dalle conseguenze drammatiche di passati errori di politica economica (caso di F&F) o per acquisire voti da particolari cosche e gruppi d'interesse in cambio di favori economici pagati dai contribuenti (caso di Alitalia/CAI). Sfido chiunque a portarmi un controesempio d'un qualche rilievo. Forse che in Italia lo stato interviene per valorizzare l'industria del design/moda, o delle cucine e dei mobili, o delle moto da corsa, o dell'alimentazione di qualità, e via dicendo? No, ovviamente. Forse che in Italia lo stato spende per la ricerca nel campo della microbiologia o della fisica dei materiali o dell'ingegneria genetica, cifre proporzionali a quelle che spreca su Alitalia, i forestali calabresi, i produttori di latte padani, gli olivocultori pugliesi, e via elencando "settori strategici" che gli statalisti vogliono "preservare" dalla concorrenza estera? Balle, appunto: balle strategiche.
+
+**(C) È UNA BALLA.** È vero il contrario: l'ondata statalista è in crescita ovunque nei paesi in declino mentre discende sempre più rapida nei paesi in ascesa. La regolarità storica si conferma ancora una volta: la crescita economica è frutto della crescita della concorrenza e della libertà economica individuale. La reazione pavloviana, comune sia all'Europa che agli USA, è chiedere intervento statale, protezionismo e strani monopoli per far fronte ai problemi di competizione che la crescita di Cina, India, Brasile, generano. Come ho [argomentato altrove](<http://www.noisefromamerika.org/index.php/articoli/Horror_Economics_%28II%29_>) queste richieste sono comprensibili, ma vanno gestite con [metodi altri](<http://www.noisefromamerika.org/index.php/articoli/862>) che il ritorno allo statalismo degli anni '30, che è quanto sta avvenendo in vari paesi europei ed anche negli USA.
+
+Inoltre, occorre capire che Cina&Co crescono proprio perché l'intervento statalista nell'economia lì si va riducendo: è nei settori dove lo stato si fa da parte che crescono, mentre laddove lo stato continua a proteggere, governare, possedere e pianificare le cose non vanno tanto bene. Il mito della Cina statalista che fa fuori tutti è solo un mito. Certo, essendo la Cina un paese dittatoriale il potere sta con il partito e l'esercito e lì stanno anche i soldi. Quindi, se vuoi fare affari, in Cina, devi essere o nel partito, o nell'esercito o farti ven volere dalle loro gerarchie. Questo vuol semplicemente dire che in Cina i capi comunisti e le gerarchie militari si stanno arricchendo grazie al mercato (assieme a svariati altri milioni di cinesi, va ricordato) ma NON vuol dire che in Cina lo stato passa il tempo a tassare i cittadini per tenere in piedi aziende decotte, gestite da manager incapaci e ripiene di lavoratori fannulloni. Nelle zone dove questo accade, perché ovviamente accade, si osserva meno crescita economica, non di più. Lo stesso vale per l'India che ha infatti cominciato a crescere quando ha cominciato ad abbandonare le sue politiche economiche stataliste. Anche all'interno dell'area UE&USA è facile notare come siano i paesi con minore dirigismo statalista e minore spesa pubblica improduttiva quelli che sembrano funzionare meglio, non viceversa.
+
+Più in generale: il "_sistema-paese_ " è un concetto molto impreciso ma, nella misura in cui lo si può trasformare in un concetto utile all'analisi economica, e alla comprensione dei processi di sviluppo in particolare, è chiaro che esso NON consiste di aerolinee di bandiera, banche nazional-socializzate ed aziende radio-televisive di stato. Se le parole "sistema-paese" significano qualcosa in grado di generare crescita e di attirare capitali e capacità dal resto del mondo, questo qualcosa è composto da: un sistema aeroportuale efficiente, moderno e competitivo, idem per quello ferroviario, idem per quello della comunicazione telefonica, idem per quello universitario, idem per quello giudiziario e di polizia, idem per quello amministrativo, idem per quello della ricerca di base, idem per quello dei trasporti pubblici locali, idem per quello del trattamento dei rifiuti, idem per quello sanitario ...
+
+Non che debbano esserlo, ma in Italia tutti questi settori sono o statali o controllati rigidamente dallo stato. Volete un sistema-paese che generi crescita? Occupatevi di quelli, signori ministri, non di aerolinee e di banche.
+  *[8 hrs]: Thursday, May 17, 2018 at 3:27am
+  *[4h]: Thursday, May 17, 2018 at 7:54am
+  *[3h]: Thursday, May 17, 2018 at 9:12am
+  *[2h]: Thursday, May 17, 2018 at 10:19am
+  *[55m]: Thursday, May 17, 2018 at 11:29am

@@ -2,8 +2,6 @@
 
 A personal project: an **Agentic-RAG chatbot** built around the published material of **ORA!**, the Italian centrist party founded by Michele Boldrin and Alberto Forchielli. It answers questions about ORA's positions, leaders' views, and how ORA compares to other Italian parties — always grounded in cited sources.
 
-*This is an independent project and is not affiliated with or endorsed by ORA.*
-
 This subdir holds the chatbot's design and runtime code. The shared corpus and ingestion pipeline live in the sibling [`../ora-mcp/`](../ora-mcp/) project.
 
 ---

@@ -4,8 +4,6 @@
 
 In practice: instead of answering *"ORA! probably thinks X about Y…"*, the assistant quotes the official position verbatim, distinguishing between the party's voice, the founders' personal views, and supporting data.
 
-*This is an independent project and is not affiliated with or endorsed by ORA.*
-
 **Server URL:** `https://ora-mcp-claudeai.fly.dev`
 
 ---
@@ -109,20 +107,6 @@ Expected response: two sides spelled out — ORA!'s position and Azione's — in
 > *(What is ORA!'s position on the colonization of Mars?)*
 
 Expected response: the assistant **explicitly states** that the party hasn't articulated a position, instead of inventing one. This is a key design property — the MCP doesn't force the AI to synthesize when the official source is silent.
-
----
-
-## What the MCP does (and doesn't do)
-
-**Does:**
-- Returns text chunks from the corpus, organized by trust tier (party voice / leaders / data / comparison)
-- Leaves the answer composition to the AI assistant, with sources cited
-- Works with any MCP client — claude.ai, Claude Desktop, Cursor, ChatGPT with MCP, etc.
-
-**Doesn't:**
-- Doesn't speak for the party — the server only provides sources
-- Doesn't answer personal questions about the founders outside their political activity
-- Isn't a replacement for the official party website `ora-italia.it`
 
 ---
 

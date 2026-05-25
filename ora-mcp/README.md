@@ -2,8 +2,6 @@
 
 A public MCP (Model Context Protocol) server that exposes a curated corpus of material from **ORA!**, an Italian centrist party, to AI assistants — Claude Desktop, Cursor, ChatGPT with MCP, claude.ai web custom connectors, and any other MCP-conformant client.
 
-*This is an independent project and is not affiliated with or endorsed by ORA.*
-
 ---
 
 ## What it does
@@ -27,12 +25,6 @@ Plus five static resources for ground-truth quoting: `ora://about`, `ora://manif
 - Comparative profiles of other major Italian parties (for explicit comparison queries)
 
 Roughly **3,665 indexed chunks** across all sources.
-
-## What it doesn't do
-
-- It doesn't speak for the party — it doesn't generate answers, only returns sources.
-- It doesn't post to social media, send emails, or manage contacts.
-- It isn't a replacement for any official party website.
 
 ## How to try it
 

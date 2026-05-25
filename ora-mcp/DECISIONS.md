@@ -8,7 +8,8 @@
 > maintainer (or the ORA technical team taking ownership) can understand
 > *why* the code looks the way it does.
 >
-> Status of every decision below: **DECIDED** as of 2026-05-23 (v0.1.0).
+> Status of every decision below: **DECIDED** as of 2026-05-24 (v0.1.0).
+> D31–D33 were finalized on 2026-05-24; D32 was reversed by D33 the same day.
 
 ---
 
@@ -37,7 +38,15 @@ the hood. Rejected — that's still a chatbot with extra steps.
 
 ## D02 — Separate repository from the chatbot
 
-**Decision.** New folder `C:\Users\ricca\Desktop\ora-mcp\`, sibling to the
+> **Reversed 2026-05-25 (monorepo merge).** The two projects were later
+> consolidated into a single monorepo at `RiccardoCeccaroni/ORA-Chatbot`
+> with `chatbot/` and `ora-mcp/` as sibling subdirs. Riccardo's
+> preference was a single workspace over two siblings; the handover
+> story is recoverable by re-extracting `ora-mcp/` to its own repo when
+> needed. The decision below describes the *original* rationale, kept
+> for the audit trail.
+
+**Decision (original).** New folder `C:\Users\ricca\Desktop\ora-mcp\`, sibling to the
 original `ORA Chatbot - presentation/`. Independent git history.
 
 **Why.**
@@ -75,6 +84,13 @@ streamable HTTP in the official MCP spec.
 
 ## D04 — Server framework: FastMCP + Starlette mount
 
+> **Topology revised by D33 (2026-05-24).** The "wrap in parent Starlette"
+> framing below is still right, but the mechanism changed: we no longer
+> `Mount("/mcp", _mcp_app)` — we splat `*_mcp_app.routes` into the parent
+> so OAuth metadata's root-level endpoints (`/authorize`, `/token`, etc.)
+> match reality. See D33 for the reason; LEARNINGS Bug F for the failure
+> mode this avoids.
+
 **Decision.** Use `FastMCP` from the official `mcp` Python SDK. Wrap its
 `streamable_http_app()` in a parent Starlette app to add a landing page
 and a health endpoint.
@@ -88,7 +104,7 @@ and a health endpoint.
 - Single ASGI app means single process to run under uvicorn — no
   multi-process orchestration.
 
-**Code reference.** `src/ora_mcp/server.py` lines 220–235.
+**Code reference.** `ora_mcp/server.py` lines 220–235.
 
 ---
 
@@ -147,16 +163,11 @@ wants quoted verbatim rather than paraphrased from a search.
   the full manifesto in one read — no orchestration logic needed on
   the client side.
 
-**Explicitly dropped from the original chatbot.**
-- `web_search` — host AIs already have web search; not the MCP's value.
-- `verify_answer` — verifier of generated text; this MCP doesn't generate.
-- `emit_refusal` — chatbot persona; not the MCP's job.
-
 ---
 
 ## D06 — Retrieval logic: lifted unchanged
 
-**Decision.** `src/ora_mcp/retrieval.py` is a near-verbatim merge of
+**Decision.** `ora_mcp/retrieval.py` is a near-verbatim merge of
 `agent/tools/corpus_retrieve.py` and `agent/tools/data_lookup.py` from the
 original project.
 
@@ -174,7 +185,7 @@ original project.
   technical team A/B-tests the MCP vs. the original system, divergence
   should be in presentation, not retrieval quality.
 
-**Code reference.** `src/ora_mcp/retrieval.py`.
+**Code reference.** `ora_mcp/retrieval.py`.
 
 ---
 
@@ -241,13 +252,13 @@ middleware.
 - In-memory state is acceptable for single-instance deploys (Fly.io's
   shared-cpu-1x). For horizontal scaling, swap to Redis.
 
-**Code reference.** `RateLimitMiddleware` in `src/ora_mcp/server.py`.
+**Code reference.** `RateLimitMiddleware` in `ora_mcp/server.py`.
 
 ---
 
 ## D10 — Secrets: env-vars only, no secrets file
 
-**Decision.** `src/ora_mcp/clients.py` reads `QDRANT_URL`, `QDRANT_API_KEY`,
+**Decision.** `ora_mcp/clients.py` reads `QDRANT_URL`, `QDRANT_API_KEY`,
 `VOYAGE_API_KEY` from `os.environ`. No secrets file.
 
 **Why.**
@@ -318,9 +329,17 @@ distroless image.
 
 **Decision.** Rate-limit state lives in a process-local dict.
 
+> **Updated 2026-05-24.** The deploy was switched to always-warm
+> (`min_machines_running = 1`, `auto_stop_machines = false`) for the
+> demo to avoid cold-start latency. The in-memory rate-limit decision
+> still applies — state still resets, just on Fly redeploys rather than
+> on auto-stop cycles.
+
 **Why.**
-- Single-machine deploy (Fly.io `shared-cpu-1x`, `min_machines_running=0`).
-- Fly.io's `auto_stop_machines=stop` policy means the process restarts
+- Single-machine deploy (Fly.io `shared-cpu-1x`, `min_machines_running=0`
+  in the original auto-stop config; `min_machines_running=1` in the
+  current always-warm config).
+- Fly.io's `auto_stop_machines=stop` policy (the original choice) meant the process restarts
   cold occasionally. Rate-limit state resets — acceptable for the demo,
   since the limit is 30/min/IP, not a hard usage quota.
 
@@ -366,7 +385,7 @@ snippet.
   it into a browser. A 404 there hurts the demo.
 - 50 lines of HTML, no JS — zero ops cost.
 
-**Code reference.** `_LANDING_HTML` in `src/ora_mcp/server.py`.
+**Code reference.** `_LANDING_HTML` in `ora_mcp/server.py`.
 
 ---
 
@@ -502,7 +521,8 @@ legacy file. Estimated effort: 30 minutes.
 would bloat the Fly.io image by >100 MB (mostly `corpus/other-parties/`),
 slow deploys, and waste container storage.
 
-**Reference.** `.dockerignore` at project root.
+**Reference.** `.dockerignore` at the `ora-mcp/` root (path is relative
+to the MCP project, not the monorepo root).
 
 ---
 
@@ -510,7 +530,7 @@ slow deploys, and waste container storage.
 
 1. **Hosting** — keep on Fly.io, or migrate to ORA-controlled infra?
    The Docker image is portable; either works.
-2. **Domain** — keep `ora-mcp.fly.dev`, or move to `mcp.ora-italia.it`?
+2. **Domain** — keep `ora-mcp-claudeai.fly.dev`, or move to `mcp.ora-italia.it`?
    Custom domain via Fly.io is `fly certs add`.
 3. **Manifesto resource** — should `ora://manifesto` ship the full text
    (575 KB, current default) or a curated summary plus a `manifesto_thesis`
@@ -607,6 +627,12 @@ constant.
 
 ## D25 — Forward FastMCP lifespan when mounted as sub-app
 
+> **Code sample superseded by D33.** The `Mount("/mcp", app=_mcp_app)`
+> pattern in the snippet below was replaced by route-splatting (D33,
+> LEARNINGS Bug F). The lifespan-forwarding logic itself still applies
+> — see current `ora_mcp/server.py`.
+
+
 **Context.** When the server was first launched, every POST to `/mcp`
 returned `500 Internal Server Error` with the trace:
 `RuntimeError: Task group is not initialized. Make sure to use run().`
@@ -640,6 +666,12 @@ not boilerplate.
 
 ## D26 — `streamable_http_path="/"` to avoid double-mounting at `/mcp/mcp`
 
+> **Superseded by D33 (2026-05-24).** Once we splatted routes into the
+> parent (D33), there's no `Mount("/mcp", ...)` to compose with, so the
+> `streamable_http_path` workaround is no longer needed. Current
+> `ora_mcp/server.py` constructs `FastMCP("ORA!")` without the argument.
+
+
 **Context.** FastMCP defaults `streamable_http_path = "/mcp"`. When the
 sub-app is mounted at `/mcp` in the parent Starlette router, the actual
 HTTP endpoint becomes `/mcp/mcp` — clients connecting to the documented
@@ -669,6 +701,13 @@ uses `os.environ.setdefault()` so explicitly-exported values still win.
 **Why not `python-dotenv`.** Adding a dependency for ~15 lines of code
 was disproportionate. The minimal loader is in `server.py` and matches the
 same logic the test scripts use, with no install surface.
+
+**Note after monorepo move (2026-05-25).** With `ora_mcp/` now living
+inside `ORA-Chatbot-monorepo/`, the `parent.parent / ".env"` lookup
+resolves to `ora-mcp/.env`. The loader still finds the canonical MCP
+.env there (where it was placed during the migration). Running the
+server from anywhere other than `ora-mcp/` or the monorepo root may
+miss the file — keep `python -m ora_mcp.server` invoked from `ora-mcp/`.
 
 ---
 
@@ -711,6 +750,11 @@ queries for both Boldrin and Forchielli, data lookups, party comparisons,
 all 5 resources, edge cases including privacy probes and parameter
 validation), produces a PDF report (`comprehensive_test_report.pdf`) with
 green/yellow/red verdict per test and an executive summary.
+
+> The PDF is a **generated artifact** — it is not committed to the
+> repository (regenerate with `python tests/comprehensive_report.py`).
+> Every reference to `comprehensive_test_report.pdf` in this document
+> assumes you have produced it locally first.
 
 **Why this rather than unit tests.** Retrieval quality is not a unit-test
 concern. The right question is "would a competent LLM, receiving these
@@ -978,9 +1022,10 @@ project remains the demo and the sibling is a learning artifact.
   *intended* model — same as today's open access. The OAuth dance is
   protocol theater. The corpus exposed is the party's public material;
   no confidential data is at risk.
-- **Doubled hosting cost during co-existence.** Two Fly apps
-  (`ora-mcp` + `ora-mcp-claudeai`) = ~$6.40/mo total. After the demo
-  decision, the unused app can be torn down with `fly apps destroy`.
+- **Doubled hosting cost during co-existence** (resolved — see follow-up below).
+  Two Fly apps (`ora-mcp` + `ora-mcp-claudeai`) ran simultaneously for
+  ~hours = ~$6.40/mo total. The original `ora-mcp` app was destroyed once
+  `ora-mcp-claudeai` was verified end-to-end.
 
 **Reference.** `ora_mcp/auth.py` (provider), `ora_mcp/server.py` lines
 near the `FastMCP(...)` constructor (wiring), `demo/README.md` (updated
@@ -1000,13 +1045,20 @@ and after migrating the Claude Code memory directory from
 `.claude/projects/C--Users-ricca-Desktop-ora-mcp/memory/` to
 `.claude/projects/C--Users-ricca-Desktop-ora-mcp-claudeai/memory/`.
 
-End state: a single project folder at
+End state (2026-05-24): a single project folder at
 `C:\Users\ricca\Desktop\ora-mcp-claudeai\` containing runtime code
 (with OAuth), corpus source files, build pipeline, YouTube ingest
 tools, and demo kit. A single live Fly app `ora-mcp-claudeai`. A
 single Claude Code project memory directory keyed on the new path.
 ~$3.19/mo total Fly cost; ~$8/year if kept running through demo
 period.
+
+**Further consolidation 2026-05-25.** The standalone `ora-mcp-claudeai/`
+folder was later merged into a single monorepo at
+`C:\Users\ricca\Desktop\ORA Projects\ORA-Chatbot-monorepo\` (alongside
+the chatbot project as `chatbot/`). The Fly app name (`ora-mcp-claudeai`),
+public URL, and live state are unchanged — only the local folder path
+moved. See D02's reversal note for the rationale.
 
 ---
 

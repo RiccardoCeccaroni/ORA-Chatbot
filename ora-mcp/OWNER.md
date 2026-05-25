@@ -152,7 +152,7 @@ account, the Voyage account — all independent and unaffected. Keep
 
 1. Open this folder in Claude Code:
    `C:\Users\ricca\Desktop\ORA Projects\ORA-Chatbot-monorepo\ora-mcp\`
-2. Read `CLAUDE.md` for architectural context.
+2. Read `DECISIONS.md` for the full architectural audit trail (33 decisions). `CLAUDE.md` if you have it locally — it's a gitignored AI-collaboration cheat sheet that won't be present on a fresh clone.
 3. Read `LEARNINGS.md` Section 10 for the bugs we hit (you'll save a day).
 4. Run `fly status --app ora-mcp-claudeai` to confirm the deploy is alive.
 5. Run `curl https://ora-mcp-claudeai.fly.dev/health` for the round-trip check.

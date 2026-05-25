@@ -57,14 +57,7 @@ The **shared corpus** (party material, leader profiles, comparison parties, stat
 
 The repository ships **without** any API keys — they are excluded by `.gitignore`. To run the bot yourself you'll need to bring your own keys for every external service the bot talks to, plus a populated Qdrant index.
 
-**1. Create `.env`** at the monorepo root:
-
-```
-ASSEMBLYAI_API_KEY=your_assemblyai_key
-ANTHROPIC_API_KEY=your_anthropic_key
-```
-
-**2. Create `build/.secrets/api keys.txt`** with the credentials the runtime reads (see `agent/secrets.py`):
+**1. Create `build/.secrets/api keys.txt`** with the credentials the runtime reads (see `agent/secrets.py` — this is the *only* place keys are loaded from for the chatbot):
 
 ```
 cluster: <your Qdrant API key>
@@ -75,7 +68,9 @@ postgres: <your Postgres connection string>
 openaikey: <your OpenAI key>
 ```
 
-**3. Populate the Qdrant index.** The chatbot reads from the same `ora_chunks` collection that the MCP uses. Either ingest the corpus yourself via the sibling pipeline:
+The `ANTHROPIC_API_KEY` environment variable, if set, overrides the `anthropic key` entry above (see the override block in `agent/secrets.py`).
+
+**2. Populate the Qdrant index.** The chatbot reads from the same `ora_chunks` collection that the MCP uses. Either ingest the corpus yourself via the sibling pipeline:
 
 ```
 cd ../ora-mcp
@@ -86,9 +81,9 @@ python build/ingest_qdrant.py --apply
 
 …or point your Qdrant credentials at an existing populated index.
 
-**4. Install Python dependencies** (see imports in `agent/` and `build/`).
+**3. Install Python dependencies** (see imports in `agent/` and `build/`).
 
-**5. Run the bot:**
+**4. Run the bot** from the `chatbot/` directory:
 
 ```
 python -m agent.cli

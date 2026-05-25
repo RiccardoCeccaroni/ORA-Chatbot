@@ -6,7 +6,7 @@ goal is to be able to explain the reasoning in conversation (or replicate
 it elsewhere) without re-reading the code.
 
 For the full audit trail with alternatives and code references, see
-`DECISIONS.md` (D01–D32). This document is the distilled "what I'd
+`DECISIONS.md` (D01–D33). This document is the distilled "what I'd
 remember a year from now".
 
 ---
@@ -170,9 +170,11 @@ operational complexity — defer until needed.
 
 Two hosting models, two trade-offs:
 
-- **Docker + Fly.io.** Professional URL (`ora-mcp.fly.dev`), survives
-  laptop being off, auto-restart on crash. Requires credit card + small
-  ongoing cost (~$0–2/month for our config with `auto_stop_machines`).
+- **Docker + Fly.io.** Professional URL (`ora-mcp-claudeai.fly.dev`),
+  survives laptop being off, auto-restart on crash. Requires credit card +
+  small ongoing cost (~$3.19/month for the current always-warm config
+  with `min_machines_running = 1`; ~$0–2/month if you flip to
+  `auto_stop_machines = "stop"` and accept cold-start latency).
 - **Cloudflare Tunnel.** Free, no card, ~30-second setup. URL is
   ephemeral (`*.trycloudflare.com`) and the service is only up while the
   laptop is on and the tunnel daemon is running.
@@ -200,9 +202,11 @@ connects to our HTTP server. From the user's perspective, it just works.
 ```json
 "ora": {
   "command": "npx",
-  "args": ["-y", "mcp-remote", "https://your-mcp-url/mcp"]
+  "args": ["-y", "mcp-remote", "https://your-mcp-url/mcp", "--transport", "http-only"]
 }
 ```
+
+(`--transport http-only` is load-bearing — see Bug D in Section 10.)
 
 **Generalizable principle.** When client A and server B can't talk
 natively, find the standard adapter — don't write your own. Look for

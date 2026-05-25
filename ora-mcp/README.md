@@ -98,9 +98,10 @@ npx @modelcontextprotocol/inspector
 
 ### Corpus maintenance
 
-The corpus and its build pipeline live **inside this project** (`corpus/` and `build/`). To update:
+The corpus and its build pipeline live **inside this project** (`corpus/` and `build/`). To update, run from the `ora-mcp/` directory:
 
 ```bash
+cd ora-mcp                                   # if you're at the monorepo root
 # Add or modify files under corpus/, then:
 pip install ".[build]"                       # if not done already
 python build/chunk_corpus.py --apply         # corpus → chunks.jsonl

@@ -1,5 +1,15 @@
 # Note di sessione — 23 maggio 2026
 
+> ⚠️ **Snapshot del 23 maggio 2026 — superato.** Le "cose da sistemare prima
+> del demo" (items 1, 3, 4) sono tutte state risolte da D31 e D33 il giorno
+> successivo. Lo stato attuale (server async parallelizzato, deploy Fly.io
+> con OAuth, app `ora-mcp-claudeai`) è descritto in `CLAUDE.md`,
+> `DECISIONS.md` (D31, D33), e `OWNER.md`. Questo file resta come diario
+> storico della giornata del pivot chatbot→MCP. Il conteggio "29 decisioni"
+> citato in fondo è anche obsoleto: ora sono 33.
+
+---
+
 > Appunti personali per ricordare cosa abbiamo fatto oggi e a che punto siamo.
 > Non un documento tecnico — quello è `DECISIONS.md`. Questo è il diario.
 

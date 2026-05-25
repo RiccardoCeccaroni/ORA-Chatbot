@@ -1,12 +1,21 @@
 # Deploy & demo runbook
 
-Operational guide for the maintainer: how to expose the ORA! MCP server to a
-public URL using Cloudflare Tunnel, and how to prepare a demo kit to send to
-ORA! management.
+> ⚠️ **Superseded by D33 (2026-05-24).** The current production deploy is
+> Fly.io with OAuth — live at `https://ora-mcp-claudeai.fly.dev`. See
+> `OWNER.md` for the operational runbook, and `DECISIONS.md` D33 for the
+> rationale. The Cloudflare-Tunnel path described below was an interim
+> demo solution that is no longer in use; the Fly section at the bottom
+> of this file is closer to the current setup but also out of date in
+> detail (always-warm `min_machines_running=1`, no `auto_stop_machines`).
+> This file is kept for historical reference.
 
-This is the **current recommended path** for the demo (see DECISIONS D32).
+---
+
+Operational guide for the maintainer: how to expose the ORA! MCP server to a
+public URL using Cloudflare Tunnel, and how to prepare a demo kit.
+
 The Fly.io artifacts (`fly.toml`, `Dockerfile`) are retained as a fallback
-for stable hosting when ORA adopts the project.
+for stable hosting.
 
 ---
 

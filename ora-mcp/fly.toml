@@ -1,11 +1,11 @@
 # Fly.io app config for the ORA! MCP server demo.
 #
 # Provision flow (run from this directory after installing flyctl):
-#   fly launch --no-deploy --copy-config --name ora-mcp
+#   fly launch --no-deploy --copy-config --name ora-mcp-claudeai
 #   fly secrets set QDRANT_URL=... QDRANT_API_KEY=... VOYAGE_API_KEY=...
 #   fly deploy
 #
-# Resulting endpoint: https://ora-mcp.fly.dev/mcp
+# Resulting endpoint: https://ora-mcp-claudeai.fly.dev/mcp
 
 app = "ora-mcp-claudeai"
 primary_region = "fra"   # Frankfurt — closest Fly region to Italy

@@ -15,5 +15,13 @@ __pycache__/
 .venv/
 venv/
 
+# Secrets / credentials (kept locally, never committed)
+.env
+.env.*
+
 # AI-collaboration scaffolding (kept locally, not committed)
 CLAUDE.md
+
+# Local-only working folders (raw source material, YouTube ingest cache)
+raw-materials/
+Distill YT info/

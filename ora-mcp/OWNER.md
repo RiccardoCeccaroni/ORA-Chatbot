@@ -88,7 +88,7 @@ Use `fly logs` to confirm what's reaching the server.
 ### Need to redeploy after a code change
 
 ```powershell
-cd "C:\Users\ricca\Desktop\ORA Projects\ora-mcp-claudeai"
+cd "C:\Users\ricca\Desktop\ORA Projects\ORA-Chatbot-monorepo\ora-mcp"
 fly deploy --app ora-mcp-claudeai
 ```
 
@@ -151,7 +151,7 @@ account, the Voyage account — all independent and unaffected. Keep
 ## Quick-recovery checklist (if you forget everything)
 
 1. Open this folder in Claude Code:
-   `C:\Users\ricca\Desktop\ORA Projects\ora-mcp-claudeai\`
+   `C:\Users\ricca\Desktop\ORA Projects\ORA-Chatbot-monorepo\ora-mcp\`
 2. Read `CLAUDE.md` for architectural context.
 3. Read `LEARNINGS.md` Section 10 for the bugs we hit (you'll save a day).
 4. Run `fly status --app ora-mcp-claudeai` to confirm the deploy is alive.

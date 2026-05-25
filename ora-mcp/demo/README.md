@@ -1,50 +1,44 @@
-# ORA! MCP — guida rapida
+# ORA! MCP — quick start
 
-**ORA!** è un partito politico italiano fondato da Michele Boldrin e Alberto
-Forchielli. Questo **MCP server** permette a Claude e ad altri assistenti AI
-compatibili con il protocollo MCP di consultare in tempo reale il corpus
-curato del partito — manifesto, comunicati, viste dei fondatori, dati ISTAT —
-quando l'utente fa una domanda.
+**ORA!** is an Italian political party founded by Michele Boldrin and Alberto Forchielli. This **MCP server** lets Claude and any other MCP-compatible AI assistant pull from the party's curated corpus in real time — manifesto, official communications, founder profiles, ISTAT data — whenever a user asks a question.
 
-In pratica: invece di rispondere *«su X il partito ORA! probabilmente pensa…»*,
-l'assistente cita testualmente la posizione ufficiale, distinguendo fra voce
-del partito, viste personali dei fondatori e dati a supporto.
+In practice: instead of answering *"ORA! probably thinks X about Y…"*, the assistant quotes the official position verbatim, distinguishing between the party's voice, the founders' personal views, and supporting data.
 
-**URL del server:** `https://ora-mcp-claudeai.fly.dev`
+*This is an independent project and is not affiliated with or endorsed by ORA.*
+
+**Server URL:** `https://ora-mcp-claudeai.fly.dev`
 
 ---
 
-## Opzione 1 (raccomandata): claude.ai sul browser
+## Option 1 (recommended): claude.ai in the browser
 
-Funziona su desktop e mobile. Niente da installare.
+Works on desktop and mobile. Nothing to install.
 
-1. Vai a **`https://claude.ai/customize/connectors`**.
-2. Clicca **"Add custom connector"** (o "Aggiungi connettore personalizzato").
-3. Incolla questo URL:
+1. Go to **`https://claude.ai/customize/connectors`**.
+2. Click **"Add custom connector"**.
+3. Paste this URL:
    ```
    https://ora-mcp-claudeai.fly.dev/mcp
    ```
-4. Salva. Claude ti mostrerà una schermata di autorizzazione OAuth — conferma
-   (un clic).
-5. Apri una nuova chat. Sotto al campo di input, attiva il connettore `ora`.
-6. Prova: *«qual è la posizione di ORA! sull'università?»*
+4. Save. Claude shows an OAuth authorization screen — confirm (one click).
+5. Open a new chat. Under the input box, enable the `ora` connector.
+6. Try: *«qual è la posizione di ORA! sull'università?»*
 
-Tempo totale: ~1 minuto. Funziona in qualsiasi browser e nelle app
-claude.ai per iOS / Android / Mac / Windows.
+Total time: ~1 minute. Works in any browser and in the claude.ai apps for iOS / Android / Mac / Windows.
 
 ---
 
-## Opzione 2: Claude Desktop (app locale)
+## Option 2: Claude Desktop (local app)
 
-Per chi preferisce l'app installata sul proprio computer.
+For users who prefer the installed desktop app.
 
-### 1. Apri il file di configurazione
+### 1. Open the config file
 
 In Claude Desktop: **Settings → Developer → Edit Config**.
 
-Si aprirà il file `claude_desktop_config.json`.
+The file `claude_desktop_config.json` opens.
 
-### 2. Aggiungi il blocco per il tuo sistema operativo
+### 2. Add the block for your OS
 
 **macOS / Linux:**
 
@@ -72,86 +66,75 @@ Si aprirà il file `claude_desktop_config.json`.
 }
 ```
 
-> Se hai già altri MCP configurati, aggiungi solo la voce `"ora": {...}`
-> dentro `"mcpServers"`, senza sostituire l'intero blocco.
+> If you already have other MCP servers configured, just add the `"ora": {...}` entry inside `"mcpServers"` — don't replace the whole block.
 
-### 3. Salva e riavvia Claude Desktop
+### 3. Save and restart Claude Desktop
 
-Chiudi completamente l'app (system tray → Quit su Windows) e riaprila.
+Fully quit the app (system tray → Quit on Windows) and reopen it.
 
-### 4. Verifica
+### 4. Verify
 
-Apri una nuova chat. In basso vedrai l'icona **"Search and tools"**.
-Cliccandoci, dovresti vedere `ora` nell'elenco, con i tool
-`find_position` e `data_lookup` disponibili.
+Open a new chat. At the bottom you'll see the **"Search and tools"** icon. Clicking it should list `ora` with the tools `find_position` and `data_lookup` available.
 
 ---
 
-## Domande da provare
+## Questions to try
 
-Per vedere il valore dell'MCP, prova queste quattro domande:
+To see what the MCP is good for, try these four queries (asked in Italian since the corpus is Italian):
 
-**1. Posizione del partito su un tema specifico**
+**1. Party position on a specific topic**
 
 > *«Qual è la posizione di ORA! sulla riforma del sistema pensionistico?»*
+> *(What is ORA!'s position on pension-system reform?)*
 
-Risposta attesa: citazione testuale dalla tesi pensionistica del manifesto,
-con riferimento alla fonte.
+Expected response: a verbatim quote from the pensions thesis in the manifesto, with a source reference.
 
-**2. Domanda quantitativa con dati istituzionali**
+**2. Quantitative question with institutional data**
 
 > *«Quali numeri ISTAT richiama ORA! sulla disoccupazione giovanile?»*
+> *(What ISTAT numbers does ORA! cite on youth unemployment?)*
 
-Risposta attesa: stat-cards con `quality_tier=D1` (ISTAT), periodo
-specificato, fonte indicata.
+Expected response: stat-cards with `quality_tier=D1` (ISTAT), specific period, source indicated.
 
-**3. Confronto strutturato con un altro partito**
+**3. Structured comparison with another party**
 
 > *«In cosa ORA! si differenzia da Azione sulla politica industriale?»*
+> *(How does ORA! differ from Azione on industrial policy?)*
 
-Risposta attesa: due lati esplicitati — posizione di ORA! e di Azione —
-in modo bilanciato.
+Expected response: two sides spelled out — ORA!'s position and Azione's — in a balanced way.
 
-**4. Caso limite: il sistema NON inventa**
+**4. Edge case: the system does NOT invent**
 
 > *«Qual è la posizione di ORA! sulla colonizzazione di Marte?»*
+> *(What is ORA!'s position on the colonization of Mars?)*
 
-Risposta attesa: l'assistente **dichiara esplicitamente** che il partito
-non ha articolato una posizione, invece di inventarne una. È una proprietà
-chiave del design — l'MCP non costringe l'AI a sintetizzare quando manca
-la fonte ufficiale.
+Expected response: the assistant **explicitly states** that the party hasn't articulated a position, instead of inventing one. This is a key design property — the MCP doesn't force the AI to synthesize when the official source is silent.
 
 ---
 
-## Cosa l'MCP fa (e cosa NON fa)
+## What the MCP does (and doesn't do)
 
-✅ **Fa:**
-- Restituisce chunk testuali del corpus, organizzati per affidabilità
-  (voce del partito / leader / dati / confronto)
-- Lascia all'assistente AI la composizione della risposta, citando le
-  fonti
-- Funziona con qualsiasi client MCP — claude.ai, Claude Desktop, Cursor,
-  ChatGPT con MCP, ecc.
+**Does:**
+- Returns text chunks from the corpus, organized by trust tier (party voice / leaders / data / comparison)
+- Leaves the answer composition to the AI assistant, with sources cited
+- Works with any MCP client — claude.ai, Claude Desktop, Cursor, ChatGPT with MCP, etc.
 
-❌ **Non fa:**
-- Non parla a nome del partito — il server fornisce solo le fonti
-- Non risponde a domande personali sui fondatori al di fuori della
-  loro attività politica
-- Non sostituisce il sito ufficiale `ora-italia.it`
+**Doesn't:**
+- Doesn't speak for the party — the server only provides sources
+- Doesn't answer personal questions about the founders outside their political activity
+- Isn't a replacement for the official party website `ora-italia.it`
 
 ---
 
-## Per disinstallare
+## To uninstall
 
-- **claude.ai:** vai a `claude.ai/customize/connectors`, trova `ora`,
-  clicca per rimuoverlo.
-- **Claude Desktop:** rimuovi il blocco `"ora": {...}` da
-  `claude_desktop_config.json` e riavvia l'app.
+- **claude.ai:** go to `claude.ai/customize/connectors`, find `ora`, click to remove.
+- **Claude Desktop:** remove the `"ora": {...}` block from `claude_desktop_config.json` and restart the app.
 
-Nessun file viene lasciato sul tuo sistema.
+Nothing is left on your system afterwards.
 
 ---
 
-## Domande tecniche?
+## Technical questions?
 
-Contatta **Riccardo Ceccaroni** — `riccardoceccaroni02@gmail.com`.
+Contact **Riccardo Ceccaroni** — `riccardoceccaroni02@gmail.com`.

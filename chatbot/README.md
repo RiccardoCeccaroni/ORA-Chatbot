@@ -1,10 +1,10 @@
 # ORA Chatbot
 
-A personal project: an **Agentic-RAG chatbot** built around the published material of **ORA**, the Italian centrist party founded by Michele Boldrin and Alberto Forchielli. It answers questions about ORA's positions, leaders' views, and how ORA compares to other Italian parties — always grounded in cited sources.
+A personal project: an **Agentic-RAG chatbot** built around the published material of **ORA!**, the Italian centrist party founded by Michele Boldrin and Alberto Forchielli. It answers questions about ORA's positions, leaders' views, and how ORA compares to other Italian parties — always grounded in cited sources.
 
 *This is an independent project and is not affiliated with or endorsed by ORA.*
 
-This repository is an end-to-end build: corpus, ingestion pipeline, retrieval index, agent runtime, and evaluation artifacts.
+This subdir holds the chatbot's design and runtime code. The shared corpus and ingestion pipeline live in the sibling [`../ora-mcp/`](../ora-mcp/) project.
 
 ---
 
@@ -26,27 +26,25 @@ A synthesizer (Claude Opus 4.7) composes an answer with every claim cited to a s
 3. **Justify** — always motivate the position; cite data on empirical questions.
 4. **Compare** — on request, contrast ORA with PD, M5S, FdI, Lega, FI, AVS, Azione, IV.
 
-## Repository layout
+## Layout
 
 ```
 .
 ├── decisions/           25 architectural decisions (the audit trail)
-├── corpus/              ~592 retrievable documents across 4 trust tiers
-│   ├── ora-party/         Tier A1 — official party voice
-│   ├── leaders/           Tier A2 — Boldrin & Forchielli (gap-fill, always cited as personal)
-│   ├── other-parties/     Tier 3 — comparison corpus (retrieved only on explicit comparisons)
-│   └── data/              ISTAT stat-cards for empirical questions
 ├── agent/               Runtime — orchestrator, system prompt, tools, CLI
-└── build/               Pipeline that turned the corpus into a searchable index
+└── build/               Chatbot-specific build artifacts
+    ├── postgres_schema.sql   Schema for the conversation-logging Postgres table
+    ├── render_docx.py        Renders eval-set outputs to Word documents
+    └── run_eval.py           Eval harness driving the agent against a fixed question set
 ```
 
-Evaluation sets, rubric, and run outputs are kept separately and not included in this repository.
+The **shared corpus** (party material, leader profiles, comparison parties, statistical cards) and the **shared ingestion pipeline** (chunking, embedding, Qdrant ingest, YouTube transcription) live in [`../ora-mcp/corpus/`](../ora-mcp/corpus/) and [`../ora-mcp/build/`](../ora-mcp/build/). Both projects read from the same Qdrant Cloud index (`ora_chunks`).
 
 ## How to read it
 
 1. **`decisions/`** — 25 markdown files in numbered order, one per architectural fork. The full design rationale lives here (chunking, embedding, vector store, retrieval, generation model, guardrails, evaluation, persona, etc.).
 2. **`agent/`** — the runtime code. Entry point: `agent/cli.py`. Orchestration: `agent/orchestrator.py`. System prompt: `agent/system_prompt.py`.
-3. **`corpus/`** — browse a few `ora-party/manifesto/*.md` files to see what the bot retrieves.
+3. **`../ora-mcp/corpus/`** — browse a few `ora-party/manifesto/*.md` files to see what the bot retrieves.
 
 ## Stack
 
@@ -54,21 +52,21 @@ Evaluation sets, rubric, and run outputs are kept separately and not included in
 - **Vector store:** Qdrant Cloud (free tier), dense-only in v1
 - **Reranker:** Voyage `voyage-rerank-2.5`
 - **Generation:** Claude Opus 4.7 (synthesizer), Claude Haiku 4.5 (verifier)
-- **Logging:** Postgres (Neon)
+- **Logging:** Postgres (Neon) — schema in `build/postgres_schema.sql`
 - **Orchestration:** native Anthropic SDK + custom Python (no LangChain / LlamaIndex)
 
 ## Running it locally
 
-The repository ships **without** any API keys — they are excluded by `.gitignore`. If you want to run the bot yourself, you'll need to bring your own keys for every external service the bot talks to.
+The repository ships **without** any API keys — they are excluded by `.gitignore`. To run the bot yourself you'll need to bring your own keys for every external service the bot talks to, plus a populated Qdrant index.
 
-**1. Create `.env` at the repository root:**
+**1. Create `.env`** at the monorepo root:
 
 ```
 ASSEMBLYAI_API_KEY=your_assemblyai_key
 ANTHROPIC_API_KEY=your_anthropic_key
 ```
 
-**2. Create `build/.secrets/api keys.txt`** with the credentials the build/runtime scripts read (see `agent/secrets.py`):
+**2. Create `build/.secrets/api keys.txt`** with the credentials the runtime reads (see `agent/secrets.py`):
 
 ```
 cluster: <your Qdrant API key>
@@ -79,11 +77,20 @@ postgres: <your Postgres connection string>
 openaikey: <your OpenAI key>
 ```
 
-If you want the weekly-run error notifier (`build/youtube_pipeline/`), also create `build/.secrets/gmail_app_password.txt` with a Gmail app password.
+**3. Populate the Qdrant index.** The chatbot reads from the same `ora_chunks` collection that the MCP uses. Either ingest the corpus yourself via the sibling pipeline:
 
-**3. Install Python dependencies** (see imports in `agent/` and `build/`).
+```
+cd ../ora-mcp
+pip install ".[build]"
+python build/chunk_corpus.py --apply
+python build/ingest_qdrant.py --apply
+```
 
-**4. Run the bot:**
+…or point your Qdrant credentials at an existing populated index.
+
+**4. Install Python dependencies** (see imports in `agent/` and `build/`).
+
+**5. Run the bot:**
 
 ```
 python -m agent.cli
@@ -93,7 +100,7 @@ Be aware: the bot calls Anthropic (Opus + Haiku), Voyage (embeddings + reranker)
 
 ## Status
 
-Post-MVP. RAG index live (3,665 chunks in Qdrant). All 25 architectural decisions are **DECIDED**.
+Post-MVP. All 25 architectural decisions are **DECIDED**.
 
 ## Author
 

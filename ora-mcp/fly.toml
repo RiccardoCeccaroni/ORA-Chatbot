@@ -1,0 +1,42 @@
+# Fly.io app config for the ORA! MCP server demo.
+#
+# Provision flow (run from this directory after installing flyctl):
+#   fly launch --no-deploy --copy-config --name ora-mcp
+#   fly secrets set QDRANT_URL=... QDRANT_API_KEY=... VOYAGE_API_KEY=...
+#   fly deploy
+#
+# Resulting endpoint: https://ora-mcp.fly.dev/mcp
+
+app = "ora-mcp-claudeai"
+primary_region = "fra"   # Frankfurt — closest Fly region to Italy
+
+[build]
+
+[env]
+  HOST = "0.0.0.0"
+  PORT = "8000"
+  RATE_LIMIT_PER_MINUTE = "30"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = false      # keep the single machine always warm for the demo (avoid cold starts)
+  auto_start_machines = true
+  min_machines_running = 1   # always-warm for the demo period; flip to 0 after to reduce cost
+  processes = ["app"]
+
+  [http_service.concurrency]
+    type = "requests"
+    soft_limit = 50
+    hard_limit = 100
+
+[[http_service.checks]]
+  grace_period = "10s"
+  interval = "30s"
+  method = "GET"
+  timeout = "5s"
+  path = "/health"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ora": {
+      "type": "http",
+      "url": "https://ora-mcp-claudeai.fly.dev/mcp"
+    }
+  }
+}

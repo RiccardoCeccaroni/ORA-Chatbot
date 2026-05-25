@@ -1,0 +1,79 @@
+---
+id: 2025-10-10__01__newsletter-ora-del-10-ottobre
+type: newsletter_section
+attribution: party
+parent_newsletter: 2025-10-10
+section_index: 1
+section_title: "(intero numero)"
+tesi_alignment: null
+section_speaker: null
+title: "Newsletter ORA del 10 ottobre"
+date_published: 2025-10-10
+date_scraped: 2026-05-10
+gmail_thread_id: ""
+source_note: pdf-extraction
+parent_co_speakers: []
+content_hash: 8351b7e1c4708561670fd9ab1769d74ce08c92ca226fa34aa747ca70110e83fb
+corpus_status: exclude
+---
+
+Oggetto: Ora! Il Congresso
+Ciao,
+Dopo mesi di lavoro dei gruppi tematici, che hanno coinvolto centinaia di iscritti e la produzione di 288
+Tesi Congressuali, il percorso di formazione del programma ha raggiunto un punto decisivo.
+Le votazioni sulle 23 Tesi Programmatiche , i documenti di sintesi derivanti dalle Tesi Congressuali,
+si sono concluse: tutte hanno ottenuto più del 50% di consensi tra i votanti non astenuti.
+Le seguenti tesi, pur approvate, hanno registrato meno del 67% di voti favorevoli e saranno quindi
+oggetto di ulteriore discussione durante il Congresso :
+● Agricoltura, Foreste e Sviluppo Rurale
+● Diritti Civili, Pari Opportunità e Inclusione
+● Governance, Riforme Istituzionali ed Elettorali (Cittadinanza)
+● Governance, Riforme Istituzionali ed Elettorali (Laicità)
+● Interni
+Puoi rivedere la presentazione delle Tesi Programmatiche sul primo canale YouTube . I testi saranno
+poi disponibili sul nuovo sito del partito.
+
+Verso il Congresso
+Le candidature dei Delegati per Assemblea, Consiglio Direttivo e Segretario sono disponibili in Area
+Riservata del sito. La candidatura a Presidente resta aperta fino alle ore 12:00 dell’11 ottobre.
+Assemblea e Segretario saranno eletti dai 373 Delegati al Congresso . L’Assemblea eleggerà
+successivamente il Presidente e il Consiglio Direttivo .
+Nelle ultime settimane il lavoro dei team operativi è stato intenso e continuo.
+Il team GitHub ha realizzato un sistema unico in Italia che consente a un partito politico di proporre e
+votare online testi di posizionamento e tesi programmatiche, il cui contenuto è stato frutto di un
+grande lavoro di sintesi coordinato dalla Commissione Programma .
+Il team Comunicazione ha gestito diverse campagne parallele: dal lancio del nuovo nome alle attività
+sui social media, dal racconto dei lavori sulle tesi su YouTube all’organizzazione di spazi di
+presentazione e dibattito per i Delegati su YouTube e Discord.
+Il team Sistemi Informativi è al lavoro sul nuovo sito e sul sistema di reiscrizioni, oltre a garantire il
+supporto tecnico e logistico per il Congresso.
+Il team Eventi sta definendo il calendario delle prossime iniziative, che partiranno già dal 14 ottobre, e
+in supporto alla squadra di coordinamento del Veneto cura l’organizzazione e logistica del
+Congresso di Abano Terme.
+Sostieni il Congresso ORA!
+Il Congresso darà ufficialmente inizio ad un nuovo percorso. E’ tutto pronto per l’evento che segnerà
+la fondazione ufficiale del nostro partito.
+Dal 13 ottobre, ci aspetta il lancio del libro e una serie di eventi per la presentazione, un tour in
+diverse città italiane, l’attivazione territoriale con banchetti e attività l’8 novembre in più comuni
+possibili. Perché questo Congresso sia un vero punto di partenza, abbiamo bisogno anche del tuo
+aiuto .
+Con una donazione ci aiuti a finanziare l’organizzazione e a costruire un partito solido, pronto ad agire
+ORA!
+Sostieni il Congresso → https://movimentodrindrin.it/moduli/sostieni-congresso/
+Team Drin Drin ORA!
+3 ottobre discord
+Ciao @everyone, le candidature dei Delegati per Assemblea , Consiglio Direttivo e Segretario
+(scadenza 1 ottobre) sono ORA disponibili in Area Riservata:
+https://movimentodrindrin.it/conto-iscrizione/
+
+● La candidatura a Presidente resta aperta fino alle ore 12:00 dell’11 ottobre.
+● Assemblea e Segretario saranno eletti dai 373 Delegati al Congresso del 11-12 ottobre.
+● L’Assemblea (100 membri + 21 coordinatori locali) eleggerà Presidente e Consiglio
+Direttivo.
+Presentazioni e dibattiti
+● Segui la presentazione delle Tesi Programmatiche sul primo canale (voto su GitHub per
+Delegati è in corso, e aperto fino al 7/10)
+https://www.youtube.com/@MovimentoDrinDrin
+● Segui le presentazioni e dibattiti pubblici dei Delegati candidati agli organi nazionali sul
+secondo canale Radio Drin Drin (e prossimamente sui palchi Discord)
+https://www.youtube.com/@RadioDrinDrin

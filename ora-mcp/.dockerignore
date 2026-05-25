@@ -1,0 +1,26 @@
+# Things the MCP server doesn't need at runtime.
+# Keep the Fly.io image slim.
+
+corpus/
+build/
+demo/
+tests/
+
+.git/
+.gitignore
+.env
+.env.example
+*.md
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

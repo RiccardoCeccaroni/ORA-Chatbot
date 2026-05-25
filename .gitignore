@@ -1,15 +1,5 @@
-# Secrets — never commit
-.env
-.env.*
-build/.secrets/
-**/api keys.txt
-**/gmail_app_password.txt
-
-# Internal artifacts — not for the shared repo
-docs/
-evaluation/
-CLEANUP_LOG.md
-CLAUDE.md
+# Root-level ignores. Subdir-specific ignores live in chatbot/.gitignore
+# and ora-mcp/.gitignore.
 
 # Editor / OS
 .obsidian/
@@ -17,13 +7,13 @@ CLAUDE.md
 .idea/
 .DS_Store
 Thumbs.db
+*.swp
 
-# Python
+# Python (catch-all in case a venv lands at root)
 __pycache__/
 *.py[cod]
-*.egg-info/
 .venv/
 venv/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
+
+# AI-collaboration scaffolding (kept locally, not committed)
+CLAUDE.md

@@ -1,0 +1,29 @@
+# Secrets — never commit
+.env
+.env.*
+build/.secrets/
+**/api keys.txt
+**/gmail_app_password.txt
+
+# Internal artifacts — not for the shared repo
+docs/
+evaluation/
+CLEANUP_LOG.md
+CLAUDE.md
+
+# Editor / OS
+.obsidian/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

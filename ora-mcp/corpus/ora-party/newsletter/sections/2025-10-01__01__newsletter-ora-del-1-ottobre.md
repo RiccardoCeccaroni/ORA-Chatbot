@@ -1,0 +1,55 @@
+---
+id: 2025-10-01__01__newsletter-ora-del-1-ottobre
+type: newsletter_section
+attribution: party
+parent_newsletter: 2025-10-01
+section_index: 1
+section_title: "(intero numero)"
+tesi_alignment: null
+section_speaker: null
+title: "Newsletter ORA del 1 ottobre"
+date_published: 2025-10-01
+date_scraped: 2026-05-10
+gmail_thread_id: ""
+source_note: pdf-extraction
+parent_co_speakers: []
+content_hash: be7acc75eaf8f0045965af0973e55050c2d515b2ae64766211fa3340b3edc19e
+corpus_status: exclude
+---
+
+Oggetto: ORA! Il Coraggio dell’Ovvio
+Caro Iscritto,
+il nostro percorso di rinnovamento arriva a un passaggio decisivo: con un processo che ha coinvolto
+iscritti, delegati e contributi esterni abbiamo scelto il nuovo nome del partito che stiamo creando.
+Il processo, in sintesi
+● Tutto è partito dai contributi raccolti in diversi mesi dagli iscritti su Discord ( oltre 4.000
+messaggi e centinaia di partecipanti), da cui sono emersi i 25 nomi più citati .
+● In una seconda fase sono stati coinvolti direttamente iscritti e delegati, con una raccolta di
+feedback sulle proposte e sulla visione complessiva del partito, che ha portato a 3.000 input
+su nomi, concetti e valori distintivi del partito .
+● I risultati sono stati analizzati con esperti di comunicazione e con il team interno, fino a
+definire la top 5 .
+● La scelta finale del nome è stata infine votata direttamente da più del 70% dei delegati .
+
+Da oggi Drin Drin prende il nome ORA! a cui affiancheremo Il Coraggio dell’Ovvio come frase di
+supporto per le campagne in arrivo.
+L’evoluzione da Drin Drin a ORA! segna un passaggio decisivo: la sveglia è suonata, adesso è il
+momento di agire. Vogliamo mettere a disposizione capacità e responsabilità per affrontare i
+problemi reali del Paese , proporre soluzioni basate sui dati e non sulla retorica, costruire un
+metodo fondato su responsabilità personale e partecipazione , e avere la determinazione di
+sostenere posizioni giuste anche quando sono impopolari .
+Di fronte al declino italiano , che si manifesta nella stagnazione economica, nel degrado istituzionale
+e nella perdita di fiducia collettiva, non possiamo più rimandare: il tempo dell’attesa è finito, con
+coraggio, pragmatismo e credibilità, bisogna agire ORA!
+Segui la live e festeggia questo momento con tutta la squadra, oggi alle ore 18.00.
+👉 Sostieni il Congresso ORA!
+I preparativi per il Congresso sono in corso, stiamo organizzando l’agenda, i Delegati stanno
+lavorando sulle Tesi Programmatiche su GitHub e i team operativi stanno organizzando le prossime
+campagne e serie di eventi, che inizieranno già dal 14 ottobre. Perché il Congresso sia un vero punto
+di partenza, abbiamo bisogno anche del tuo supporto .
+Con una donazione ci aiuti a finanziare l’organizzazione del Congresso e a costruire un partito solido,
+pronto a partire dal giorno 1.
+Sostieni il congress o
+Il Congresso è alle porte. Costruiamo insieme un’alternativa per l’Italia.
+Con coraggio,
+Team Drin Drin ORA!

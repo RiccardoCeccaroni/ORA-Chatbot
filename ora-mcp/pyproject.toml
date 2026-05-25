@@ -1,0 +1,43 @@
+[project]
+name = "ora-mcp-claudeai"
+version = "0.1.0"
+description = "MCP server exposing ORA!'s curated corpus (party positions, leader views, ISTAT data) to AI assistants."
+requires-python = ">=3.11"
+authors = [
+    { name = "Riccardo Ceccaroni", email = "riccardoceccaroni02@gmail.com" },
+]
+dependencies = [
+    "mcp[cli]>=1.2.0",
+    "qdrant-client>=1.12.0",
+    "voyageai>=0.3.0",
+    "starlette>=0.40.0",
+    "uvicorn[standard]>=0.32.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.24",
+    "httpx>=0.27",
+]
+# Install with `pip install .[build]` to run the corpus maintenance scripts
+# in ./build/ (chunk_corpus.py, ingest_qdrant.py, audit_frontmatter.py).
+# Not needed for running the MCP server itself.
+build = [
+    "pyyaml>=6.0",
+    "tiktoken>=0.7",
+]
+# Install with `pip install .[youtube]` to run the optional ingest pipeline
+# under build/youtube_pipeline/. Not needed for the MCP server.
+youtube = [
+    "anthropic>=0.40",
+    "openai>=1.40",
+    "imageio-ffmpeg>=0.5",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["ora_mcp"]
